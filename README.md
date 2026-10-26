@@ -79,15 +79,6 @@ A coorte “2º turno · 17h05+” usa confirmação presidencial estritamente d
 
 Não foi implementada validação criptográfica das assinaturas oficiais. SHA-256 permite identificar os arquivos recebidos, mas não substitui essa validação.
 
-## Publicação opcional no GitHub Pages
-
-Há um workflow manual em `.github/workflows/pages.yml`, que publica **somente `public/`**, sem executar coleta. Para habilitar:
-
-1. No GitHub, abra **Settings → Pages → Source → GitHub Actions**.
-2. Em **Actions → Publicar relatório no Pages**, execute **Run workflow**.
-
-Isso é opcional; o clone e o servidor local já funcionam sem configurar Pages. [Documentação oficial](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
-
 ## Fontes e procedência
 
 Os endpoints e a documentação do TSE, a malha do IBGE e os documentos citados estão registrados em `docs/`, nos agregados e no PDF. Os metadados em `assets/bootstrap/` são uma referência congelada para reprodução; a etapa de relatório consulta novamente os totais nacionais e interrompe a auditoria se a referência tiver mudado. Consulte [NOTICE.md](NOTICE.md) para a distinção entre código, documentos de terceiros e artefatos gerados.
