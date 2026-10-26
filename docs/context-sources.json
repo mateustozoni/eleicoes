@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "title": "Justiça Eleitoral - Curso de mesários, módulo 6, encerramento da votação",
+      "url": "https://www.justicaeleitoral.jus.br/mesario/cursos/mesarios-brasil/m6-o-que-fazer-apos-a-votacao/a1-encerramento-da-votacao/index.html",
+      "kind": "official_training",
+      "supported_point": "Na rotina ordinária, o encerramento começa a partir das 17h, após atendimento de quem está na fila. Um BU encerrado após 17h não demonstra, isoladamente, recebimento de novos eleitores pela prorrogação."
+    },
+    {
+      "title": "TSE - Esclarecimento sobre prorrogação da votação",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/esclarecimento-sobre-prorrogacao-da-votacao",
+      "published": "2026-10-25 18:44 America/Sao_Paulo",
+      "kind": "official_statement",
+      "supported_point": "O TSE informou continuidade nos locais cuja votação não havia sido encerrada às 17h. A nota não revela o instante em que cada seção recebeu a orientação."
+    },
+    {
+      "title": "TSE - O que acontece nas seções eleitorais após as 17h",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/o-que-acontece-nas-secoes-eleitorais-apos-as-17h-entenda-as-regras-de-seguranca-e-fiscalizacao",
+      "kind": "official_explanation",
+      "supported_point": "Fim do horário ordinário não coincide necessariamente com fim do atendimento à fila ou dos procedimentos administrativos."
+    }
+  ],
+  "not_identified_by_logs_alone": [
+    "Chegada física do eleitor e tempo de espera na fila",
+    "Eleitores que desistiram ou foram impedidos de chegar",
+    "Momento da comunicação da decisão a cada mesa",
+    "Preferência dos abstentes e escolha por candidato em cada horário",
+    "Efeito causal da prorrogação sobre participação ou resultado"
+  ]
+}

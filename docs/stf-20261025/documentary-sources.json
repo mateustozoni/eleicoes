@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-25",
+  "timezone": "America/Sao_Paulo",
+  "signature_time_verified": false,
+  "choice": "earliest_documented_explicit_judges_notification_not_national_first",
+  "average_used": false,
+  "anchors": [
+    {
+      "id": "recebimento",
+      "second": 59569,
+      "label": "16h32min49s · fatos recebidos no STF",
+      "kind": "recebimento_dos_fatos",
+      "scope": "br",
+      "precision": "segundo registrado no texto",
+      "source": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/10/25183103/liminar-urgente.pdf",
+      "note": "Não é a hora de assinatura ou publicação."
+    },
+    {
+      "id": "criacao_pdf",
+      "second": 61307,
+      "label": "17h01min47s · criação do PDF",
+      "kind": "metadado_do_arquivo",
+      "scope": "br",
+      "precision": "segundo nos metadados",
+      "source": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/10/25183103/liminar-urgente.pdf",
+      "note": "Metadado da cópia publicada; não certifica assinatura nem ciência das mesas."
+    },
+    {
+      "id": "juizes_sp",
+      "second": 62280,
+      "label": "17h18 · comunicação aos juízes de SP",
+      "kind": "comunicacao_aos_juizes",
+      "scope": "sp",
+      "precision": "minuto informado pelo TRE-SP",
+      "source": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/comunicado-oficial-tre-sp-1",
+      "note": "Menor horário explícito localizado; não comprova o primeiro horário nacional nem recebimento simultâneo por cada juiz ou mesa."
+    }
+  ],
+  "regional": [
+    {
+      "uf": "sp",
+      "second": 62280,
+      "label": "17h18",
+      "precision": "minuto explícito",
+      "source": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/comunicado-oficial-tre-sp-1",
+      "source_type": "fonte primária oficial",
+      "explicit_minute": true
+    },
+    {
+      "uf": "mg",
+      "second": 64800,
+      "label": "por volta de 18h",
+      "precision": "aproximado; orientação imediatamente após recebimento por volta de 18h",
+      "source": "https://www.tre-mg.jus.br/comunicacao/noticias/2026/Outubro/minas-gerais-teve-votacao-tranquila-no-2o-turno-das-eleicoes-2026",
+      "source_type": "fonte primária oficial",
+      "explicit_minute": false
+    },
+    {
+      "uf": "to",
+      "second": 64800,
+      "label": "18h",
+      "precision": "minuto informado em nota atribuída ao TRE-TO",
+      "source": "https://agora-to.com.br/tre-to-cumpre-determinacao-de-ampliar-votacao-ate-19h/",
+      "source_type": "nota reproduzida pela imprensa; página original não localizada",
+      "explicit_minute": true
+    }
+  ],
+  "additional": [
+    {
+      "uf": "sp",
+      "time": "17h16",
+      "event": "confirmação por telefone com o TSE",
+      "source": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/comunicado-oficial-tre-sp-1"
+    },
+    {
+      "uf": "sp",
+      "time": "18h16",
+      "event": "recebimento de e-mail do TSE",
+      "source": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/comunicado-oficial-tre-sp-1"
+    },
+    {
+      "uf": "mg",
+      "time": "18h26 e 18h28",
+      "event": "assinaturas do ofício regional; não são horários de ciência dos juízes",
+      "source": "https://www.tre-mg.jus.br/comunicacao/noticias/arquivos/oficio-circular-no-59-2026-pre"
+    }
+  ],
+  "missing_hours": {
+    "uf": "sc",
+    "source": "https://www.tre-sc.jus.br/comunicacao/noticias/2026/Outubro/nota-de-esclarecimento",
+    "note": "Afirma comunicação aos juízes sem informar horário; não entra na seleção do mínimo."
+  },
+  "search_coverage_note": "Pesquisa em fontes oficiais e reproduções documentais; não é censo das 27 UFs. Ausência de horário encontrado não significa ausência de comunicação."
+}

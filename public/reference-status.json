@@ -1,0 +1,147 @@
+{
+  "state": "finished",
+  "planned": 5400,
+  "processed": 5400,
+  "downloaded_bytes": 6665165052,
+  "completed_ufs": [
+    "ac",
+    "al",
+    "am",
+    "ap",
+    "ba",
+    "ce",
+    "df",
+    "es",
+    "go",
+    "ma",
+    "mg",
+    "ms",
+    "mt",
+    "pa",
+    "pb",
+    "pe",
+    "pi",
+    "pr",
+    "rj",
+    "rn",
+    "ro",
+    "rr",
+    "rs",
+    "sc",
+    "se",
+    "sp",
+    "to"
+  ],
+  "errors": [],
+  "per_uf": {
+    "ac": {
+      "processed": 200,
+      "planned": 200
+    },
+    "al": {
+      "processed": 200,
+      "planned": 200
+    },
+    "am": {
+      "processed": 200,
+      "planned": 200
+    },
+    "ap": {
+      "processed": 200,
+      "planned": 200
+    },
+    "ba": {
+      "processed": 200,
+      "planned": 200
+    },
+    "ce": {
+      "processed": 200,
+      "planned": 200
+    },
+    "df": {
+      "processed": 200,
+      "planned": 200
+    },
+    "es": {
+      "processed": 200,
+      "planned": 200
+    },
+    "go": {
+      "processed": 200,
+      "planned": 200
+    },
+    "ma": {
+      "processed": 200,
+      "planned": 200
+    },
+    "mg": {
+      "processed": 200,
+      "planned": 200
+    },
+    "ms": {
+      "processed": 200,
+      "planned": 200
+    },
+    "mt": {
+      "processed": 200,
+      "planned": 200
+    },
+    "pa": {
+      "processed": 200,
+      "planned": 200
+    },
+    "pb": {
+      "processed": 200,
+      "planned": 200
+    },
+    "pe": {
+      "processed": 200,
+      "planned": 200
+    },
+    "pi": {
+      "processed": 200,
+      "planned": 200
+    },
+    "pr": {
+      "processed": 200,
+      "planned": 200
+    },
+    "rj": {
+      "processed": 200,
+      "planned": 200
+    },
+    "rn": {
+      "processed": 200,
+      "planned": 200
+    },
+    "ro": {
+      "processed": 200,
+      "planned": 200
+    },
+    "rr": {
+      "processed": 200,
+      "planned": 200
+    },
+    "rs": {
+      "processed": 200,
+      "planned": 200
+    },
+    "sc": {
+      "processed": 200,
+      "planned": 200
+    },
+    "se": {
+      "processed": 200,
+      "planned": 200
+    },
+    "sp": {
+      "processed": 200,
+      "planned": 200
+    },
+    "to": {
+      "processed": 200,
+      "planned": 200
+    }
+  },
+  "updated_utc": "2026-10-26T04:31:46.539488+00:00"
+}

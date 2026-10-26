@@ -1,0 +1,14 @@
+{
+  "state": "finished",
+  "pdf_ready": true,
+  "verified": true,
+  "pdf": "pdf/relatorio-presidencial-2026.pdf",
+  "pdf_pages": 52,
+  "pdf_sha256": "a3461e09be46c1a7e869be09d542daabd810a9a65168ca71fa86241bd90a4ef4",
+  "cutoff_seconds": 61500,
+  "documentary_extra": true,
+  "updated_utc": "2026-10-26T15:30:32.186031+00:00",
+  "note": "Concluído: extra dos marcos 16:32:49, 17:01:47 e 17h18 (SP, menor explícito localizado), sem média; PDF de 52 páginas revisado.",
+  "publication_paragraph_removed": true,
+  "local_address_replaced_by_repository": true
+}

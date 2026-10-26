@@ -1,0 +1,263 @@
+{
+  "state": "finished",
+  "planned": 28,
+  "completed": 28,
+  "errors": 0,
+  "downloaded_gib": 88.54,
+  "known_total_gib": 88.54,
+  "files": {
+    "ac": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_AC.zip",
+      "downloaded_bytes": 393536972,
+      "total_bytes": 393536972,
+      "etag": "\"1774e5cc-65e7311507740\"",
+      "last_modified": "Thu, 22 Oct 2026 19:42:45 GMT",
+      "sha256": "2c0ff442fa4275b1a6b9c7af3c5ceb883f86a7240063ee5f192e3391f025398e"
+    },
+    "al": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_AL.zip",
+      "downloaded_bytes": 1404372980,
+      "total_bytes": 1404372980,
+      "etag": "\"53b507f4-65e7314b63780\"",
+      "last_modified": "Thu, 22 Oct 2026 19:43:42 GMT",
+      "sha256": "c755b0fdcf246930d3ef05fdee49d55bf11c7fb4dde4dcf1e4efc75b27f4f955"
+    },
+    "am": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_AM.zip",
+      "downloaded_bytes": 1595550575,
+      "total_bytes": 1595550575,
+      "etag": "\"5f1a2b6f-65e7318778540\"",
+      "last_modified": "Thu, 22 Oct 2026 19:44:45 GMT",
+      "sha256": "b81ed1a10a58b30087553ef51a5de1b09a38297ab972bfe5ae4e3bb499df1fd6"
+    },
+    "ap": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_AP.zip",
+      "downloaded_bytes": 351213339,
+      "total_bytes": 351213339,
+      "etag": "\"14ef171b-65e73193de280\"",
+      "last_modified": "Thu, 22 Oct 2026 19:44:58 GMT",
+      "sha256": "70e4f589b6c34bcc9dc549d739bd56359ea346f88979c051c17da50eec74fbad"
+    },
+    "ba": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_BA.zip",
+      "downloaded_bytes": 6967798815,
+      "total_bytes": 6967798815,
+      "etag": "\"19f502c1f-65e732a0cdd00\"",
+      "last_modified": "Thu, 22 Oct 2026 19:49:40 GMT",
+      "sha256": "1f690b901b3fbf2f50e5d685ee169fc625ddb0a2e386b2140605add65ea8938f"
+    },
+    "ce": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_CE.zip",
+      "downloaded_bytes": 4506414880,
+      "total_bytes": 4506414880,
+      "etag": "\"10c9a6f20-65e733499ab40\"",
+      "last_modified": "Thu, 22 Oct 2026 19:52:37 GMT",
+      "sha256": "f541108ef93e7e924774fb6d9d11831c970a43d469c99d41ad61521c82103852"
+    },
+    "df": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_DF.zip",
+      "downloaded_bytes": 1347108781,
+      "total_bytes": 1347108781,
+      "etag": "\"504b3fad-65e7337949bc0\"",
+      "last_modified": "Thu, 22 Oct 2026 19:53:27 GMT",
+      "sha256": "d08a0102c401fed461d7a1f61baf5be55b6e2e7151529489be75fb1f62bc119c"
+    },
+    "es": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_ES.zip",
+      "downloaded_bytes": 1799395069,
+      "total_bytes": 1799395069,
+      "etag": "\"6b4096fd-65e733b746e00\"",
+      "last_modified": "Thu, 22 Oct 2026 19:54:32 GMT",
+      "sha256": "3c54ee812e31b6bfe0a52764fe69528e84700fd22f038bc48aab2f7eec51134b"
+    },
+    "go": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_GO.zip",
+      "downloaded_bytes": 3001376540,
+      "total_bytes": 3001376540,
+      "etag": "\"b2e55f1c-65e73423fee80\"",
+      "last_modified": "Thu, 22 Oct 2026 19:56:26 GMT",
+      "sha256": "cd6c103f7dcbebbbce160005354b648422344fedce4499881d499b2ee17f1639"
+    },
+    "ma": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_MA.zip",
+      "downloaded_bytes": 3266352554,
+      "total_bytes": 3266352554,
+      "etag": "\"c2b095aa-65e7349b347c0\"",
+      "last_modified": "Thu, 22 Oct 2026 19:58:31 GMT",
+      "sha256": "a50d61521428443720a3265003f499489dffd88a12348818f29f97b4883e7928"
+    },
+    "mg": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_MG.zip",
+      "downloaded_bytes": 9638569036,
+      "total_bytes": 9638569036,
+      "etag": "\"23e80e44c-65e735fa283c0\"",
+      "last_modified": "Thu, 22 Oct 2026 20:04:39 GMT",
+      "sha256": "ae13b6a76492cadbbda588dd61708fc84fb86a7b5718ed3509bb7a7b7fbe9e64"
+    },
+    "ms": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_MS.zip",
+      "downloaded_bytes": 1238255431,
+      "total_bytes": 1238255431,
+      "etag": "\"49ce4747-65e7362acb680\"",
+      "last_modified": "Thu, 22 Oct 2026 20:05:30 GMT",
+      "sha256": "ffe88a0df20af344347f03fbc91894f9352c8f70b6dcc1fc567548e050258c07"
+    },
+    "mt": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_MT.zip",
+      "downloaded_bytes": 1537057359,
+      "total_bytes": 1537057359,
+      "etag": "\"5b9da24f-65e736743a3c0\"",
+      "last_modified": "Thu, 22 Oct 2026 20:06:47 GMT",
+      "sha256": "d4951725238d4da83e02bc83ea35ae0cd82d85b6e4ce2c93b83a579782118c25"
+    },
+    "pa": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_PA.zip",
+      "downloaded_bytes": 3851198257,
+      "total_bytes": 3851198257,
+      "etag": "\"e58c9f31-65e7373d73e80\"",
+      "last_modified": "Thu, 22 Oct 2026 20:10:18 GMT",
+      "sha256": "f4067cfbeb0c8d28ccb09a7d3f0395ed401b03e0e4d2704a4c260dd1ecc7a9f0"
+    },
+    "pb": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_PB.zip",
+      "downloaded_bytes": 2017890630,
+      "total_bytes": 2017890630,
+      "etag": "\"78469146-65e737a65b600\"",
+      "last_modified": "Thu, 22 Oct 2026 20:12:08 GMT",
+      "sha256": "48c2c9b32343fcf5702beee2b3bd329ad5ad2836c084108cfdf9444aa90a5c77"
+    },
+    "pe": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_PE.zip",
+      "downloaded_bytes": 4297820068,
+      "total_bytes": 4297820068,
+      "etag": "\"1002b87a4-65e7387459c00\"",
+      "last_modified": "Thu, 22 Oct 2026 20:15:44 GMT",
+      "sha256": "70944a04fec21d5d2218a11ef14250cd04b7f25474851ae030746d71f4afb5a3"
+    },
+    "pi": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_PI.zip",
+      "downloaded_bytes": 1820165179,
+      "total_bytes": 1820165179,
+      "etag": "\"6c7d843b-65e738cfe7400\"",
+      "last_modified": "Thu, 22 Oct 2026 20:17:20 GMT",
+      "sha256": "3ea87d8ed245126e35cdc73cfc4c45b98a33ea84327698eb55555b6219ff91d8"
+    },
+    "pr": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_PR.zip",
+      "downloaded_bytes": 5175339811,
+      "total_bytes": 5175339811,
+      "etag": "\"134796b23-65e739cab83c0\"",
+      "last_modified": "Thu, 22 Oct 2026 20:21:43 GMT",
+      "sha256": "a6cf7c34646ed0ae54de7c99ddbb94a8dc227e7068bd13bdfd8bcf56ba146fba"
+    },
+    "rj": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_RJ.zip",
+      "downloaded_bytes": 7515732123,
+      "total_bytes": 7515732123,
+      "etag": "\"1bff8f89b-65e73b3f9b380\"",
+      "last_modified": "Thu, 22 Oct 2026 20:28:14 GMT",
+      "sha256": "db8efc2598b2864ce0d58bcb776bbd06e13496e972762e0099c55074bfcb4cc5"
+    },
+    "rn": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_RN.zip",
+      "downloaded_bytes": 1589430071,
+      "total_bytes": 1589430071,
+      "etag": "\"5ebcc737-65e73b956fe00\"",
+      "last_modified": "Thu, 22 Oct 2026 20:29:44 GMT",
+      "sha256": "025e96d8707152a13887aae73c2347155d4718e2f53b8edfbd218f3f1a356bc6"
+    },
+    "ro": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_RO.zip",
+      "downloaded_bytes": 812596377,
+      "total_bytes": 812596377,
+      "etag": "\"306f3c99-65e73bbf66100\"",
+      "last_modified": "Thu, 22 Oct 2026 20:30:28 GMT",
+      "sha256": "d1f260f379084c01958cb0a1ff31e7ea7c76768730c90175042f3421538a87cf"
+    },
+    "rr": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_RR.zip",
+      "downloaded_bytes": 260658618,
+      "total_bytes": 260658618,
+      "etag": "\"f8955ba-65e73bccc0080\"",
+      "last_modified": "Thu, 22 Oct 2026 20:30:42 GMT",
+      "sha256": "d90997c25de1b53a8a21225be7533df4d4745c4cae9f219a9bc8565d6f6c514d"
+    },
+    "rs": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_RS.zip",
+      "downloaded_bytes": 5183300321,
+      "total_bytes": 5183300321,
+      "etag": "\"134f2e2e1-65e73cb942e80\"",
+      "last_modified": "Thu, 22 Oct 2026 20:34:50 GMT",
+      "sha256": "7394a5481c23429ec6e8e4e2be77ee7259dc165f55a31eccfeda3354e97b6a5a"
+    },
+    "sc": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_SC.zip",
+      "downloaded_bytes": 3356270600,
+      "total_bytes": 3356270600,
+      "etag": "\"c80ca008-65e73d64ec380\"",
+      "last_modified": "Thu, 22 Oct 2026 20:37:50 GMT",
+      "sha256": "4223ae5b9778e593ee6c7604d0f1f35fc9d9354a2318d67d2dc9ae5d0c980197"
+    },
+    "se": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_SE.zip",
+      "downloaded_bytes": 1102702588,
+      "total_bytes": 1102702588,
+      "etag": "\"41b9e7fc-65e73d9777ac0\"",
+      "last_modified": "Thu, 22 Oct 2026 20:38:43 GMT",
+      "sha256": "d1652b210438978ca81e354c540d13a2eacd4862478b2e4f368dfc4fe0caeb0e"
+    },
+    "sp": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_SP.zip",
+      "downloaded_bytes": 20134436001,
+      "total_bytes": 20134436001,
+      "etag": "\"4b01b1ca1-65e740ab33d40\"",
+      "last_modified": "Thu, 22 Oct 2026 20:52:29 GMT",
+      "sha256": "1198649e579f7853d14047531e6c91bfa00e083c3ca357f4f049cccf92abc951"
+    },
+    "to": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_TO.zip",
+      "downloaded_bytes": 765142259,
+      "total_bytes": 765142259,
+      "etag": "\"2d9b24f3-65e740c7d00c0\"",
+      "last_modified": "Thu, 22 Oct 2026 20:52:59 GMT",
+      "sha256": "841a13abdca33404623397e64b1ac9fd3a36a4b7705515b1b07571125f5bc7de"
+    },
+    "zz": {
+      "state": "complete",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/arqurnatot/bu_imgbu_logjez_rdv_vscmr_2026_1t_ZZ.zip",
+      "downloaded_bytes": 136668327,
+      "total_bytes": 136668327,
+      "etag": "\"82564a7-65e740cd88e40\"",
+      "last_modified": "Thu, 22 Oct 2026 20:53:05 GMT",
+      "sha256": "fa589001a5ee5997d31a7a332c6bd664ada44fee5740066895a1b02be3be4a72"
+    }
+  },
+  "updated_utc": "2026-10-26T05:23:56.755837+00:00"
+}

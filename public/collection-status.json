@@ -1,0 +1,20 @@
+{
+  "cached": 84,
+  "requests": 1268361,
+  "bytes": 77598682136,
+  "done_run": 422806,
+  "total_sections": 499207,
+  "progress_percent": 100.0,
+  "saved_gib": 84.88,
+  "recent_requests_per_second": 0,
+  "updated_brasilia": "26/10/2026 05:11:08",
+  "sections": {
+    "done": 499207,
+    "unavailable": 17972
+  },
+  "elapsed_seconds": 14111,
+  "updated_utc": "2026-10-26T08:11:08.990809+00:00",
+  "stopped": null,
+  "concurrent_workers": 64,
+  "requests_per_second_limit": 95
+}

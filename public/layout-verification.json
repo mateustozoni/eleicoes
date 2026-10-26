@@ -1,0 +1,10 @@
+{
+  "checked": 55032,
+  "errors": [],
+  "normalizations": {
+    "reservaSecao": "contingenciaSecao",
+    "reservaEncerrandoSecao": "contingenciaEncerrandoSecao",
+    "urnaChegouAposInicioVotacao": "urnaEncerradaComEleitoresNaFila"
+  },
+  "meaning": "Identidade de todos os demais campos, incluindo votos, aptos, comparecimento, horários e identificação; não valida assinatura digital."
+}

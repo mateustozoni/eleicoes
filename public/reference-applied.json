@@ -1,0 +1,221 @@
+{
+  "method": "BU closing minus max(17h,last presidential event)",
+  "states": [
+    {
+      "uf": "ac",
+      "reference_p95_seconds": 428.5499999999997,
+      "indicative_closing_cutoff_seconds": 61680,
+      "second_turn_eligible": 2270,
+      "second_turn_residual_above_p95": 35,
+      "second_turn_closing_after_indicative_cut": 23
+    },
+    {
+      "uf": "al",
+      "reference_p95_seconds": 576.7999999999993,
+      "indicative_closing_cutoff_seconds": 61800,
+      "second_turn_eligible": 7101,
+      "second_turn_residual_above_p95": 81,
+      "second_turn_closing_after_indicative_cut": 91
+    },
+    {
+      "uf": "am",
+      "reference_p95_seconds": 848.8999999999978,
+      "indicative_closing_cutoff_seconds": 62100,
+      "second_turn_eligible": 8157,
+      "second_turn_residual_above_p95": 58,
+      "second_turn_closing_after_indicative_cut": 53
+    },
+    {
+      "uf": "ap",
+      "reference_p95_seconds": 551.0,
+      "indicative_closing_cutoff_seconds": 61800,
+      "second_turn_eligible": 1914,
+      "second_turn_residual_above_p95": 22,
+      "second_turn_closing_after_indicative_cut": 14
+    },
+    {
+      "uf": "ba",
+      "reference_p95_seconds": 698.0,
+      "indicative_closing_cutoff_seconds": 61920,
+      "second_turn_eligible": 35470,
+      "second_turn_residual_above_p95": 1455,
+      "second_turn_closing_after_indicative_cut": 1502
+    },
+    {
+      "uf": "ce",
+      "reference_p95_seconds": 510.2000000000007,
+      "indicative_closing_cutoff_seconds": 61740,
+      "second_turn_eligible": 23763,
+      "second_turn_residual_above_p95": 233,
+      "second_turn_closing_after_indicative_cut": 220
+    },
+    {
+      "uf": "df",
+      "reference_p95_seconds": 762.0,
+      "indicative_closing_cutoff_seconds": 61980,
+      "second_turn_eligible": 6968,
+      "second_turn_residual_above_p95": 124,
+      "second_turn_closing_after_indicative_cut": 127
+    },
+    {
+      "uf": "es",
+      "reference_p95_seconds": 399.0,
+      "indicative_closing_cutoff_seconds": 61620,
+      "second_turn_eligible": 9844,
+      "second_turn_residual_above_p95": 147,
+      "second_turn_closing_after_indicative_cut": 132
+    },
+    {
+      "uf": "go",
+      "reference_p95_seconds": 442.0,
+      "indicative_closing_cutoff_seconds": 61680,
+      "second_turn_eligible": 15684,
+      "second_turn_residual_above_p95": 191,
+      "second_turn_closing_after_indicative_cut": 156
+    },
+    {
+      "uf": "ma",
+      "reference_p95_seconds": 660.0,
+      "indicative_closing_cutoff_seconds": 61860,
+      "second_turn_eligible": 18090,
+      "second_turn_residual_above_p95": 256,
+      "second_turn_closing_after_indicative_cut": 289
+    },
+    {
+      "uf": "mg",
+      "reference_p95_seconds": 408.0,
+      "indicative_closing_cutoff_seconds": 61620,
+      "second_turn_eligible": 52052,
+      "second_turn_residual_above_p95": 884,
+      "second_turn_closing_after_indicative_cut": 870
+    },
+    {
+      "uf": "ms",
+      "reference_p95_seconds": 437.89999999999964,
+      "indicative_closing_cutoff_seconds": 61680,
+      "second_turn_eligible": 7105,
+      "second_turn_residual_above_p95": 84,
+      "second_turn_closing_after_indicative_cut": 70
+    },
+    {
+      "uf": "mt",
+      "reference_p95_seconds": 691.5,
+      "indicative_closing_cutoff_seconds": 61920,
+      "second_turn_eligible": 8286,
+      "second_turn_residual_above_p95": 47,
+      "second_turn_closing_after_indicative_cut": 47
+    },
+    {
+      "uf": "pa",
+      "reference_p95_seconds": 563.0,
+      "indicative_closing_cutoff_seconds": 61800,
+      "second_turn_eligible": 20825,
+      "second_turn_residual_above_p95": 318,
+      "second_turn_closing_after_indicative_cut": 292
+    },
+    {
+      "uf": "pb",
+      "reference_p95_seconds": 475.7999999999993,
+      "indicative_closing_cutoff_seconds": 61680,
+      "second_turn_eligible": 10711,
+      "second_turn_residual_above_p95": 494,
+      "second_turn_closing_after_indicative_cut": 499
+    },
+    {
+      "uf": "pe",
+      "reference_p95_seconds": 1718.4500000000007,
+      "indicative_closing_cutoff_seconds": 62940,
+      "second_turn_eligible": 21415,
+      "second_turn_residual_above_p95": 694,
+      "second_turn_closing_after_indicative_cut": 722
+    },
+    {
+      "uf": "pi",
+      "reference_p95_seconds": 547.0,
+      "indicative_closing_cutoff_seconds": 61800,
+      "second_turn_eligible": 10224,
+      "second_turn_residual_above_p95": 109,
+      "second_turn_closing_after_indicative_cut": 87
+    },
+    {
+      "uf": "pr",
+      "reference_p95_seconds": 391.0,
+      "indicative_closing_cutoff_seconds": 61620,
+      "second_turn_eligible": 27139,
+      "second_turn_residual_above_p95": 380,
+      "second_turn_closing_after_indicative_cut": 310
+    },
+    {
+      "uf": "rj",
+      "reference_p95_seconds": 1766.0,
+      "indicative_closing_cutoff_seconds": 63000,
+      "second_turn_eligible": 37668,
+      "second_turn_residual_above_p95": 3032,
+      "second_turn_closing_after_indicative_cut": 3318
+    },
+    {
+      "uf": "rn",
+      "reference_p95_seconds": 573.0,
+      "indicative_closing_cutoff_seconds": 61800,
+      "second_turn_eligible": 8114,
+      "second_turn_residual_above_p95": 86,
+      "second_turn_closing_after_indicative_cut": 84
+    },
+    {
+      "uf": "ro",
+      "reference_p95_seconds": 477.14999999999964,
+      "indicative_closing_cutoff_seconds": 61680,
+      "second_turn_eligible": 4698,
+      "second_turn_residual_above_p95": 68,
+      "second_turn_closing_after_indicative_cut": 87
+    },
+    {
+      "uf": "rr",
+      "reference_p95_seconds": 476.20000000000005,
+      "indicative_closing_cutoff_seconds": 61680,
+      "second_turn_eligible": 1519,
+      "second_turn_residual_above_p95": 34,
+      "second_turn_closing_after_indicative_cut": 38
+    },
+    {
+      "uf": "rs",
+      "reference_p95_seconds": 330.0,
+      "indicative_closing_cutoff_seconds": 61560,
+      "second_turn_eligible": 27543,
+      "second_turn_residual_above_p95": 554,
+      "second_turn_closing_after_indicative_cut": 441
+    },
+    {
+      "uf": "sc",
+      "reference_p95_seconds": 320.0,
+      "indicative_closing_cutoff_seconds": 61560,
+      "second_turn_eligible": 17325,
+      "second_turn_residual_above_p95": 315,
+      "second_turn_closing_after_indicative_cut": 228
+    },
+    {
+      "uf": "se",
+      "reference_p95_seconds": 549.0,
+      "indicative_closing_cutoff_seconds": 61800,
+      "second_turn_eligible": 5923,
+      "second_turn_residual_above_p95": 109,
+      "second_turn_closing_after_indicative_cut": 100
+    },
+    {
+      "uf": "sp",
+      "reference_p95_seconds": 667.0,
+      "indicative_closing_cutoff_seconds": 61920,
+      "second_turn_eligible": 103646,
+      "second_turn_residual_above_p95": 2823,
+      "second_turn_closing_after_indicative_cut": 2763
+    },
+    {
+      "uf": "to",
+      "reference_p95_seconds": 508.89999999999964,
+      "indicative_closing_cutoff_seconds": 61740,
+      "second_turn_eligible": 4383,
+      "second_turn_residual_above_p95": 70,
+      "second_turn_closing_after_indicative_cut": 57
+    }
+  ]
+}

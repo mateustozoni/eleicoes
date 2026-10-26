@@ -1,0 +1,15 @@
+{
+  "pages": 52,
+  "rendered_pages": 52,
+  "all_pages_visually_reviewed": true,
+  "sha256": "a3461e09be46c1a7e869be09d542daabd810a9a65168ca71fa86241bd90a4ef4",
+  "numeric_text_checks": true,
+  "cutoff_seconds": 61500,
+  "documentary_extra": true,
+  "minimum_judges_reference": "SP 17h18",
+  "signature_time_verified": false,
+  "signature_verification": false,
+  "publication_paragraph_removed": true,
+  "updated_utc": "2026-10-26T15:30:32.185673+00:00",
+  "local_address_replaced_by_repository": true
+}

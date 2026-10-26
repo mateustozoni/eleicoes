@@ -1,0 +1,10 @@
+{
+  "source_url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/formato-arquivos-de-bu-rdv-e-assinatura-digital/@@download/file/formato-arquivos-de-bu-rdv-e-assinatura-digital.zip",
+  "delivery": "Downloaded by user and attached to this chat",
+  "files": {
+    "docs/official-schema.zip": "b5ac413e81121d53de2bb1657af611f84a45fdc84388e9d9821872994bbfbafd",
+    "docs/bu.asn1": "ef64bf723f774403b423ed0b617f5a83a3f50c0023d0003e18cd29170404ab81",
+    "docs/rdv.asn1": "282dcde0c7ba1f1bb128fe27443ad8d18f7490416c9546d033910a7ec557a465",
+    "docs/log-do-ecossistema.pdf": "06bac6ca0d51ed25240a86988a4348a80a04cb4c35b588b6763d3fbdbf9b588a"
+  }
+}

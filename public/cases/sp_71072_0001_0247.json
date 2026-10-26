@@ -1,0 +1,269 @@
+{
+  "evidence_version": 2,
+  "hash": "3675397743485255413239386772676f3078614951547a6c51416965536a756b4959445a4558593272576f3d",
+  "verified": {
+    "id": "sp/71072/0001/0247",
+    "name": "SÃO PAULO",
+    "uf": "sp",
+    "total": 282,
+    "log_votes": 282,
+    "raw_log_votes": 282,
+    "foreign_section_events": 0,
+    "foreign_sections": [],
+    "match": true,
+    "clock_backwards": 0,
+    "binding_unknown_votes": 0,
+    "unknown_auth": 0,
+    "log_files": 1,
+    "bu_kind": "dadosSecao",
+    "opening_local": "20261025T080001",
+    "closing_local": "20261025T190548",
+    "aptos_president": 362,
+    "full_turnout": false,
+    "first": 28969,
+    "last": 68425,
+    "offset_hours": 0
+  },
+  "sources": [
+    {
+      "url": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/sp/71072/0001/0247/3675397743485255413239386772676f3078614951547a6c51416965536a756b4959445a4558593272576f3d/o03221sp7107200010247-bu.dat",
+      "name": "o03221sp7107200010247-bu.dat",
+      "sha256": "6ac4155e7ecf485c1438c21860a421cef16e42b611af696f2eb8464e9e6d5dec",
+      "type": "bu"
+    },
+    {
+      "url": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/sp/71072/0001/0247/3675397743485255413239386772676f3078614951547a6c51416965536a756b4959445a4558593272576f3d/o03221sp7107200010247-log.jez",
+      "name": "o03221sp7107200010247-log.jez",
+      "sha256": "50e8012c2a8c6ccc8c75fc8248a821562b410dcea609f1ea665ab011e6ab041f",
+      "type": "log"
+    }
+  ],
+  "files": [
+    {
+      "file": "logd.dat",
+      "sha256_text": "ad3ff29acf21f12887f887ec54f866cd8549d4ea82d561e242eff1155e7bc95a",
+      "presidential_confirmations": 282,
+      "devices": [
+        "02313142"
+      ],
+      "first_confirmation": "25/10/2026 08:02:49",
+      "last_confirmation": "25/10/2026 19:00:25"
+    }
+  ],
+  "clock_regressions": [],
+  "missing_archived_references": [],
+  "explanations": [
+    {
+      "status": "Horário fora da faixa de referência",
+      "text": "Há evento presidencial após as 19h de Brasília. Fila, prorrogação, operação e relógio precisam ser examinados com as evidências do caso; a causa não é presumida."
+    }
+  ],
+  "evidence": [
+    {
+      "file": "logd.dat",
+      "line": 7282,
+      "time_local": "25/10/2026 07:06:55",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Município: 71072",
+      "authenticator": "A9C51C9396AF97CC"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7283,
+      "time_local": "25/10/2026 07:06:55",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0001",
+      "authenticator": "16D001428DF662B3"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7284,
+      "time_local": "25/10/2026 07:06:55",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 0247",
+      "authenticator": "3857E65A9BF51690"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7416,
+      "time_local": "25/10/2026 08:02:49",
+      "device": "02313142",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Voto confirmado para [Presidente]",
+      "authenticator": "29A193C90A5682A4"
+    },
+    {
+      "file": "logd.dat",
+      "line": 11041,
+      "time_local": "25/10/2026 19:00:25",
+      "device": "02313142",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Voto confirmado para [Presidente]",
+      "authenticator": "43180AEE4DE0D56C"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7270,
+      "time_local": "25/10/2026 07:06:40",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Estrutura de diretórios da ME: OK",
+      "authenticator": "D37DA3D46696EA97"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7271,
+      "time_local": "25/10/2026 07:06:42",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - 2º turno",
+      "authenticator": "0358CC68F81A3DDD"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7272,
+      "time_local": "25/10/2026 07:06:42",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Versão da aplicação: 10.23.0.0 - Praia da Barra do Cahy",
+      "authenticator": "7EB2150E1522AC13"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7339,
+      "time_local": "25/10/2026 07:07:30",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "MR gerada pelo usuário: [identificador omitido]",
+      "authenticator": "ACC7EE312DC19746"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7340,
+      "time_local": "25/10/2026 07:07:30",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - ELEIÇÃO OFICIAL SEGUNDO TURNO - 2º turno",
+      "authenticator": "EC3F14EB04836941"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7341,
+      "time_local": "25/10/2026 07:07:46",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Instalada ou alterada informação complementar de municípios",
+      "authenticator": "6B36F923D25F36FD"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7343,
+      "time_local": "25/10/2026 07:07:47",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Mídia de resultado de 2º turno",
+      "authenticator": "21BF815A0B4418AB"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7344,
+      "time_local": "25/10/2026 07:07:54",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "ERRO",
+      "message": "Problema ao desmontar a MR",
+      "authenticator": "C13F3A106F621021"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7345,
+      "time_local": "25/10/2026 07:07:54",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Solicitação ao INIT para executar o aplicativo - ELEIÇÃO OFICIAL SEGUNDO TURNO",
+      "authenticator": "922ED62680EBB09E"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7346,
+      "time_local": "25/10/2026 07:07:54",
+      "device": "02313142",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Finalização de aplicativo",
+      "authenticator": "D6E3EEA64EA31F13"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7347,
+      "time_local": "25/10/2026 07:08:09",
+      "device": "02313142",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - 2º turno",
+      "authenticator": "8DADC026983E833C"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7348,
+      "time_local": "25/10/2026 07:08:09",
+      "device": "02313142",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Versão da aplicação: 10.23.0.0 - Praia da Barra do Cahy",
+      "authenticator": "19C0ADAACC53E8DB"
+    },
+    {
+      "file": "logd.dat",
+      "line": 11047,
+      "time_local": "25/10/2026 19:05:45",
+      "device": "02313142",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Título digitado para encerramento: [identificador omitido]",
+      "authenticator": "853351E75F0725A8"
+    },
+    {
+      "file": "logd.dat",
+      "line": 11048,
+      "time_local": "25/10/2026 19:05:48",
+      "device": "02313142",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Procedimento de encerramento confirmado",
+      "authenticator": "5E9F3FEE78BE4D83"
+    },
+    {
+      "file": "logd.dat",
+      "line": 11049,
+      "time_local": "25/10/2026 19:05:48",
+      "device": "02313142",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Operador indagado se ocorrerá registro de mesários",
+      "authenticator": "985C43B0C1A91C1A"
+    }
+  ],
+  "protocol_events": {
+    "completed_sessions": 282,
+    "unfinished_confirmation_sequences": [],
+    "restarts": []
+  },
+  "declared_sa_reason": null
+}

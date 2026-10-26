@@ -1,0 +1,345 @@
+{
+  "evidence_version": 2,
+  "hash": "6757306a3867524e4e447672764a36502d30533331436155774766622b765362695654742d56414f772d553d",
+  "verified": {
+    "id": "zz/30708/0001/0444",
+    "name": "TUNIS",
+    "uf": "zz",
+    "total": 23,
+    "log_votes": 0,
+    "raw_log_votes": 0,
+    "foreign_section_events": 0,
+    "foreign_sections": [],
+    "match": false,
+    "clock_backwards": 0,
+    "binding_unknown_votes": 0,
+    "unknown_auth": 0,
+    "log_files": 1,
+    "bu_kind": "dadosSA",
+    "opening_local": null,
+    "closing_local": null,
+    "aptos_president": 47,
+    "full_turnout": false,
+    "first": null,
+    "last": null,
+    "offset_hours": null
+  },
+  "sources": [
+    {
+      "url": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/zz/30708/0001/0444/6757306a3867524e4e447672764a36502d30533331436155774766622b765362695654742d56414f772d553d/o03221zz3070800010444-logsa.jez",
+      "name": "o03221zz3070800010444-logsa.jez",
+      "sha256": "5def084eb0ddd4733494c7e1eb803b86cec8b96ff3f3e81efeb20139dc47d62d",
+      "type": "logsa"
+    },
+    {
+      "url": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/zz/30708/0001/0444/6757306a3867524e4e447672764a36502d30533331436155774766622b765362695654742d56414f772d553d/o03221zz3070800010444-busa.dat",
+      "name": "o03221zz3070800010444-busa.dat",
+      "sha256": "e533ea282ee8dc819049c1fe4b47b5d5e294b80306de627423bbd5d0ce43a5f0",
+      "type": "busa"
+    }
+  ],
+  "files": [
+    {
+      "file": "logd.dat",
+      "sha256_text": "6e8f562405657bd256db38d562298780e5105ece6e6309889383a01207d2dcdd",
+      "presidential_confirmations": 0,
+      "devices": [
+        "01762246"
+      ],
+      "first_confirmation": null,
+      "last_confirmation": null
+    }
+  ],
+  "clock_regressions": [],
+  "missing_archived_references": [],
+  "explanations": [
+    {
+      "status": "Fato documentado",
+      "text": "O BU foi produzido no Sistema de Apuração (dadosSA). A ausência de confirmações VOTA neste pacote não é uma comparação direta com a votação em urna; os votos do BU permanecem na soma geral."
+    }
+  ],
+  "evidence": [
+    {
+      "file": "logd.dat",
+      "line": 489,
+      "time_local": "25/10/2026 10:19:32",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Município: 29467",
+      "authenticator": "25F614A879A93844"
+    },
+    {
+      "file": "logd.dat",
+      "line": 490,
+      "time_local": "25/10/2026 10:19:32",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0001",
+      "authenticator": "0B383AEA97E8FDC5"
+    },
+    {
+      "file": "logd.dat",
+      "line": 491,
+      "time_local": "25/10/2026 10:19:33",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 0000",
+      "authenticator": "9A9CFB5A8CDE7A5C"
+    },
+    {
+      "file": "logd.dat",
+      "line": 571,
+      "time_local": "25/10/2026 17:24:27",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Município: 29300",
+      "authenticator": "0E3A24D2E0716F66"
+    },
+    {
+      "file": "logd.dat",
+      "line": 572,
+      "time_local": "25/10/2026 17:24:28",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0001",
+      "authenticator": "95D57F5C4E9A94C1"
+    },
+    {
+      "file": "logd.dat",
+      "line": 573,
+      "time_local": "25/10/2026 17:24:28",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 0006",
+      "authenticator": "B6C218954AEB1355"
+    },
+    {
+      "file": "logd.dat",
+      "line": 629,
+      "time_local": "25/10/2026 17:31:05",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Município: 29254",
+      "authenticator": "AF934D3E0F5CE861"
+    },
+    {
+      "file": "logd.dat",
+      "line": 630,
+      "time_local": "25/10/2026 17:31:05",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0001",
+      "authenticator": "F0316B811ABE2698"
+    },
+    {
+      "file": "logd.dat",
+      "line": 631,
+      "time_local": "25/10/2026 17:31:05",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 0001",
+      "authenticator": "522DEAB85EB622E0"
+    },
+    {
+      "file": "logd.dat",
+      "line": 687,
+      "time_local": "25/10/2026 17:38:05",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Município: 30686",
+      "authenticator": "7696FE65870A6EC4"
+    },
+    {
+      "file": "logd.dat",
+      "line": 688,
+      "time_local": "25/10/2026 17:38:05",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0001",
+      "authenticator": "48E5950EBDD3B30F"
+    },
+    {
+      "file": "logd.dat",
+      "line": 689,
+      "time_local": "25/10/2026 17:38:05",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 0443",
+      "authenticator": "3CBA0578152F4D89"
+    },
+    {
+      "file": "logd.dat",
+      "line": 708,
+      "time_local": "25/10/2026 17:41:21",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Município: 30821",
+      "authenticator": "ADBFFDA1E56F781D"
+    },
+    {
+      "file": "logd.dat",
+      "line": 709,
+      "time_local": "25/10/2026 17:41:21",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0001",
+      "authenticator": "FACFAAE02AEA60E3"
+    },
+    {
+      "file": "logd.dat",
+      "line": 710,
+      "time_local": "25/10/2026 17:41:21",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 1524",
+      "authenticator": "660199E831DBCB4C"
+    },
+    {
+      "file": "logd.dat",
+      "line": 766,
+      "time_local": "25/10/2026 17:46:28",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Município: 30708",
+      "authenticator": "EBDC719D62C66CCC"
+    },
+    {
+      "file": "logd.dat",
+      "line": 767,
+      "time_local": "25/10/2026 17:46:28",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0001",
+      "authenticator": "D529FDF4EE429E10"
+    },
+    {
+      "file": "logd.dat",
+      "line": 768,
+      "time_local": "25/10/2026 17:46:28",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 0444",
+      "authenticator": "9764ECAC9D4EA55D"
+    },
+    {
+      "file": "logd.dat",
+      "line": 477,
+      "time_local": "25/10/2026 10:19:17",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Estrutura de diretórios da ME: OK",
+      "authenticator": "DE66BA920698DA82"
+    },
+    {
+      "file": "logd.dat",
+      "line": 478,
+      "time_local": "25/10/2026 10:19:20",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - 1º turno",
+      "authenticator": "ED95268C4204BF83"
+    },
+    {
+      "file": "logd.dat",
+      "line": 479,
+      "time_local": "25/10/2026 10:19:20",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Versão da aplicação: 10.23.0.0 - Praia da Barra do Cahy",
+      "authenticator": "C835244B18E204C2"
+    },
+    {
+      "file": "logd.dat",
+      "line": 498,
+      "time_local": "25/10/2026 10:19:42",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "MR gerada pelo usuário: [identificador omitido]",
+      "authenticator": "83E421858DDB34D8"
+    },
+    {
+      "file": "logd.dat",
+      "line": 499,
+      "time_local": "25/10/2026 10:19:42",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - SISTEMA DE APURAÇÃO OFICIAL SEGUNDO TURNO - 2º turno",
+      "authenticator": "0228729AEBCE04E9"
+    },
+    {
+      "file": "logd.dat",
+      "line": 500,
+      "time_local": "25/10/2026 10:19:47",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Urna operando com rede elétrica",
+      "authenticator": "BAD3DE166215EF09"
+    },
+    {
+      "file": "logd.dat",
+      "line": 555,
+      "time_local": "25/10/2026 10:24:15",
+      "device": "01762246",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Finalização de aplicativo",
+      "authenticator": "F7CB17C58BA4463F"
+    },
+    {
+      "file": "logd.dat",
+      "line": 556,
+      "time_local": "25/10/2026 10:24:35",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - 2º turno",
+      "authenticator": "77DF33983D6AE6ED"
+    },
+    {
+      "file": "logd.dat",
+      "line": 557,
+      "time_local": "25/10/2026 10:24:36",
+      "device": "01762246",
+      "app": "SA",
+      "severity": "INFO",
+      "message": "Versão da aplicação: 10.23.0.0 - Praia da Barra do Cahy",
+      "authenticator": "57C9B677FC648887"
+    }
+  ],
+  "protocol_events": {
+    "completed_sessions": 0,
+    "unfinished_confirmation_sequences": [],
+    "restarts": []
+  },
+  "declared_sa_reason": [
+    "apuracaoTotalmenteManual",
+    {
+      "tipoapuracao": "totalmenteManual",
+      "motivoApuracao": "outros"
+    }
+  ]
+}

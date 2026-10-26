@@ -1,0 +1,2420 @@
+{
+  "sections": 499207,
+  "counts": [
+    {
+      "kind": "branco",
+      "code": "None",
+      "votes": 2300798
+    },
+    {
+      "kind": "nominal",
+      "code": "13",
+      "votes": 53879538
+    },
+    {
+      "kind": "nominal",
+      "code": "14",
+      "votes": 2675887
+    },
+    {
+      "kind": "nominal",
+      "code": "16",
+      "votes": 43103
+    },
+    {
+      "kind": "nominal",
+      "code": "21",
+      "votes": 22693
+    },
+    {
+      "kind": "nominal",
+      "code": "22",
+      "votes": 56104503
+    },
+    {
+      "kind": "nominal",
+      "code": "27",
+      "votes": 40043
+    },
+    {
+      "kind": "nominal",
+      "code": "28",
+      "votes": 5246
+    },
+    {
+      "kind": "nominal",
+      "code": "29",
+      "votes": 15024
+    },
+    {
+      "kind": "nominal",
+      "code": "30",
+      "votes": 326488
+    },
+    {
+      "kind": "nominal",
+      "code": "35",
+      "votes": 16881
+    },
+    {
+      "kind": "nominal",
+      "code": "55",
+      "votes": 2605148
+    },
+    {
+      "kind": "nominal",
+      "code": "70",
+      "votes": 3448569
+    },
+    {
+      "kind": "nominal",
+      "code": "80",
+      "votes": 122911
+    },
+    {
+      "kind": "nulo",
+      "code": "None",
+      "votes": 3669003
+    }
+  ],
+  "candidate_checks": {
+    "22": {
+      "bu": 56104503,
+      "national": 56104503,
+      "difference": 0
+    },
+    "55": {
+      "bu": 2605148,
+      "national": 2605148,
+      "difference": 0
+    },
+    "13": {
+      "bu": 53879538,
+      "national": 53879538,
+      "difference": 0
+    },
+    "27": {
+      "bu": 40043,
+      "national": 40043,
+      "difference": 0
+    },
+    "21": {
+      "bu": 22693,
+      "national": 22693,
+      "difference": 0
+    },
+    "16": {
+      "bu": 43103,
+      "national": 43103,
+      "difference": 0
+    },
+    "70": {
+      "bu": 3448569,
+      "national": 3448569,
+      "difference": 0
+    },
+    "30": {
+      "bu": 326488,
+      "national": 326488,
+      "difference": 0
+    },
+    "80": {
+      "bu": 122911,
+      "national": 122911,
+      "difference": 0
+    },
+    "35": {
+      "bu": 16881,
+      "national": 16881,
+      "difference": 0
+    },
+    "14": {
+      "bu": 2675887,
+      "national": 2675887,
+      "difference": 0
+    },
+    "29": {
+      "bu": 15024,
+      "national": 15024,
+      "difference": 0
+    }
+  },
+  "nominal_code28": 5246,
+  "official_vn": 3669003,
+  "official_vnt": 5246,
+  "official_tvn": 3674249,
+  "total": 125275835,
+  "official_total": 125275835,
+  "by_state": [
+    {
+      "uf": "ac",
+      "sections": 2270,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 134770
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 7980
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 302807
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 573
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 8594
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 5579
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 13662
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 13523
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 140
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 215
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 314
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 39
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 71
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 23
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 40
+        }
+      ]
+    },
+    {
+      "uf": "al",
+      "sections": 7101,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 995459
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 26851
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 735718
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 14198
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 42427
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 33712
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 85787
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1345
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 110
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 431
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 267
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 1168
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 636
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 73
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 246
+        }
+      ]
+    },
+    {
+      "uf": "am",
+      "sections": 8157,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 1046996
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 35411
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 976764
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 28310
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 77531
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 24402
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 39302
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1867
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 82
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 291
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 929
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 1781
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 265
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 161
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 457
+        }
+      ]
+    },
+    {
+      "uf": "ap",
+      "sections": 1914,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 212503
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 11342
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 212278
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 8304
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 19057
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 4415
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 7272
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 508
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 229
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 49
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 341
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 53
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 62
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 132
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 17
+        }
+      ]
+    },
+    {
+      "uf": "ba",
+      "sections": 35476,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 5664771
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 117518
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 2442585
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 122705
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 195451
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 154936
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 338123
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 6497
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 4649
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 251
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 724
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 1299
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 1676
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 1791
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 625
+        }
+      ]
+    },
+    {
+      "uf": "ce",
+      "sections": 23765,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 3555263
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 107587
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 1756850
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 140524
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 103295
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 189185
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 45604
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 1491
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 783
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 498
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 3352
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 4310
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 481
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 1071
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 177
+        }
+      ]
+    },
+    {
+      "uf": "df",
+      "sections": 6969,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 675627
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 46714
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 909616
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 4915
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 85076
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 45979
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 25362
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 33169
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 828
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 2297
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 334
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 324
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 716
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 382
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 57
+        }
+      ]
+    },
+    {
+      "uf": "es",
+      "sections": 9844,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 850028
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 53236
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 1233194
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 39097
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 65121
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 43211
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 57872
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 388
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1973
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 5873
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 638
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 245
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 121
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 974
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 311
+        }
+      ]
+    },
+    {
+      "uf": "go",
+      "sections": 15686,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 1188880
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 54105
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 2051888
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 472041
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 45643
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 98014
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 53849
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 468
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 2672
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 346
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 668
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 260
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 2087
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 107
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 559
+        }
+      ]
+    },
+    {
+      "uf": "ma",
+      "sections": 18093,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 2566301
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 60387
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 1239040
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 84830
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 46315
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 103244
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 50155
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 4584
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 307
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 895
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1795
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 1459
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 475
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 211
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 345
+        }
+      ]
+    },
+    {
+      "uf": "mg",
+      "sections": 52062,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 5188936
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 247209
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 5777548
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 409737
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 268302
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 392176
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 230423
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 98407
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 2300
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 4085
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 3411
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 11026
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 1732
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 561
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 1421
+        }
+      ]
+    },
+    {
+      "uf": "ms",
+      "sections": 7106,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 516855
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 31847
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 873351
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 23291
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 39148
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 21270
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 29596
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1291
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 626
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 2792
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 209
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 332
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 353
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 183
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 76
+        }
+      ]
+    },
+    {
+      "uf": "mt",
+      "sections": 8287,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 581681
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 33170
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 1298581
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 95
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 33079
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 40019
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 20756
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 37994
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 1869
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 2424
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1584
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 172
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 239
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 340
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 130
+        }
+      ]
+    },
+    {
+      "uf": "pa",
+      "sections": 20827,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 2427237
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 84165
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 2163957
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 125172
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 54203
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 148946
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 1293
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 51991
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 1045
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 3064
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 674
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 308
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 3824
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 442
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 183
+        }
+      ]
+    },
+    {
+      "uf": "pb",
+      "sections": 10712,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 1541127
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 42247
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 831377
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 73831
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 52297
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 117854
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 221
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 19511
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 1988
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1593
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 604
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 347
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 274
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 627
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 90
+        }
+      ]
+    },
+    {
+      "uf": "pe",
+      "sections": 21418,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 3553971
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 1738043
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 137960
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 109491
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 200416
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 85865
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 869
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 73176
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 1114
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 6060
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 705
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 2387
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 410
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 457
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 138
+        }
+      ]
+    },
+    {
+      "uf": "pi",
+      "sections": 10225,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 1523710
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 517028
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 21629
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 28329
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 66108
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 32274
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 47692
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 443
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 319
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1099
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 504
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 1357
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 52
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 146
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 193
+        }
+      ]
+    },
+    {
+      "uf": "pr",
+      "sections": 27142,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 2054597
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 177434
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 2056
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 3945345
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 17172
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 171294
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 205095
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 122499
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 133447
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 962
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 1195
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 6731
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 2445
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 917
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 268
+        }
+      ]
+    },
+    {
+      "uf": "rj",
+      "sections": 37675,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 3693021
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 211843
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 4966844
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 1793
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 199844
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 247397
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 201979
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 287736
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 4082
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 21907
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 3999
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 14186
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 2854
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 1930
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 387
+        }
+      ]
+    },
+    {
+      "uf": "rn",
+      "sections": 8115,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 1237963
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 35261
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 720493
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 16407
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 57367
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 33172
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 65880
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 63
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 315
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 405
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 1525
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1228
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 177
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 185
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 572
+        }
+      ]
+    },
+    {
+      "uf": "ro",
+      "sections": 4698,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 250667
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 19187
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 652988
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 16929
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 25280
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 9846
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 13109
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 1318
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 174
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 160
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 60
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 843
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 356
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 66
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 97
+        }
+      ]
+    },
+    {
+      "uf": "rr",
+      "sections": 1519,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 74420
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 6623
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 231322
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 3639
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 8579
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 4595
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 280
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 2618
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 168
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 14
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 337
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 34
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 42
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 60
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 41
+        }
+      ]
+    },
+    {
+      "uf": "rs",
+      "sections": 27547,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 2294759
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 167558
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 3573783
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 18988
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 158821
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 195296
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 148339
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 131265
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 2066
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 6632
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 1031
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 923
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 2146
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 1043
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 253
+        }
+      ]
+    },
+    {
+      "uf": "sc",
+      "sections": 17326,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 1127168
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 132795
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 1503
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 3000020
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 643
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 16718
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 79911
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 134273
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 69007
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 78071
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 5049
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 828
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 184
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 1429
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 560
+        }
+      ]
+    },
+    {
+      "uf": "se",
+      "sections": 5923,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 856019
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 21405
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 417839
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 26651
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 38895
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 24859
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 49970
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 331
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 1158
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 138
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 204
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 457
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 991
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 108
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 57
+        }
+      ]
+    },
+    {
+      "uf": "sp",
+      "sections": 103656,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 9505413
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 804310
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 12922023
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 579571
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 892368
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 632801
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 914888
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 94635
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 10563
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 42532
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 5160
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 6129
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 4429
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 15815
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 1355
+        }
+      ]
+    },
+    {
+      "uf": "to",
+      "sections": 4384,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 404009
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 12983
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 469321
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 20189
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 22434
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 26377
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 595
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 8344
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 28
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 395
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 65
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 67
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 117
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 101
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 171
+        }
+      ]
+    },
+    {
+      "uf": "zz",
+      "sections": 1310,
+      "counts": [
+        {
+          "kind": "nominal",
+          "code": "13",
+          "votes": 157387
+        },
+        {
+          "kind": "nominal",
+          "code": "14",
+          "votes": 8580
+        },
+        {
+          "kind": "nominal",
+          "code": "22",
+          "votes": 143900
+        },
+        {
+          "kind": "nominal",
+          "code": "28",
+          "votes": 123
+        },
+        {
+          "kind": "nominal",
+          "code": "30",
+          "votes": 3329
+        },
+        {
+          "kind": "nominal",
+          "code": "55",
+          "votes": 4708
+        },
+        {
+          "kind": "nominal",
+          "code": "16",
+          "votes": 373
+        },
+        {
+          "kind": "nominal",
+          "code": "70",
+          "votes": 9734
+        },
+        {
+          "kind": "nominal",
+          "code": "80",
+          "votes": 1053
+        },
+        {
+          "kind": "branco",
+          "code": "None",
+          "votes": 5816
+        },
+        {
+          "kind": "nulo",
+          "code": "None",
+          "votes": 4945
+        },
+        {
+          "kind": "nominal",
+          "code": "27",
+          "votes": 825
+        },
+        {
+          "kind": "nominal",
+          "code": "35",
+          "votes": 373
+        },
+        {
+          "kind": "nominal",
+          "code": "29",
+          "votes": 199
+        },
+        {
+          "kind": "nominal",
+          "code": "21",
+          "votes": 421
+        }
+      ]
+    }
+  ],
+  "explanation": "BU nominal code28 is preserved separately; it is absent from the national candidate list. Its total equals field vnt. No legal cause inferred from this arithmetic alone.",
+  "reconciled": true
+}

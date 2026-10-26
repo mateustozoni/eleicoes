@@ -1,0 +1,599 @@
+{
+  "evidence_version": 2,
+  "hash": "78356b4f6a566145774a3647516c2d316576736b666475385831773741577162416e484c377533727067513d",
+  "verified": {
+    "id": "df/97012/0019/0226",
+    "name": "BRASÍLIA",
+    "uf": "df",
+    "total": 272,
+    "log_votes": 273,
+    "raw_log_votes": 273,
+    "foreign_section_events": 0,
+    "foreign_sections": [],
+    "match": false,
+    "clock_backwards": 0,
+    "binding_unknown_votes": 0,
+    "unknown_auth": 0,
+    "log_files": 1,
+    "bu_kind": "dadosSecao",
+    "opening_local": "20261025T080001",
+    "closing_local": "20261025T170150",
+    "aptos_president": 319,
+    "full_turnout": false,
+    "first": 29010,
+    "last": 60872,
+    "offset_hours": 0
+  },
+  "sources": [
+    {
+      "url": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/df/97012/0019/0226/78356b4f6a566145774a3647516c2d316576736b666475385831773741577162416e484c377533727067513d/o03221df9701200190226-log.jez",
+      "name": "o03221df9701200190226-log.jez",
+      "sha256": "db271795a68ab50c5dda1a13179bbd77b1522423eedfd4c168994858f1559ff9",
+      "type": "log"
+    },
+    {
+      "url": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/df/97012/0019/0226/78356b4f6a566145774a3647516c2d316576736b666475385831773741577162416e484c377533727067513d/o03221df9701200190226-bu.dat",
+      "name": "o03221df9701200190226-bu.dat",
+      "sha256": "70f305b19c28fe63490bec9106183d8f83c1c025f83ac62c29d04115c3739002",
+      "type": "bu"
+    }
+  ],
+  "files": [
+    {
+      "file": "logd.dat",
+      "sha256_text": "f883040a8d09211dd9ecb629a19828a56a91f5ea29c1a67facef964ac9a40476",
+      "presidential_confirmations": 273,
+      "devices": [
+        "02230136"
+      ],
+      "first_confirmation": "25/10/2026 08:03:30",
+      "last_confirmation": "25/10/2026 16:54:32"
+    }
+  ],
+  "clock_regressions": [],
+  "missing_archived_references": [],
+  "explanations": [
+    {
+      "status": "Pendente de conciliação",
+      "text": "BU: 272; eventos presidenciais vinculados à seção: 273; diferença log − BU: +1. Não foi atribuída causa sem confirmação nos arquivos. A seção fica fora da série temporal principal."
+    },
+    {
+      "status": "Diferença entre confirmação e sessão computada",
+      "text": "O log tem 273 confirmações presidenciais, mas 272 mensagens de sessão computada, coincidindo com o total do BU. Há 1 sequência(s) de confirmação sem mensagem de computação entre duas confirmações sucessivas e 2 registro(s) de retomada da votação. Isso documenta uma diferença entre tipos de evento; o efeito da interrupção não é presumido. Os trechos estão preservados abaixo."
+    }
+  ],
+  "evidence": [
+    {
+      "file": "logd.dat",
+      "line": 6471,
+      "time_local": "25/10/2026 06:55:58",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Município: 97012",
+      "authenticator": "0FBD658A46EC2820"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6472,
+      "time_local": "25/10/2026 06:55:58",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0019",
+      "authenticator": "65FF132A568367C6"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6473,
+      "time_local": "25/10/2026 06:55:58",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 0226",
+      "authenticator": "0B5C701D6949C705"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7878,
+      "time_local": "25/10/2026 10:11:59",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Município: 97012",
+      "authenticator": "D622379725C78DF0"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7879,
+      "time_local": "25/10/2026 10:11:59",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Zona Eleitoral: 0019",
+      "authenticator": "69EF584D821565D0"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7880,
+      "time_local": "25/10/2026 10:11:59",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Seção Eleitoral: 0226",
+      "authenticator": "F10686C5F802E74E"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6623,
+      "time_local": "25/10/2026 08:03:30",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Voto confirmado para [Presidente]",
+      "authenticator": "07EB8A574755D0EF"
+    },
+    {
+      "file": "logd.dat",
+      "line": 10416,
+      "time_local": "25/10/2026 16:54:32",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Voto confirmado para [Presidente]",
+      "authenticator": "0E61C4CAC4E10EA0"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6459,
+      "time_local": "25/10/2026 06:55:43",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Estrutura de diretórios da ME: OK",
+      "authenticator": "9C60A425B51D23B6"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6460,
+      "time_local": "25/10/2026 06:55:45",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - 2º turno",
+      "authenticator": "D1136A50CE728FD1"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6461,
+      "time_local": "25/10/2026 06:55:45",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Versão da aplicação: 10.23.0.0 - Praia da Barra do Cahy",
+      "authenticator": "5FC3A40B537A5671"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6528,
+      "time_local": "25/10/2026 06:56:32",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "MR gerada pelo usuário: [identificador omitido]",
+      "authenticator": "83048356CC4D3C60"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6529,
+      "time_local": "25/10/2026 06:56:33",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - ELEIÇÃO OFICIAL SEGUNDO TURNO - 2º turno",
+      "authenticator": "5BCC680CF317D04F"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6530,
+      "time_local": "25/10/2026 06:56:49",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Instalada ou alterada informação complementar de municípios",
+      "authenticator": "2EDADDC15D409DB3"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6532,
+      "time_local": "25/10/2026 06:56:50",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Mídia de resultado de 2º turno",
+      "authenticator": "BB427EA02517ED50"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6533,
+      "time_local": "25/10/2026 06:56:57",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "ERRO",
+      "message": "Problema ao desmontar a MR",
+      "authenticator": "83ACD0754D31C8BC"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6534,
+      "time_local": "25/10/2026 06:56:57",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Solicitação ao INIT para executar o aplicativo - ELEIÇÃO OFICIAL SEGUNDO TURNO",
+      "authenticator": "BEBD7D529F823F6C"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6535,
+      "time_local": "25/10/2026 06:56:57",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Finalização de aplicativo",
+      "authenticator": "75BC1C4012F4E053"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6536,
+      "time_local": "25/10/2026 06:57:12",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - 2º turno",
+      "authenticator": "AEE03CC7CB3D81C1"
+    },
+    {
+      "file": "logd.dat",
+      "line": 6537,
+      "time_local": "25/10/2026 06:57:12",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Versão da aplicação: 10.23.0.0 - Praia da Barra do Cahy",
+      "authenticator": "98D73F8CD495EF2D"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7866,
+      "time_local": "25/10/2026 10:11:43",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Estrutura de diretórios da ME: OK",
+      "authenticator": "F1AD3388075703B6"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7867,
+      "time_local": "25/10/2026 10:11:46",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - 2º turno",
+      "authenticator": "9F45BCF7DE9C9C42"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7868,
+      "time_local": "25/10/2026 10:11:46",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Versão da aplicação: 10.23.0.0 - Praia da Barra do Cahy",
+      "authenticator": "1C9889E7B1B3D9BE"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7935,
+      "time_local": "25/10/2026 10:12:33",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "MR gerada pelo usuário: [identificador omitido]",
+      "authenticator": "E78D7B55A1ED7B08"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7936,
+      "time_local": "25/10/2026 10:12:33",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - ELEIÇÃO OFICIAL SEGUNDO TURNO - 2º turno",
+      "authenticator": "2B4AA6CC00E1725A"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7937,
+      "time_local": "25/10/2026 10:12:47",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "ERRO",
+      "message": "Problema ao desmontar a MR",
+      "authenticator": "687B4FD2A2F9F541"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7938,
+      "time_local": "25/10/2026 10:12:47",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Solicitação ao INIT para executar o aplicativo - ELEIÇÃO OFICIAL SEGUNDO TURNO",
+      "authenticator": "817969637ADC72B6"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7939,
+      "time_local": "25/10/2026 10:12:47",
+      "device": "02230136",
+      "app": "GAP",
+      "severity": "INFO",
+      "message": "Finalização de aplicativo",
+      "authenticator": "647349BE8EAD9328"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7940,
+      "time_local": "25/10/2026 10:13:01",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Iniciando aplicação - 2º turno",
+      "authenticator": "B39A55AF510CCF0A"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7941,
+      "time_local": "25/10/2026 10:13:01",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Versão da aplicação: 10.23.0.0 - Praia da Barra do Cahy",
+      "authenticator": "AA9F20CCEBCF0199"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7952,
+      "time_local": "25/10/2026 10:13:55",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Fim do teste de Teclado do TE - Sucesso",
+      "authenticator": "32266D09DD857A3B"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7953,
+      "time_local": "25/10/2026 10:13:55",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Apresentada tela do reinício da votação",
+      "authenticator": "890C577852AD8856"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7954,
+      "time_local": "25/10/2026 10:16:50",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Mesário confirmou o reinício da votação",
+      "authenticator": "EE59CEB8188AD616"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7955,
+      "time_local": "25/10/2026 10:16:50",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Urna pronta para receber votos",
+      "authenticator": "F8984DA32C2BE311"
+    },
+    {
+      "file": "logd.dat",
+      "line": 10422,
+      "time_local": "25/10/2026 17:01:46",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Título digitado para encerramento: [identificador omitido]",
+      "authenticator": "D7438F1D16F2A365"
+    },
+    {
+      "file": "logd.dat",
+      "line": 10423,
+      "time_local": "25/10/2026 17:01:50",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Procedimento de encerramento confirmado",
+      "authenticator": "DDCC4B86A51DDB10"
+    },
+    {
+      "file": "logd.dat",
+      "line": 10424,
+      "time_local": "25/10/2026 17:01:50",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Operador indagado se ocorrerá registro de mesários",
+      "authenticator": "08A352812399B673"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7857,
+      "time_local": "25/10/2026 10:10:09",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Voto confirmado para [Presidente]",
+      "authenticator": "7193CC2E4079F080"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7858,
+      "time_local": "25/10/2026 10:10:09",
+      "device": "02230136",
+      "app": "INITJE",
+      "severity": "INFO",
+      "message": "Urna desligada pela chave",
+      "authenticator": "509DEE3607780556"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7859,
+      "time_local": "25/10/2026 10:10:09",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Mudança do estado da chave: URNA DESLIGADA",
+      "authenticator": "4278795FFC8DF2CA"
+    },
+    {
+      "file": "logd.dat",
+      "line": 7969,
+      "time_local": "25/10/2026 10:18:12",
+      "device": "02230136",
+      "app": "VOTA",
+      "severity": "INFO",
+      "message": "Voto confirmado para [Presidente]",
+      "authenticator": "FAC3C889C0456061"
+    }
+  ],
+  "protocol_events": {
+    "completed_sessions": 272,
+    "unfinished_confirmation_sequences": [
+      {
+        "confirmation": {
+          "file": "logd.dat",
+          "line": 7857,
+          "time_local": "25/10/2026 10:10:09",
+          "device": "02230136",
+          "app": "VOTA",
+          "severity": "INFO",
+          "message": "Voto confirmado para [Presidente]",
+          "authenticator": "7193CC2E4079F080"
+        },
+        "next_confirmation": {
+          "file": "logd.dat",
+          "line": 7969,
+          "time_local": "25/10/2026 10:18:12",
+          "device": "02230136",
+          "app": "VOTA",
+          "severity": "INFO",
+          "message": "Voto confirmado para [Presidente]",
+          "authenticator": "FAC3C889C0456061"
+        },
+        "intervening_operational_events": [
+          {
+            "file": "logd.dat",
+            "line": 7858,
+            "time_local": "25/10/2026 10:10:09",
+            "device": "02230136",
+            "app": "INITJE",
+            "severity": "INFO",
+            "message": "Urna desligada pela chave",
+            "authenticator": "509DEE3607780556"
+          },
+          {
+            "file": "logd.dat",
+            "line": 7859,
+            "time_local": "25/10/2026 10:10:09",
+            "device": "02230136",
+            "app": "VOTA",
+            "severity": "INFO",
+            "message": "Mudança do estado da chave: URNA DESLIGADA",
+            "authenticator": "4278795FFC8DF2CA"
+          },
+          {
+            "file": "logd.dat",
+            "line": 7867,
+            "time_local": "25/10/2026 10:11:46",
+            "device": "02230136",
+            "app": "GAP",
+            "severity": "INFO",
+            "message": "Iniciando aplicação - 2º turno",
+            "authenticator": "9F45BCF7DE9C9C42"
+          },
+          {
+            "file": "logd.dat",
+            "line": 7936,
+            "time_local": "25/10/2026 10:12:33",
+            "device": "02230136",
+            "app": "GAP",
+            "severity": "INFO",
+            "message": "Iniciando aplicação - ELEIÇÃO OFICIAL SEGUNDO TURNO - 2º turno",
+            "authenticator": "2B4AA6CC00E1725A"
+          },
+          {
+            "file": "logd.dat",
+            "line": 7940,
+            "time_local": "25/10/2026 10:13:01",
+            "device": "02230136",
+            "app": "VOTA",
+            "severity": "INFO",
+            "message": "Iniciando aplicação - 2º turno",
+            "authenticator": "B39A55AF510CCF0A"
+          },
+          {
+            "file": "logd.dat",
+            "line": 7953,
+            "time_local": "25/10/2026 10:13:55",
+            "device": "02230136",
+            "app": "VOTA",
+            "severity": "INFO",
+            "message": "Apresentada tela do reinício da votação",
+            "authenticator": "890C577852AD8856"
+          },
+          {
+            "file": "logd.dat",
+            "line": 7954,
+            "time_local": "25/10/2026 10:16:50",
+            "device": "02230136",
+            "app": "VOTA",
+            "severity": "INFO",
+            "message": "Mesário confirmou o reinício da votação",
+            "authenticator": "EE59CEB8188AD616"
+          }
+        ]
+      }
+    ],
+    "restarts": [
+      {
+        "file": "logd.dat",
+        "line": 7953,
+        "time_local": "25/10/2026 10:13:55",
+        "device": "02230136",
+        "app": "VOTA",
+        "severity": "INFO",
+        "message": "Apresentada tela do reinício da votação",
+        "authenticator": "890C577852AD8856"
+      },
+      {
+        "file": "logd.dat",
+        "line": 7954,
+        "time_local": "25/10/2026 10:16:50",
+        "device": "02230136",
+        "app": "VOTA",
+        "severity": "INFO",
+        "message": "Mesário confirmou o reinício da votação",
+        "authenticator": "EE59CEB8188AD616"
+      }
+    ]
+  },
+  "declared_sa_reason": null
+}

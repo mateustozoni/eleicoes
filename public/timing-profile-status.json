@@ -1,0 +1,20 @@
+{
+  "state": "finished",
+  "profile_version": 1,
+  "workers": 8,
+  "turns": {
+    "1": {
+      "processed_sections": 499207,
+      "session_records": 125322999
+    },
+    "2": {
+      "processed_sections": 499207,
+      "session_records": 128243973
+    }
+  },
+  "first_turn_frames_indexed": 499207,
+  "first_turn_ufs_indexed": 28,
+  "running_batches": 0,
+  "errors": [],
+  "updated_utc": "2026-10-26T08:11:13.593642+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "generation": "2026-10-26T14:38:59.755292+00:00",
+  "html_name": "report.html",
+  "cutoff_seconds": 61500,
+  "analyzed": 499207,
+  "eligible": 497837,
+  "build_seconds": 148.91,
+  "revision": "cutoff_1705_method_cohort",
+  "documentary_extra": true
+}

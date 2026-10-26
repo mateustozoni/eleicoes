@@ -1,0 +1,8117 @@
+{
+  "cutoff_seconds": 61500,
+  "cutoff_label": "17h05",
+  "collection": {
+    "cached": 84,
+    "requests": 1268361,
+    "bytes": 77598682136,
+    "done_run": 422806,
+    "total_sections": 499207,
+    "progress_percent": 100.0,
+    "saved_gib": 84.88,
+    "recent_requests_per_second": 0.8,
+    "updated_brasilia": "26/10/2026 05:11:08",
+    "sections": {
+      "done": 499207,
+      "unavailable": 17972
+    },
+    "elapsed_seconds": 14111,
+    "updated_utc": "2026-10-26T08:11:08.990809+00:00",
+    "stopped": null,
+    "concurrent_workers": 64,
+    "requests_per_second_limit": 95
+  },
+  "states": [
+    {
+      "uf": "ac",
+      "expected": 2270,
+      "analyzed": 2270,
+      "eligible": 2270,
+      "post": 1,
+      "pre": 453653,
+      "at17": 0,
+      "votes": 453654
+    },
+    {
+      "uf": "al",
+      "expected": 7101,
+      "analyzed": 7101,
+      "eligible": 7101,
+      "post": 49,
+      "pre": 1951582,
+      "at17": 1,
+      "votes": 1951632
+    },
+    {
+      "uf": "am",
+      "expected": 8157,
+      "analyzed": 8157,
+      "eligible": 8157,
+      "post": 28,
+      "pre": 2192031,
+      "at17": 0,
+      "votes": 2192059
+    },
+    {
+      "uf": "ap",
+      "expected": 1914,
+      "analyzed": 1914,
+      "eligible": 1914,
+      "post": 0,
+      "pre": 429974,
+      "at17": 1,
+      "votes": 429975
+    },
+    {
+      "uf": "ba",
+      "expected": 35476,
+      "analyzed": 35476,
+      "eligible": 35470,
+      "post": 925,
+      "pre": 9419640,
+      "at17": 4,
+      "votes": 9420569
+    },
+    {
+      "uf": "ce",
+      "expected": 23765,
+      "analyzed": 23765,
+      "eligible": 23763,
+      "post": 69,
+      "pre": 6024527,
+      "at17": 0,
+      "votes": 6024596
+    },
+    {
+      "uf": "df",
+      "expected": 6969,
+      "analyzed": 6969,
+      "eligible": 6968,
+      "post": 42,
+      "pre": 1867966,
+      "at17": 0,
+      "votes": 1868008
+    },
+    {
+      "uf": "es",
+      "expected": 9844,
+      "analyzed": 9844,
+      "eligible": 9844,
+      "post": 8,
+      "pre": 2409206,
+      "at17": 0,
+      "votes": 2409214
+    },
+    {
+      "uf": "go",
+      "expected": 15686,
+      "analyzed": 15686,
+      "eligible": 15684,
+      "post": 43,
+      "pre": 4046625,
+      "at17": 0,
+      "votes": 4046668
+    },
+    {
+      "uf": "ma",
+      "expected": 18093,
+      "analyzed": 18093,
+      "eligible": 18090,
+      "post": 67,
+      "pre": 4127055,
+      "at17": 0,
+      "votes": 4127122
+    },
+    {
+      "uf": "mg",
+      "expected": 52062,
+      "analyzed": 52062,
+      "eligible": 52052,
+      "post": 82,
+      "pre": 13041847,
+      "at17": 0,
+      "votes": 13041929
+    },
+    {
+      "uf": "ms",
+      "expected": 7106,
+      "analyzed": 7106,
+      "eligible": 7105,
+      "post": 9,
+      "pre": 1594191,
+      "at17": 0,
+      "votes": 1594200
+    },
+    {
+      "uf": "mt",
+      "expected": 8287,
+      "analyzed": 8287,
+      "eligible": 8286,
+      "post": 36,
+      "pre": 2085129,
+      "at17": 0,
+      "votes": 2085165
+    },
+    {
+      "uf": "pa",
+      "expected": 20827,
+      "analyzed": 20827,
+      "eligible": 20825,
+      "post": 60,
+      "pre": 4988936,
+      "at17": 1,
+      "votes": 4988997
+    },
+    {
+      "uf": "pb",
+      "expected": 10712,
+      "analyzed": 10712,
+      "eligible": 10711,
+      "post": 134,
+      "pre": 2743134,
+      "at17": 1,
+      "votes": 2743269
+    },
+    {
+      "uf": "pe",
+      "expected": 21418,
+      "analyzed": 21418,
+      "eligible": 21415,
+      "post": 312,
+      "pre": 6125221,
+      "at17": 1,
+      "votes": 6125534
+    },
+    {
+      "uf": "pi",
+      "expected": 10225,
+      "analyzed": 10225,
+      "eligible": 10224,
+      "post": 20,
+      "pre": 2239545,
+      "at17": 0,
+      "votes": 2239565
+    },
+    {
+      "uf": "pr",
+      "expected": 27142,
+      "analyzed": 27142,
+      "eligible": 27139,
+      "post": 23,
+      "pre": 7058520,
+      "at17": 0,
+      "votes": 7058543
+    },
+    {
+      "uf": "rj",
+      "expected": 37675,
+      "analyzed": 37675,
+      "eligible": 37668,
+      "post": 1748,
+      "pre": 10073766,
+      "at17": 0,
+      "votes": 10075514
+    },
+    {
+      "uf": "rn",
+      "expected": 8115,
+      "analyzed": 8115,
+      "eligible": 8114,
+      "post": 20,
+      "pre": 2232596,
+      "at17": 0,
+      "votes": 2232616
+    },
+    {
+      "uf": "ro",
+      "expected": 4698,
+      "analyzed": 4698,
+      "eligible": 4698,
+      "post": 13,
+      "pre": 988475,
+      "at17": 1,
+      "votes": 988489
+    },
+    {
+      "uf": "rr",
+      "expected": 1519,
+      "analyzed": 1519,
+      "eligible": 1519,
+      "post": 3,
+      "pre": 308594,
+      "at17": 0,
+      "votes": 308597
+    },
+    {
+      "uf": "rs",
+      "expected": 27547,
+      "analyzed": 27547,
+      "eligible": 27543,
+      "post": 31,
+      "pre": 6888754,
+      "at17": 0,
+      "votes": 6888785
+    },
+    {
+      "uf": "sc",
+      "expected": 17326,
+      "analyzed": 17326,
+      "eligible": 17325,
+      "post": 9,
+      "pre": 4762075,
+      "at17": 0,
+      "votes": 4762084
+    },
+    {
+      "uf": "se",
+      "expected": 5923,
+      "analyzed": 5923,
+      "eligible": 5923,
+      "post": 23,
+      "pre": 1466636,
+      "at17": 0,
+      "votes": 1466659
+    },
+    {
+      "uf": "sp",
+      "expected": 103656,
+      "analyzed": 103656,
+      "eligible": 103646,
+      "post": 1541,
+      "pre": 27360030,
+      "at17": 2,
+      "votes": 27361573
+    },
+    {
+      "uf": "to",
+      "expected": 4384,
+      "analyzed": 4384,
+      "eligible": 4383,
+      "post": 5,
+      "pre": 954510,
+      "at17": 0,
+      "votes": 954515
+    },
+    {
+      "uf": "zz",
+      "expected": 1310,
+      "analyzed": 1310,
+      "eligible": 0,
+      "post": 0,
+      "pre": 0,
+      "at17": 0,
+      "votes": 0
+    }
+  ],
+  "bins": [
+    {
+      "second": 28800,
+      "kind": "enabled_elector_biometric",
+      "n": 1368578
+    },
+    {
+      "second": 28800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 61715
+    },
+    {
+      "second": 28800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 82672
+    },
+    {
+      "second": 28800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 25895
+    },
+    {
+      "second": 28800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 670
+    },
+    {
+      "second": 28800,
+      "kind": "enabled_unknown",
+      "n": 367
+    },
+    {
+      "second": 28800,
+      "kind": "vote",
+      "n": 1455812
+    },
+    {
+      "second": 28800,
+      "kind": "vote_elector_biometric",
+      "n": 1298640
+    },
+    {
+      "second": 28800,
+      "kind": "vote_no_elector_biometric",
+      "n": 57480
+    },
+    {
+      "second": 28800,
+      "kind": "vote_pollworker_biometric",
+      "n": 75591
+    },
+    {
+      "second": 28800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 23571
+    },
+    {
+      "second": 28800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 530
+    },
+    {
+      "second": 29100,
+      "kind": "enabled_elector_biometric",
+      "n": 1804568
+    },
+    {
+      "second": 29100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 93034
+    },
+    {
+      "second": 29100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 142284
+    },
+    {
+      "second": 29100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 41941
+    },
+    {
+      "second": 29100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 7497
+    },
+    {
+      "second": 29100,
+      "kind": "enabled_unknown",
+      "n": 62
+    },
+    {
+      "second": 29100,
+      "kind": "vote",
+      "n": 2090633
+    },
+    {
+      "second": 29100,
+      "kind": "vote_elector_biometric",
+      "n": 1805816
+    },
+    {
+      "second": 29100,
+      "kind": "vote_no_elector_biometric",
+      "n": 92915
+    },
+    {
+      "second": 29100,
+      "kind": "vote_pollworker_biometric",
+      "n": 142464
+    },
+    {
+      "second": 29100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 42320
+    },
+    {
+      "second": 29100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 7118
+    },
+    {
+      "second": 29400,
+      "kind": "enabled_elector_biometric",
+      "n": 1767781
+    },
+    {
+      "second": 29400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 92098
+    },
+    {
+      "second": 29400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 131074
+    },
+    {
+      "second": 29400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 33779
+    },
+    {
+      "second": 29400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12607
+    },
+    {
+      "second": 29400,
+      "kind": "enabled_unknown",
+      "n": 54
+    },
+    {
+      "second": 29400,
+      "kind": "vote",
+      "n": 2041049
+    },
+    {
+      "second": 29400,
+      "kind": "vote_elector_biometric",
+      "n": 1770422
+    },
+    {
+      "second": 29400,
+      "kind": "vote_no_elector_biometric",
+      "n": 92248
+    },
+    {
+      "second": 29400,
+      "kind": "vote_pollworker_biometric",
+      "n": 131762
+    },
+    {
+      "second": 29400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 34174
+    },
+    {
+      "second": 29400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12443
+    },
+    {
+      "second": 29700,
+      "kind": "enabled_elector_biometric",
+      "n": 1695797
+    },
+    {
+      "second": 29700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 89140
+    },
+    {
+      "second": 29700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 119639
+    },
+    {
+      "second": 29700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 28480
+    },
+    {
+      "second": 29700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 15154
+    },
+    {
+      "second": 29700,
+      "kind": "enabled_unknown",
+      "n": 65
+    },
+    {
+      "second": 29700,
+      "kind": "vote",
+      "n": 1951542
+    },
+    {
+      "second": 29700,
+      "kind": "vote_elector_biometric",
+      "n": 1698486
+    },
+    {
+      "second": 29700,
+      "kind": "vote_no_elector_biometric",
+      "n": 89064
+    },
+    {
+      "second": 29700,
+      "kind": "vote_pollworker_biometric",
+      "n": 120216
+    },
+    {
+      "second": 29700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 28720
+    },
+    {
+      "second": 29700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 15056
+    },
+    {
+      "second": 30000,
+      "kind": "enabled_elector_biometric",
+      "n": 1628159
+    },
+    {
+      "second": 30000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 86644
+    },
+    {
+      "second": 30000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 111645
+    },
+    {
+      "second": 30000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 25314
+    },
+    {
+      "second": 30000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 16438
+    },
+    {
+      "second": 30000,
+      "kind": "enabled_unknown",
+      "n": 64
+    },
+    {
+      "second": 30000,
+      "kind": "vote",
+      "n": 1871067
+    },
+    {
+      "second": 30000,
+      "kind": "vote_elector_biometric",
+      "n": 1630541
+    },
+    {
+      "second": 30000,
+      "kind": "vote_no_elector_biometric",
+      "n": 86849
+    },
+    {
+      "second": 30000,
+      "kind": "vote_pollworker_biometric",
+      "n": 111869
+    },
+    {
+      "second": 30000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 25382
+    },
+    {
+      "second": 30000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 16426
+    },
+    {
+      "second": 30300,
+      "kind": "enabled_elector_biometric",
+      "n": 1576570
+    },
+    {
+      "second": 30300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 84818
+    },
+    {
+      "second": 30300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 106501
+    },
+    {
+      "second": 30300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 23167
+    },
+    {
+      "second": 30300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 16941
+    },
+    {
+      "second": 30300,
+      "kind": "enabled_unknown",
+      "n": 34
+    },
+    {
+      "second": 30300,
+      "kind": "vote",
+      "n": 1809571
+    },
+    {
+      "second": 30300,
+      "kind": "vote_elector_biometric",
+      "n": 1578066
+    },
+    {
+      "second": 30300,
+      "kind": "vote_no_elector_biometric",
+      "n": 84707
+    },
+    {
+      "second": 30300,
+      "kind": "vote_pollworker_biometric",
+      "n": 106621
+    },
+    {
+      "second": 30300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 23254
+    },
+    {
+      "second": 30300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 16923
+    },
+    {
+      "second": 30600,
+      "kind": "enabled_elector_biometric",
+      "n": 1534502
+    },
+    {
+      "second": 30600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 83474
+    },
+    {
+      "second": 30600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 102720
+    },
+    {
+      "second": 30600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 21678
+    },
+    {
+      "second": 30600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 17431
+    },
+    {
+      "second": 30600,
+      "kind": "enabled_unknown",
+      "n": 49
+    },
+    {
+      "second": 30600,
+      "kind": "vote",
+      "n": 1761337
+    },
+    {
+      "second": 30600,
+      "kind": "vote_elector_biometric",
+      "n": 1535702
+    },
+    {
+      "second": 30600,
+      "kind": "vote_no_elector_biometric",
+      "n": 83579
+    },
+    {
+      "second": 30600,
+      "kind": "vote_pollworker_biometric",
+      "n": 102877
+    },
+    {
+      "second": 30600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 21775
+    },
+    {
+      "second": 30600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 17404
+    },
+    {
+      "second": 30900,
+      "kind": "enabled_elector_biometric",
+      "n": 1507139
+    },
+    {
+      "second": 30900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 82224
+    },
+    {
+      "second": 30900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 99809
+    },
+    {
+      "second": 30900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 20964
+    },
+    {
+      "second": 30900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 17572
+    },
+    {
+      "second": 30900,
+      "kind": "enabled_unknown",
+      "n": 56
+    },
+    {
+      "second": 30900,
+      "kind": "vote",
+      "n": 1728217
+    },
+    {
+      "second": 30900,
+      "kind": "vote_elector_biometric",
+      "n": 1507586
+    },
+    {
+      "second": 30900,
+      "kind": "vote_no_elector_biometric",
+      "n": 82296
+    },
+    {
+      "second": 30900,
+      "kind": "vote_pollworker_biometric",
+      "n": 99903
+    },
+    {
+      "second": 30900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 20887
+    },
+    {
+      "second": 30900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 17545
+    },
+    {
+      "second": 31200,
+      "kind": "enabled_elector_biometric",
+      "n": 1483611
+    },
+    {
+      "second": 31200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 82323
+    },
+    {
+      "second": 31200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 97491
+    },
+    {
+      "second": 31200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 20394
+    },
+    {
+      "second": 31200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 17742
+    },
+    {
+      "second": 31200,
+      "kind": "enabled_unknown",
+      "n": 47
+    },
+    {
+      "second": 31200,
+      "kind": "vote",
+      "n": 1702505
+    },
+    {
+      "second": 31200,
+      "kind": "vote_elector_biometric",
+      "n": 1484321
+    },
+    {
+      "second": 31200,
+      "kind": "vote_no_elector_biometric",
+      "n": 82375
+    },
+    {
+      "second": 31200,
+      "kind": "vote_pollworker_biometric",
+      "n": 97570
+    },
+    {
+      "second": 31200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 20526
+    },
+    {
+      "second": 31200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 17713
+    },
+    {
+      "second": 31500,
+      "kind": "enabled_elector_biometric",
+      "n": 1466685
+    },
+    {
+      "second": 31500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 81576
+    },
+    {
+      "second": 31500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 95532
+    },
+    {
+      "second": 31500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 19850
+    },
+    {
+      "second": 31500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 18239
+    },
+    {
+      "second": 31500,
+      "kind": "enabled_unknown",
+      "n": 58
+    },
+    {
+      "second": 31500,
+      "kind": "vote",
+      "n": 1682144
+    },
+    {
+      "second": 31500,
+      "kind": "vote_elector_biometric",
+      "n": 1467195
+    },
+    {
+      "second": 31500,
+      "kind": "vote_no_elector_biometric",
+      "n": 81399
+    },
+    {
+      "second": 31500,
+      "kind": "vote_pollworker_biometric",
+      "n": 95507
+    },
+    {
+      "second": 31500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 19859
+    },
+    {
+      "second": 31500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 18184
+    },
+    {
+      "second": 31800,
+      "kind": "enabled_elector_biometric",
+      "n": 1454501
+    },
+    {
+      "second": 31800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 81318
+    },
+    {
+      "second": 31800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 94107
+    },
+    {
+      "second": 31800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 19387
+    },
+    {
+      "second": 31800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 18533
+    },
+    {
+      "second": 31800,
+      "kind": "enabled_unknown",
+      "n": 47
+    },
+    {
+      "second": 31800,
+      "kind": "vote",
+      "n": 1668052
+    },
+    {
+      "second": 31800,
+      "kind": "vote_elector_biometric",
+      "n": 1454570
+    },
+    {
+      "second": 31800,
+      "kind": "vote_no_elector_biometric",
+      "n": 81456
+    },
+    {
+      "second": 31800,
+      "kind": "vote_pollworker_biometric",
+      "n": 94124
+    },
+    {
+      "second": 31800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 19369
+    },
+    {
+      "second": 31800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 18533
+    },
+    {
+      "second": 32100,
+      "kind": "enabled_elector_biometric",
+      "n": 1445685
+    },
+    {
+      "second": 32100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 81527
+    },
+    {
+      "second": 32100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 92486
+    },
+    {
+      "second": 32100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 19132
+    },
+    {
+      "second": 32100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 18758
+    },
+    {
+      "second": 32100,
+      "kind": "enabled_unknown",
+      "n": 47
+    },
+    {
+      "second": 32100,
+      "kind": "vote",
+      "n": 1658348
+    },
+    {
+      "second": 32100,
+      "kind": "vote_elector_biometric",
+      "n": 1446326
+    },
+    {
+      "second": 32100,
+      "kind": "vote_no_elector_biometric",
+      "n": 81441
+    },
+    {
+      "second": 32100,
+      "kind": "vote_pollworker_biometric",
+      "n": 92631
+    },
+    {
+      "second": 32100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 19178
+    },
+    {
+      "second": 32100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 18772
+    },
+    {
+      "second": 32400,
+      "kind": "enabled_elector_biometric",
+      "n": 1429142
+    },
+    {
+      "second": 32400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 81452
+    },
+    {
+      "second": 32400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 90931
+    },
+    {
+      "second": 32400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 18855
+    },
+    {
+      "second": 32400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 18853
+    },
+    {
+      "second": 32400,
+      "kind": "enabled_unknown",
+      "n": 47
+    },
+    {
+      "second": 32400,
+      "kind": "vote",
+      "n": 1638600
+    },
+    {
+      "second": 32400,
+      "kind": "vote_elector_biometric",
+      "n": 1428692
+    },
+    {
+      "second": 32400,
+      "kind": "vote_no_elector_biometric",
+      "n": 81310
+    },
+    {
+      "second": 32400,
+      "kind": "vote_pollworker_biometric",
+      "n": 90920
+    },
+    {
+      "second": 32400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 18840
+    },
+    {
+      "second": 32400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 18838
+    },
+    {
+      "second": 32700,
+      "kind": "enabled_elector_biometric",
+      "n": 1436462
+    },
+    {
+      "second": 32700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 82038
+    },
+    {
+      "second": 32700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 90546
+    },
+    {
+      "second": 32700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 18900
+    },
+    {
+      "second": 32700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 19128
+    },
+    {
+      "second": 32700,
+      "kind": "enabled_unknown",
+      "n": 58
+    },
+    {
+      "second": 32700,
+      "kind": "vote",
+      "n": 1646984
+    },
+    {
+      "second": 32700,
+      "kind": "vote_elector_biometric",
+      "n": 1436487
+    },
+    {
+      "second": 32700,
+      "kind": "vote_no_elector_biometric",
+      "n": 82139
+    },
+    {
+      "second": 32700,
+      "kind": "vote_pollworker_biometric",
+      "n": 90462
+    },
+    {
+      "second": 32700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 18841
+    },
+    {
+      "second": 32700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19055
+    },
+    {
+      "second": 33000,
+      "kind": "enabled_elector_biometric",
+      "n": 1445833
+    },
+    {
+      "second": 33000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 82942
+    },
+    {
+      "second": 33000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 90493
+    },
+    {
+      "second": 33000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 18817
+    },
+    {
+      "second": 33000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 19414
+    },
+    {
+      "second": 33000,
+      "kind": "enabled_unknown",
+      "n": 49
+    },
+    {
+      "second": 33000,
+      "kind": "vote",
+      "n": 1656880
+    },
+    {
+      "second": 33000,
+      "kind": "vote_elector_biometric",
+      "n": 1445143
+    },
+    {
+      "second": 33000,
+      "kind": "vote_no_elector_biometric",
+      "n": 82781
+    },
+    {
+      "second": 33000,
+      "kind": "vote_pollworker_biometric",
+      "n": 90619
+    },
+    {
+      "second": 33000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 18850
+    },
+    {
+      "second": 33000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19487
+    },
+    {
+      "second": 33300,
+      "kind": "enabled_elector_biometric",
+      "n": 1453013
+    },
+    {
+      "second": 33300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 83891
+    },
+    {
+      "second": 33300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 90150
+    },
+    {
+      "second": 33300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 18737
+    },
+    {
+      "second": 33300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 19899
+    },
+    {
+      "second": 33300,
+      "kind": "enabled_unknown",
+      "n": 47
+    },
+    {
+      "second": 33300,
+      "kind": "vote",
+      "n": 1665231
+    },
+    {
+      "second": 33300,
+      "kind": "vote_elector_biometric",
+      "n": 1452937
+    },
+    {
+      "second": 33300,
+      "kind": "vote_no_elector_biometric",
+      "n": 83782
+    },
+    {
+      "second": 33300,
+      "kind": "vote_pollworker_biometric",
+      "n": 90008
+    },
+    {
+      "second": 33300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 18708
+    },
+    {
+      "second": 33300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19796
+    },
+    {
+      "second": 33600,
+      "kind": "enabled_elector_biometric",
+      "n": 1460005
+    },
+    {
+      "second": 33600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 84678
+    },
+    {
+      "second": 33600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 89560
+    },
+    {
+      "second": 33600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 18835
+    },
+    {
+      "second": 33600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 19825
+    },
+    {
+      "second": 33600,
+      "kind": "enabled_unknown",
+      "n": 53
+    },
+    {
+      "second": 33600,
+      "kind": "vote",
+      "n": 1672946
+    },
+    {
+      "second": 33600,
+      "kind": "vote_elector_biometric",
+      "n": 1459856
+    },
+    {
+      "second": 33600,
+      "kind": "vote_no_elector_biometric",
+      "n": 84587
+    },
+    {
+      "second": 33600,
+      "kind": "vote_pollworker_biometric",
+      "n": 89748
+    },
+    {
+      "second": 33600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 18846
+    },
+    {
+      "second": 33600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19909
+    },
+    {
+      "second": 33900,
+      "kind": "enabled_elector_biometric",
+      "n": 1459367
+    },
+    {
+      "second": 33900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 84810
+    },
+    {
+      "second": 33900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 88499
+    },
+    {
+      "second": 33900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 18110
+    },
+    {
+      "second": 33900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20195
+    },
+    {
+      "second": 33900,
+      "kind": "enabled_unknown",
+      "n": 48
+    },
+    {
+      "second": 33900,
+      "kind": "vote",
+      "n": 1671057
+    },
+    {
+      "second": 33900,
+      "kind": "vote_elector_biometric",
+      "n": 1459502
+    },
+    {
+      "second": 33900,
+      "kind": "vote_no_elector_biometric",
+      "n": 84897
+    },
+    {
+      "second": 33900,
+      "kind": "vote_pollworker_biometric",
+      "n": 88406
+    },
+    {
+      "second": 33900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 18130
+    },
+    {
+      "second": 33900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20122
+    },
+    {
+      "second": 34200,
+      "kind": "enabled_elector_biometric",
+      "n": 1469986
+    },
+    {
+      "second": 34200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 86152
+    },
+    {
+      "second": 34200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 88028
+    },
+    {
+      "second": 34200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 18145
+    },
+    {
+      "second": 34200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20642
+    },
+    {
+      "second": 34200,
+      "kind": "enabled_unknown",
+      "n": 40
+    },
+    {
+      "second": 34200,
+      "kind": "vote",
+      "n": 1682826
+    },
+    {
+      "second": 34200,
+      "kind": "vote_elector_biometric",
+      "n": 1469756
+    },
+    {
+      "second": 34200,
+      "kind": "vote_no_elector_biometric",
+      "n": 86177
+    },
+    {
+      "second": 34200,
+      "kind": "vote_pollworker_biometric",
+      "n": 88114
+    },
+    {
+      "second": 34200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 18173
+    },
+    {
+      "second": 34200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20606
+    },
+    {
+      "second": 34500,
+      "kind": "enabled_elector_biometric",
+      "n": 1467082
+    },
+    {
+      "second": 34500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 86792
+    },
+    {
+      "second": 34500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 86573
+    },
+    {
+      "second": 34500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 17786
+    },
+    {
+      "second": 34500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20589
+    },
+    {
+      "second": 34500,
+      "kind": "enabled_unknown",
+      "n": 44
+    },
+    {
+      "second": 34500,
+      "kind": "vote",
+      "n": 1679528
+    },
+    {
+      "second": 34500,
+      "kind": "vote_elector_biometric",
+      "n": 1467694
+    },
+    {
+      "second": 34500,
+      "kind": "vote_no_elector_biometric",
+      "n": 86676
+    },
+    {
+      "second": 34500,
+      "kind": "vote_pollworker_biometric",
+      "n": 86689
+    },
+    {
+      "second": 34500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 17864
+    },
+    {
+      "second": 34500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20605
+    },
+    {
+      "second": 34800,
+      "kind": "enabled_elector_biometric",
+      "n": 1462701
+    },
+    {
+      "second": 34800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 87292
+    },
+    {
+      "second": 34800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 85597
+    },
+    {
+      "second": 34800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 17311
+    },
+    {
+      "second": 34800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20798
+    },
+    {
+      "second": 34800,
+      "kind": "enabled_unknown",
+      "n": 66
+    },
+    {
+      "second": 34800,
+      "kind": "vote",
+      "n": 1673834
+    },
+    {
+      "second": 34800,
+      "kind": "vote_elector_biometric",
+      "n": 1462957
+    },
+    {
+      "second": 34800,
+      "kind": "vote_no_elector_biometric",
+      "n": 87272
+    },
+    {
+      "second": 34800,
+      "kind": "vote_pollworker_biometric",
+      "n": 85568
+    },
+    {
+      "second": 34800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 17262
+    },
+    {
+      "second": 34800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20775
+    },
+    {
+      "second": 35100,
+      "kind": "enabled_elector_biometric",
+      "n": 1456709
+    },
+    {
+      "second": 35100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 87302
+    },
+    {
+      "second": 35100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 84477
+    },
+    {
+      "second": 35100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 17301
+    },
+    {
+      "second": 35100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20689
+    },
+    {
+      "second": 35100,
+      "kind": "enabled_unknown",
+      "n": 63
+    },
+    {
+      "second": 35100,
+      "kind": "vote",
+      "n": 1666960
+    },
+    {
+      "second": 35100,
+      "kind": "vote_elector_biometric",
+      "n": 1457081
+    },
+    {
+      "second": 35100,
+      "kind": "vote_no_elector_biometric",
+      "n": 87315
+    },
+    {
+      "second": 35100,
+      "kind": "vote_pollworker_biometric",
+      "n": 84553
+    },
+    {
+      "second": 35100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 17286
+    },
+    {
+      "second": 35100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20725
+    },
+    {
+      "second": 35400,
+      "kind": "enabled_elector_biometric",
+      "n": 1450279
+    },
+    {
+      "second": 35400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 87975
+    },
+    {
+      "second": 35400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 82709
+    },
+    {
+      "second": 35400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 16694
+    },
+    {
+      "second": 35400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20618
+    },
+    {
+      "second": 35400,
+      "kind": "enabled_unknown",
+      "n": 47
+    },
+    {
+      "second": 35400,
+      "kind": "vote",
+      "n": 1658546
+    },
+    {
+      "second": 35400,
+      "kind": "vote_elector_biometric",
+      "n": 1450610
+    },
+    {
+      "second": 35400,
+      "kind": "vote_no_elector_biometric",
+      "n": 87833
+    },
+    {
+      "second": 35400,
+      "kind": "vote_pollworker_biometric",
+      "n": 82792
+    },
+    {
+      "second": 35400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 16728
+    },
+    {
+      "second": 35400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20583
+    },
+    {
+      "second": 35700,
+      "kind": "enabled_elector_biometric",
+      "n": 1443536
+    },
+    {
+      "second": 35700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 87593
+    },
+    {
+      "second": 35700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 81525
+    },
+    {
+      "second": 35700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 16445
+    },
+    {
+      "second": 35700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20591
+    },
+    {
+      "second": 35700,
+      "kind": "enabled_unknown",
+      "n": 31
+    },
+    {
+      "second": 35700,
+      "kind": "vote",
+      "n": 1650182
+    },
+    {
+      "second": 35700,
+      "kind": "vote_elector_biometric",
+      "n": 1443802
+    },
+    {
+      "second": 35700,
+      "kind": "vote_no_elector_biometric",
+      "n": 87662
+    },
+    {
+      "second": 35700,
+      "kind": "vote_pollworker_biometric",
+      "n": 81685
+    },
+    {
+      "second": 35700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 16485
+    },
+    {
+      "second": 35700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20548
+    },
+    {
+      "second": 36000,
+      "kind": "enabled_elector_biometric",
+      "n": 1439340
+    },
+    {
+      "second": 36000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 87747
+    },
+    {
+      "second": 36000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 80080
+    },
+    {
+      "second": 36000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 16667
+    },
+    {
+      "second": 36000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20353
+    },
+    {
+      "second": 36000,
+      "kind": "enabled_unknown",
+      "n": 41
+    },
+    {
+      "second": 36000,
+      "kind": "vote",
+      "n": 1644588
+    },
+    {
+      "second": 36000,
+      "kind": "vote_elector_biometric",
+      "n": 1439743
+    },
+    {
+      "second": 36000,
+      "kind": "vote_no_elector_biometric",
+      "n": 87765
+    },
+    {
+      "second": 36000,
+      "kind": "vote_pollworker_biometric",
+      "n": 80047
+    },
+    {
+      "second": 36000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 16616
+    },
+    {
+      "second": 36000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20417
+    },
+    {
+      "second": 36300,
+      "kind": "enabled_elector_biometric",
+      "n": 1437780
+    },
+    {
+      "second": 36300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 88132
+    },
+    {
+      "second": 36300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 79770
+    },
+    {
+      "second": 36300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 16276
+    },
+    {
+      "second": 36300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20290
+    },
+    {
+      "second": 36300,
+      "kind": "enabled_unknown",
+      "n": 42
+    },
+    {
+      "second": 36300,
+      "kind": "vote",
+      "n": 1642097
+    },
+    {
+      "second": 36300,
+      "kind": "vote_elector_biometric",
+      "n": 1437567
+    },
+    {
+      "second": 36300,
+      "kind": "vote_no_elector_biometric",
+      "n": 88103
+    },
+    {
+      "second": 36300,
+      "kind": "vote_pollworker_biometric",
+      "n": 79777
+    },
+    {
+      "second": 36300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 16355
+    },
+    {
+      "second": 36300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20295
+    },
+    {
+      "second": 36600,
+      "kind": "enabled_elector_biometric",
+      "n": 1439010
+    },
+    {
+      "second": 36600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 88142
+    },
+    {
+      "second": 36600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 78471
+    },
+    {
+      "second": 36600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 16037
+    },
+    {
+      "second": 36600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20669
+    },
+    {
+      "second": 36600,
+      "kind": "enabled_unknown",
+      "n": 56
+    },
+    {
+      "second": 36600,
+      "kind": "vote",
+      "n": 1642443
+    },
+    {
+      "second": 36600,
+      "kind": "vote_elector_biometric",
+      "n": 1439025
+    },
+    {
+      "second": 36600,
+      "kind": "vote_no_elector_biometric",
+      "n": 88164
+    },
+    {
+      "second": 36600,
+      "kind": "vote_pollworker_biometric",
+      "n": 78609
+    },
+    {
+      "second": 36600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 16040
+    },
+    {
+      "second": 36600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20605
+    },
+    {
+      "second": 36900,
+      "kind": "enabled_elector_biometric",
+      "n": 1436454
+    },
+    {
+      "second": 36900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 88785
+    },
+    {
+      "second": 36900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 78242
+    },
+    {
+      "second": 36900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 16111
+    },
+    {
+      "second": 36900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20416
+    },
+    {
+      "second": 36900,
+      "kind": "enabled_unknown",
+      "n": 54
+    },
+    {
+      "second": 36900,
+      "kind": "vote",
+      "n": 1640189
+    },
+    {
+      "second": 36900,
+      "kind": "vote_elector_biometric",
+      "n": 1436666
+    },
+    {
+      "second": 36900,
+      "kind": "vote_no_elector_biometric",
+      "n": 88727
+    },
+    {
+      "second": 36900,
+      "kind": "vote_pollworker_biometric",
+      "n": 78213
+    },
+    {
+      "second": 36900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 16106
+    },
+    {
+      "second": 36900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20477
+    },
+    {
+      "second": 37200,
+      "kind": "enabled_elector_biometric",
+      "n": 1432101
+    },
+    {
+      "second": 37200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 88848
+    },
+    {
+      "second": 37200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 76549
+    },
+    {
+      "second": 37200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 15699
+    },
+    {
+      "second": 37200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20393
+    },
+    {
+      "second": 37200,
+      "kind": "enabled_unknown",
+      "n": 64
+    },
+    {
+      "second": 37200,
+      "kind": "vote",
+      "n": 1634022
+    },
+    {
+      "second": 37200,
+      "kind": "vote_elector_biometric",
+      "n": 1432385
+    },
+    {
+      "second": 37200,
+      "kind": "vote_no_elector_biometric",
+      "n": 88883
+    },
+    {
+      "second": 37200,
+      "kind": "vote_pollworker_biometric",
+      "n": 76644
+    },
+    {
+      "second": 37200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 15712
+    },
+    {
+      "second": 37200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20398
+    },
+    {
+      "second": 37500,
+      "kind": "enabled_elector_biometric",
+      "n": 1421203
+    },
+    {
+      "second": 37500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 89478
+    },
+    {
+      "second": 37500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 75050
+    },
+    {
+      "second": 37500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 15192
+    },
+    {
+      "second": 37500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20247
+    },
+    {
+      "second": 37500,
+      "kind": "enabled_unknown",
+      "n": 46
+    },
+    {
+      "second": 37500,
+      "kind": "vote",
+      "n": 1621648
+    },
+    {
+      "second": 37500,
+      "kind": "vote_elector_biometric",
+      "n": 1421775
+    },
+    {
+      "second": 37500,
+      "kind": "vote_no_elector_biometric",
+      "n": 89390
+    },
+    {
+      "second": 37500,
+      "kind": "vote_pollworker_biometric",
+      "n": 75087
+    },
+    {
+      "second": 37500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 15175
+    },
+    {
+      "second": 37500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20221
+    },
+    {
+      "second": 37800,
+      "kind": "enabled_elector_biometric",
+      "n": 1410397
+    },
+    {
+      "second": 37800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 89295
+    },
+    {
+      "second": 37800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 73673
+    },
+    {
+      "second": 37800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 14921
+    },
+    {
+      "second": 37800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 20106
+    },
+    {
+      "second": 37800,
+      "kind": "enabled_unknown",
+      "n": 56
+    },
+    {
+      "second": 37800,
+      "kind": "vote",
+      "n": 1609171
+    },
+    {
+      "second": 37800,
+      "kind": "vote_elector_biometric",
+      "n": 1410951
+    },
+    {
+      "second": 37800,
+      "kind": "vote_no_elector_biometric",
+      "n": 89308
+    },
+    {
+      "second": 37800,
+      "kind": "vote_pollworker_biometric",
+      "n": 73750
+    },
+    {
+      "second": 37800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 15009
+    },
+    {
+      "second": 37800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 20153
+    },
+    {
+      "second": 38100,
+      "kind": "enabled_elector_biometric",
+      "n": 1396685
+    },
+    {
+      "second": 38100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 89393
+    },
+    {
+      "second": 38100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 72574
+    },
+    {
+      "second": 38100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 14529
+    },
+    {
+      "second": 38100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 19809
+    },
+    {
+      "second": 38100,
+      "kind": "enabled_unknown",
+      "n": 48
+    },
+    {
+      "second": 38100,
+      "kind": "vote",
+      "n": 1593269
+    },
+    {
+      "second": 38100,
+      "kind": "vote_elector_biometric",
+      "n": 1396949
+    },
+    {
+      "second": 38100,
+      "kind": "vote_no_elector_biometric",
+      "n": 89392
+    },
+    {
+      "second": 38100,
+      "kind": "vote_pollworker_biometric",
+      "n": 72584
+    },
+    {
+      "second": 38100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 14532
+    },
+    {
+      "second": 38100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19812
+    },
+    {
+      "second": 38400,
+      "kind": "enabled_elector_biometric",
+      "n": 1384841
+    },
+    {
+      "second": 38400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 88440
+    },
+    {
+      "second": 38400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 70765
+    },
+    {
+      "second": 38400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 14208
+    },
+    {
+      "second": 38400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 19700
+    },
+    {
+      "second": 38400,
+      "kind": "enabled_unknown",
+      "n": 63
+    },
+    {
+      "second": 38400,
+      "kind": "vote",
+      "n": 1579197
+    },
+    {
+      "second": 38400,
+      "kind": "vote_elector_biometric",
+      "n": 1385898
+    },
+    {
+      "second": 38400,
+      "kind": "vote_no_elector_biometric",
+      "n": 88545
+    },
+    {
+      "second": 38400,
+      "kind": "vote_pollworker_biometric",
+      "n": 70848
+    },
+    {
+      "second": 38400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 14186
+    },
+    {
+      "second": 38400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19720
+    },
+    {
+      "second": 38700,
+      "kind": "enabled_elector_biometric",
+      "n": 1370753
+    },
+    {
+      "second": 38700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 87871
+    },
+    {
+      "second": 38700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 69339
+    },
+    {
+      "second": 38700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 14071
+    },
+    {
+      "second": 38700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 19460
+    },
+    {
+      "second": 38700,
+      "kind": "enabled_unknown",
+      "n": 63
+    },
+    {
+      "second": 38700,
+      "kind": "vote",
+      "n": 1561932
+    },
+    {
+      "second": 38700,
+      "kind": "vote_elector_biometric",
+      "n": 1371128
+    },
+    {
+      "second": 38700,
+      "kind": "vote_no_elector_biometric",
+      "n": 87931
+    },
+    {
+      "second": 38700,
+      "kind": "vote_pollworker_biometric",
+      "n": 69346
+    },
+    {
+      "second": 38700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 14059
+    },
+    {
+      "second": 38700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19468
+    },
+    {
+      "second": 39000,
+      "kind": "enabled_elector_biometric",
+      "n": 1352635
+    },
+    {
+      "second": 39000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 87047
+    },
+    {
+      "second": 39000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 67622
+    },
+    {
+      "second": 39000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 13680
+    },
+    {
+      "second": 39000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 19136
+    },
+    {
+      "second": 39000,
+      "kind": "enabled_unknown",
+      "n": 47
+    },
+    {
+      "second": 39000,
+      "kind": "vote",
+      "n": 1540756
+    },
+    {
+      "second": 39000,
+      "kind": "vote_elector_biometric",
+      "n": 1353224
+    },
+    {
+      "second": 39000,
+      "kind": "vote_no_elector_biometric",
+      "n": 86932
+    },
+    {
+      "second": 39000,
+      "kind": "vote_pollworker_biometric",
+      "n": 67780
+    },
+    {
+      "second": 39000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 13721
+    },
+    {
+      "second": 39000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19099
+    },
+    {
+      "second": 39300,
+      "kind": "enabled_elector_biometric",
+      "n": 1331390
+    },
+    {
+      "second": 39300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 85511
+    },
+    {
+      "second": 39300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 65835
+    },
+    {
+      "second": 39300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 13323
+    },
+    {
+      "second": 39300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 18922
+    },
+    {
+      "second": 39300,
+      "kind": "enabled_unknown",
+      "n": 43
+    },
+    {
+      "second": 39300,
+      "kind": "vote",
+      "n": 1516062
+    },
+    {
+      "second": 39300,
+      "kind": "vote_elector_biometric",
+      "n": 1332078
+    },
+    {
+      "second": 39300,
+      "kind": "vote_no_elector_biometric",
+      "n": 85648
+    },
+    {
+      "second": 39300,
+      "kind": "vote_pollworker_biometric",
+      "n": 65972
+    },
+    {
+      "second": 39300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 13339
+    },
+    {
+      "second": 39300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 19025
+    },
+    {
+      "second": 39600,
+      "kind": "enabled_elector_biometric",
+      "n": 1310629
+    },
+    {
+      "second": 39600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 85003
+    },
+    {
+      "second": 39600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 64258
+    },
+    {
+      "second": 39600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 13576
+    },
+    {
+      "second": 39600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 18157
+    },
+    {
+      "second": 39600,
+      "kind": "enabled_unknown",
+      "n": 44
+    },
+    {
+      "second": 39600,
+      "kind": "vote",
+      "n": 1492406
+    },
+    {
+      "second": 39600,
+      "kind": "vote_elector_biometric",
+      "n": 1311596
+    },
+    {
+      "second": 39600,
+      "kind": "vote_no_elector_biometric",
+      "n": 84923
+    },
+    {
+      "second": 39600,
+      "kind": "vote_pollworker_biometric",
+      "n": 64196
+    },
+    {
+      "second": 39600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 13555
+    },
+    {
+      "second": 39600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 18136
+    },
+    {
+      "second": 39900,
+      "kind": "enabled_elector_biometric",
+      "n": 1296748
+    },
+    {
+      "second": 39900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 84148
+    },
+    {
+      "second": 39900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 62373
+    },
+    {
+      "second": 39900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 13478
+    },
+    {
+      "second": 39900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 17902
+    },
+    {
+      "second": 39900,
+      "kind": "enabled_unknown",
+      "n": 55
+    },
+    {
+      "second": 39900,
+      "kind": "vote",
+      "n": 1475572
+    },
+    {
+      "second": 39900,
+      "kind": "vote_elector_biometric",
+      "n": 1297211
+    },
+    {
+      "second": 39900,
+      "kind": "vote_no_elector_biometric",
+      "n": 84346
+    },
+    {
+      "second": 39900,
+      "kind": "vote_pollworker_biometric",
+      "n": 62596
+    },
+    {
+      "second": 39900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 13496
+    },
+    {
+      "second": 39900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 17923
+    },
+    {
+      "second": 40200,
+      "kind": "enabled_elector_biometric",
+      "n": 1281376
+    },
+    {
+      "second": 40200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 83098
+    },
+    {
+      "second": 40200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 60968
+    },
+    {
+      "second": 40200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 13241
+    },
+    {
+      "second": 40200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 17974
+    },
+    {
+      "second": 40200,
+      "kind": "enabled_unknown",
+      "n": 43
+    },
+    {
+      "second": 40200,
+      "kind": "vote",
+      "n": 1457509
+    },
+    {
+      "second": 40200,
+      "kind": "vote_elector_biometric",
+      "n": 1282107
+    },
+    {
+      "second": 40200,
+      "kind": "vote_no_elector_biometric",
+      "n": 83190
+    },
+    {
+      "second": 40200,
+      "kind": "vote_pollworker_biometric",
+      "n": 60956
+    },
+    {
+      "second": 40200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 13273
+    },
+    {
+      "second": 40200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 17983
+    },
+    {
+      "second": 40500,
+      "kind": "enabled_elector_biometric",
+      "n": 1263148
+    },
+    {
+      "second": 40500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 81922
+    },
+    {
+      "second": 40500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 59511
+    },
+    {
+      "second": 40500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 12531
+    },
+    {
+      "second": 40500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 17780
+    },
+    {
+      "second": 40500,
+      "kind": "enabled_unknown",
+      "n": 47
+    },
+    {
+      "second": 40500,
+      "kind": "vote",
+      "n": 1435829
+    },
+    {
+      "second": 40500,
+      "kind": "vote_elector_biometric",
+      "n": 1264028
+    },
+    {
+      "second": 40500,
+      "kind": "vote_no_elector_biometric",
+      "n": 81850
+    },
+    {
+      "second": 40500,
+      "kind": "vote_pollworker_biometric",
+      "n": 59639
+    },
+    {
+      "second": 40500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 12536
+    },
+    {
+      "second": 40500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 17776
+    },
+    {
+      "second": 40800,
+      "kind": "enabled_elector_biometric",
+      "n": 1245212
+    },
+    {
+      "second": 40800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 81176
+    },
+    {
+      "second": 40800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 57896
+    },
+    {
+      "second": 40800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 12491
+    },
+    {
+      "second": 40800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 17557
+    },
+    {
+      "second": 40800,
+      "kind": "enabled_unknown",
+      "n": 53
+    },
+    {
+      "second": 40800,
+      "kind": "vote",
+      "n": 1415015
+    },
+    {
+      "second": 40800,
+      "kind": "vote_elector_biometric",
+      "n": 1245694
+    },
+    {
+      "second": 40800,
+      "kind": "vote_no_elector_biometric",
+      "n": 81208
+    },
+    {
+      "second": 40800,
+      "kind": "vote_pollworker_biometric",
+      "n": 58023
+    },
+    {
+      "second": 40800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 12507
+    },
+    {
+      "second": 40800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 17583
+    },
+    {
+      "second": 41100,
+      "kind": "enabled_elector_biometric",
+      "n": 1219139
+    },
+    {
+      "second": 41100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 79722
+    },
+    {
+      "second": 41100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 56372
+    },
+    {
+      "second": 41100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 11997
+    },
+    {
+      "second": 41100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 17226
+    },
+    {
+      "second": 41100,
+      "kind": "enabled_unknown",
+      "n": 35
+    },
+    {
+      "second": 41100,
+      "kind": "vote",
+      "n": 1385173
+    },
+    {
+      "second": 41100,
+      "kind": "vote_elector_biometric",
+      "n": 1219905
+    },
+    {
+      "second": 41100,
+      "kind": "vote_no_elector_biometric",
+      "n": 79843
+    },
+    {
+      "second": 41100,
+      "kind": "vote_pollworker_biometric",
+      "n": 56209
+    },
+    {
+      "second": 41100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 12014
+    },
+    {
+      "second": 41100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 17202
+    },
+    {
+      "second": 41400,
+      "kind": "enabled_elector_biometric",
+      "n": 1192177
+    },
+    {
+      "second": 41400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 78593
+    },
+    {
+      "second": 41400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 53926
+    },
+    {
+      "second": 41400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 11983
+    },
+    {
+      "second": 41400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 16524
+    },
+    {
+      "second": 41400,
+      "kind": "enabled_unknown",
+      "n": 39
+    },
+    {
+      "second": 41400,
+      "kind": "vote",
+      "n": 1354353
+    },
+    {
+      "second": 41400,
+      "kind": "vote_elector_biometric",
+      "n": 1193007
+    },
+    {
+      "second": 41400,
+      "kind": "vote_no_elector_biometric",
+      "n": 78652
+    },
+    {
+      "second": 41400,
+      "kind": "vote_pollworker_biometric",
+      "n": 54182
+    },
+    {
+      "second": 41400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 11937
+    },
+    {
+      "second": 41400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 16575
+    },
+    {
+      "second": 41700,
+      "kind": "enabled_elector_biometric",
+      "n": 1167158
+    },
+    {
+      "second": 41700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 77205
+    },
+    {
+      "second": 41700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 52798
+    },
+    {
+      "second": 41700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 11694
+    },
+    {
+      "second": 41700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 16438
+    },
+    {
+      "second": 41700,
+      "kind": "enabled_unknown",
+      "n": 41
+    },
+    {
+      "second": 41700,
+      "kind": "vote",
+      "n": 1325857
+    },
+    {
+      "second": 41700,
+      "kind": "vote_elector_biometric",
+      "n": 1167819
+    },
+    {
+      "second": 41700,
+      "kind": "vote_no_elector_biometric",
+      "n": 77156
+    },
+    {
+      "second": 41700,
+      "kind": "vote_pollworker_biometric",
+      "n": 52826
+    },
+    {
+      "second": 41700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 11683
+    },
+    {
+      "second": 41700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 16373
+    },
+    {
+      "second": 42000,
+      "kind": "enabled_elector_biometric",
+      "n": 1143260
+    },
+    {
+      "second": 42000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 76033
+    },
+    {
+      "second": 42000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 51656
+    },
+    {
+      "second": 42000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 11273
+    },
+    {
+      "second": 42000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 15922
+    },
+    {
+      "second": 42000,
+      "kind": "enabled_unknown",
+      "n": 41
+    },
+    {
+      "second": 42000,
+      "kind": "vote",
+      "n": 1299689
+    },
+    {
+      "second": 42000,
+      "kind": "vote_elector_biometric",
+      "n": 1144353
+    },
+    {
+      "second": 42000,
+      "kind": "vote_no_elector_biometric",
+      "n": 76255
+    },
+    {
+      "second": 42000,
+      "kind": "vote_pollworker_biometric",
+      "n": 51720
+    },
+    {
+      "second": 42000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 11346
+    },
+    {
+      "second": 42000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 16015
+    },
+    {
+      "second": 42300,
+      "kind": "enabled_elector_biometric",
+      "n": 1116455
+    },
+    {
+      "second": 42300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 74505
+    },
+    {
+      "second": 42300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 49557
+    },
+    {
+      "second": 42300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 10997
+    },
+    {
+      "second": 42300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 15636
+    },
+    {
+      "second": 42300,
+      "kind": "enabled_unknown",
+      "n": 42
+    },
+    {
+      "second": 42300,
+      "kind": "vote",
+      "n": 1268407
+    },
+    {
+      "second": 42300,
+      "kind": "vote_elector_biometric",
+      "n": 1117654
+    },
+    {
+      "second": 42300,
+      "kind": "vote_no_elector_biometric",
+      "n": 74405
+    },
+    {
+      "second": 42300,
+      "kind": "vote_pollworker_biometric",
+      "n": 49690
+    },
+    {
+      "second": 42300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 11017
+    },
+    {
+      "second": 42300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 15641
+    },
+    {
+      "second": 42600,
+      "kind": "enabled_elector_biometric",
+      "n": 1089774
+    },
+    {
+      "second": 42600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 72625
+    },
+    {
+      "second": 42600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 48215
+    },
+    {
+      "second": 42600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 10680
+    },
+    {
+      "second": 42600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 15602
+    },
+    {
+      "second": 42600,
+      "kind": "enabled_unknown",
+      "n": 35
+    },
+    {
+      "second": 42600,
+      "kind": "vote",
+      "n": 1237635
+    },
+    {
+      "second": 42600,
+      "kind": "vote_elector_biometric",
+      "n": 1090246
+    },
+    {
+      "second": 42600,
+      "kind": "vote_no_elector_biometric",
+      "n": 72834
+    },
+    {
+      "second": 42600,
+      "kind": "vote_pollworker_biometric",
+      "n": 48273
+    },
+    {
+      "second": 42600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 10702
+    },
+    {
+      "second": 42600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 15580
+    },
+    {
+      "second": 42900,
+      "kind": "enabled_elector_biometric",
+      "n": 1064616
+    },
+    {
+      "second": 42900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 71450
+    },
+    {
+      "second": 42900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 46499
+    },
+    {
+      "second": 42900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 10444
+    },
+    {
+      "second": 42900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 14881
+    },
+    {
+      "second": 42900,
+      "kind": "enabled_unknown",
+      "n": 35
+    },
+    {
+      "second": 42900,
+      "kind": "vote",
+      "n": 1209174
+    },
+    {
+      "second": 42900,
+      "kind": "vote_elector_biometric",
+      "n": 1065862
+    },
+    {
+      "second": 42900,
+      "kind": "vote_no_elector_biometric",
+      "n": 71410
+    },
+    {
+      "second": 42900,
+      "kind": "vote_pollworker_biometric",
+      "n": 46498
+    },
+    {
+      "second": 42900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 10435
+    },
+    {
+      "second": 42900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 14969
+    },
+    {
+      "second": 43200,
+      "kind": "enabled_elector_biometric",
+      "n": 1043109
+    },
+    {
+      "second": 43200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 69781
+    },
+    {
+      "second": 43200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 44935
+    },
+    {
+      "second": 43200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 10812
+    },
+    {
+      "second": 43200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 14447
+    },
+    {
+      "second": 43200,
+      "kind": "enabled_unknown",
+      "n": 34
+    },
+    {
+      "second": 43200,
+      "kind": "vote",
+      "n": 1183691
+    },
+    {
+      "second": 43200,
+      "kind": "vote_elector_biometric",
+      "n": 1043547
+    },
+    {
+      "second": 43200,
+      "kind": "vote_no_elector_biometric",
+      "n": 69862
+    },
+    {
+      "second": 43200,
+      "kind": "vote_pollworker_biometric",
+      "n": 45038
+    },
+    {
+      "second": 43200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 10814
+    },
+    {
+      "second": 43200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 14430
+    },
+    {
+      "second": 43500,
+      "kind": "enabled_elector_biometric",
+      "n": 1028809
+    },
+    {
+      "second": 43500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 69559
+    },
+    {
+      "second": 43500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 44169
+    },
+    {
+      "second": 43500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 10583
+    },
+    {
+      "second": 43500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 14085
+    },
+    {
+      "second": 43500,
+      "kind": "enabled_unknown",
+      "n": 41
+    },
+    {
+      "second": 43500,
+      "kind": "vote",
+      "n": 1167660
+    },
+    {
+      "second": 43500,
+      "kind": "vote_elector_biometric",
+      "n": 1029161
+    },
+    {
+      "second": 43500,
+      "kind": "vote_no_elector_biometric",
+      "n": 69560
+    },
+    {
+      "second": 43500,
+      "kind": "vote_pollworker_biometric",
+      "n": 44232
+    },
+    {
+      "second": 43500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 10569
+    },
+    {
+      "second": 43500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 14138
+    },
+    {
+      "second": 43800,
+      "kind": "enabled_elector_biometric",
+      "n": 1009165
+    },
+    {
+      "second": 43800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 68275
+    },
+    {
+      "second": 43800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 43271
+    },
+    {
+      "second": 43800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 10579
+    },
+    {
+      "second": 43800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 13685
+    },
+    {
+      "second": 43800,
+      "kind": "enabled_unknown",
+      "n": 45
+    },
+    {
+      "second": 43800,
+      "kind": "vote",
+      "n": 1146212
+    },
+    {
+      "second": 43800,
+      "kind": "vote_elector_biometric",
+      "n": 1010222
+    },
+    {
+      "second": 43800,
+      "kind": "vote_no_elector_biometric",
+      "n": 68327
+    },
+    {
+      "second": 43800,
+      "kind": "vote_pollworker_biometric",
+      "n": 43356
+    },
+    {
+      "second": 43800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 10628
+    },
+    {
+      "second": 43800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 13679
+    },
+    {
+      "second": 44100,
+      "kind": "enabled_elector_biometric",
+      "n": 989232
+    },
+    {
+      "second": 44100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 67414
+    },
+    {
+      "second": 44100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 42290
+    },
+    {
+      "second": 44100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 10154
+    },
+    {
+      "second": 44100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 13752
+    },
+    {
+      "second": 44100,
+      "kind": "enabled_unknown",
+      "n": 40
+    },
+    {
+      "second": 44100,
+      "kind": "vote",
+      "n": 1123975
+    },
+    {
+      "second": 44100,
+      "kind": "vote_elector_biometric",
+      "n": 990342
+    },
+    {
+      "second": 44100,
+      "kind": "vote_no_elector_biometric",
+      "n": 67464
+    },
+    {
+      "second": 44100,
+      "kind": "vote_pollworker_biometric",
+      "n": 42249
+    },
+    {
+      "second": 44100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 10124
+    },
+    {
+      "second": 44100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 13796
+    },
+    {
+      "second": 44400,
+      "kind": "enabled_elector_biometric",
+      "n": 968415
+    },
+    {
+      "second": 44400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 66226
+    },
+    {
+      "second": 44400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 41154
+    },
+    {
+      "second": 44400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9744
+    },
+    {
+      "second": 44400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 13336
+    },
+    {
+      "second": 44400,
+      "kind": "enabled_unknown",
+      "n": 48
+    },
+    {
+      "second": 44400,
+      "kind": "vote",
+      "n": 1099377
+    },
+    {
+      "second": 44400,
+      "kind": "vote_elector_biometric",
+      "n": 968793
+    },
+    {
+      "second": 44400,
+      "kind": "vote_no_elector_biometric",
+      "n": 66327
+    },
+    {
+      "second": 44400,
+      "kind": "vote_pollworker_biometric",
+      "n": 41189
+    },
+    {
+      "second": 44400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9764
+    },
+    {
+      "second": 44400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 13304
+    },
+    {
+      "second": 44700,
+      "kind": "enabled_elector_biometric",
+      "n": 946082
+    },
+    {
+      "second": 44700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 64549
+    },
+    {
+      "second": 44700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 40125
+    },
+    {
+      "second": 44700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9872
+    },
+    {
+      "second": 44700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 13442
+    },
+    {
+      "second": 44700,
+      "kind": "enabled_unknown",
+      "n": 30
+    },
+    {
+      "second": 44700,
+      "kind": "vote",
+      "n": 1074738
+    },
+    {
+      "second": 44700,
+      "kind": "vote_elector_biometric",
+      "n": 946696
+    },
+    {
+      "second": 44700,
+      "kind": "vote_no_elector_biometric",
+      "n": 64512
+    },
+    {
+      "second": 44700,
+      "kind": "vote_pollworker_biometric",
+      "n": 40253
+    },
+    {
+      "second": 44700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9874
+    },
+    {
+      "second": 44700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 13403
+    },
+    {
+      "second": 45000,
+      "kind": "enabled_elector_biometric",
+      "n": 926765
+    },
+    {
+      "second": 45000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 63799
+    },
+    {
+      "second": 45000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 39115
+    },
+    {
+      "second": 45000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9638
+    },
+    {
+      "second": 45000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12735
+    },
+    {
+      "second": 45000,
+      "kind": "enabled_unknown",
+      "n": 32
+    },
+    {
+      "second": 45000,
+      "kind": "vote",
+      "n": 1052876
+    },
+    {
+      "second": 45000,
+      "kind": "vote_elector_biometric",
+      "n": 927244
+    },
+    {
+      "second": 45000,
+      "kind": "vote_no_elector_biometric",
+      "n": 63988
+    },
+    {
+      "second": 45000,
+      "kind": "vote_pollworker_biometric",
+      "n": 39167
+    },
+    {
+      "second": 45000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9635
+    },
+    {
+      "second": 45000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12842
+    },
+    {
+      "second": 45300,
+      "kind": "enabled_elector_biometric",
+      "n": 909232
+    },
+    {
+      "second": 45300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 62874
+    },
+    {
+      "second": 45300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 38579
+    },
+    {
+      "second": 45300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9625
+    },
+    {
+      "second": 45300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12764
+    },
+    {
+      "second": 45300,
+      "kind": "enabled_unknown",
+      "n": 37
+    },
+    {
+      "second": 45300,
+      "kind": "vote",
+      "n": 1033518
+    },
+    {
+      "second": 45300,
+      "kind": "vote_elector_biometric",
+      "n": 909737
+    },
+    {
+      "second": 45300,
+      "kind": "vote_no_elector_biometric",
+      "n": 62790
+    },
+    {
+      "second": 45300,
+      "kind": "vote_pollworker_biometric",
+      "n": 38599
+    },
+    {
+      "second": 45300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9645
+    },
+    {
+      "second": 45300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12747
+    },
+    {
+      "second": 45600,
+      "kind": "enabled_elector_biometric",
+      "n": 892079
+    },
+    {
+      "second": 45600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 61596
+    },
+    {
+      "second": 45600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 37888
+    },
+    {
+      "second": 45600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9605
+    },
+    {
+      "second": 45600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12618
+    },
+    {
+      "second": 45600,
+      "kind": "enabled_unknown",
+      "n": 34
+    },
+    {
+      "second": 45600,
+      "kind": "vote",
+      "n": 1014697
+    },
+    {
+      "second": 45600,
+      "kind": "vote_elector_biometric",
+      "n": 892920
+    },
+    {
+      "second": 45600,
+      "kind": "vote_no_elector_biometric",
+      "n": 61729
+    },
+    {
+      "second": 45600,
+      "kind": "vote_pollworker_biometric",
+      "n": 37890
+    },
+    {
+      "second": 45600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9574
+    },
+    {
+      "second": 45600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12584
+    },
+    {
+      "second": 45900,
+      "kind": "enabled_elector_biometric",
+      "n": 875215
+    },
+    {
+      "second": 45900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 60551
+    },
+    {
+      "second": 45900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 37287
+    },
+    {
+      "second": 45900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9344
+    },
+    {
+      "second": 45900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12471
+    },
+    {
+      "second": 45900,
+      "kind": "enabled_unknown",
+      "n": 42
+    },
+    {
+      "second": 45900,
+      "kind": "vote",
+      "n": 995088
+    },
+    {
+      "second": 45900,
+      "kind": "vote_elector_biometric",
+      "n": 875398
+    },
+    {
+      "second": 45900,
+      "kind": "vote_no_elector_biometric",
+      "n": 60533
+    },
+    {
+      "second": 45900,
+      "kind": "vote_pollworker_biometric",
+      "n": 37296
+    },
+    {
+      "second": 45900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9379
+    },
+    {
+      "second": 45900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12482
+    },
+    {
+      "second": 46200,
+      "kind": "enabled_elector_biometric",
+      "n": 859595
+    },
+    {
+      "second": 46200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 59490
+    },
+    {
+      "second": 46200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 36729
+    },
+    {
+      "second": 46200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9323
+    },
+    {
+      "second": 46200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12273
+    },
+    {
+      "second": 46200,
+      "kind": "enabled_unknown",
+      "n": 30
+    },
+    {
+      "second": 46200,
+      "kind": "vote",
+      "n": 978480
+    },
+    {
+      "second": 46200,
+      "kind": "vote_elector_biometric",
+      "n": 860505
+    },
+    {
+      "second": 46200,
+      "kind": "vote_no_elector_biometric",
+      "n": 59580
+    },
+    {
+      "second": 46200,
+      "kind": "vote_pollworker_biometric",
+      "n": 36712
+    },
+    {
+      "second": 46200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9340
+    },
+    {
+      "second": 46200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12343
+    },
+    {
+      "second": 46500,
+      "kind": "enabled_elector_biometric",
+      "n": 847886
+    },
+    {
+      "second": 46500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 58761
+    },
+    {
+      "second": 46500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 36079
+    },
+    {
+      "second": 46500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9383
+    },
+    {
+      "second": 46500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12152
+    },
+    {
+      "second": 46500,
+      "kind": "enabled_unknown",
+      "n": 22
+    },
+    {
+      "second": 46500,
+      "kind": "vote",
+      "n": 964302
+    },
+    {
+      "second": 46500,
+      "kind": "vote_elector_biometric",
+      "n": 847992
+    },
+    {
+      "second": 46500,
+      "kind": "vote_no_elector_biometric",
+      "n": 58713
+    },
+    {
+      "second": 46500,
+      "kind": "vote_pollworker_biometric",
+      "n": 36112
+    },
+    {
+      "second": 46500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9378
+    },
+    {
+      "second": 46500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12107
+    },
+    {
+      "second": 46800,
+      "kind": "enabled_elector_biometric",
+      "n": 839933
+    },
+    {
+      "second": 46800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 58435
+    },
+    {
+      "second": 46800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35955
+    },
+    {
+      "second": 46800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9517
+    },
+    {
+      "second": 46800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11862
+    },
+    {
+      "second": 46800,
+      "kind": "enabled_unknown",
+      "n": 23
+    },
+    {
+      "second": 46800,
+      "kind": "vote",
+      "n": 955873
+    },
+    {
+      "second": 46800,
+      "kind": "vote_elector_biometric",
+      "n": 840131
+    },
+    {
+      "second": 46800,
+      "kind": "vote_no_elector_biometric",
+      "n": 58537
+    },
+    {
+      "second": 46800,
+      "kind": "vote_pollworker_biometric",
+      "n": 35900
+    },
+    {
+      "second": 46800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9457
+    },
+    {
+      "second": 46800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11848
+    },
+    {
+      "second": 47100,
+      "kind": "enabled_elector_biometric",
+      "n": 835989
+    },
+    {
+      "second": 47100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 57799
+    },
+    {
+      "second": 47100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35563
+    },
+    {
+      "second": 47100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9804
+    },
+    {
+      "second": 47100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11581
+    },
+    {
+      "second": 47100,
+      "kind": "enabled_unknown",
+      "n": 25
+    },
+    {
+      "second": 47100,
+      "kind": "vote",
+      "n": 950964
+    },
+    {
+      "second": 47100,
+      "kind": "vote_elector_biometric",
+      "n": 836126
+    },
+    {
+      "second": 47100,
+      "kind": "vote_no_elector_biometric",
+      "n": 57806
+    },
+    {
+      "second": 47100,
+      "kind": "vote_pollworker_biometric",
+      "n": 35653
+    },
+    {
+      "second": 47100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9773
+    },
+    {
+      "second": 47100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11606
+    },
+    {
+      "second": 47400,
+      "kind": "enabled_elector_biometric",
+      "n": 830584
+    },
+    {
+      "second": 47400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 57672
+    },
+    {
+      "second": 47400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35882
+    },
+    {
+      "second": 47400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9495
+    },
+    {
+      "second": 47400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11339
+    },
+    {
+      "second": 47400,
+      "kind": "enabled_unknown",
+      "n": 38
+    },
+    {
+      "second": 47400,
+      "kind": "vote",
+      "n": 945054
+    },
+    {
+      "second": 47400,
+      "kind": "vote_elector_biometric",
+      "n": 830792
+    },
+    {
+      "second": 47400,
+      "kind": "vote_no_elector_biometric",
+      "n": 57557
+    },
+    {
+      "second": 47400,
+      "kind": "vote_pollworker_biometric",
+      "n": 35799
+    },
+    {
+      "second": 47400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9593
+    },
+    {
+      "second": 47400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11313
+    },
+    {
+      "second": 47700,
+      "kind": "enabled_elector_biometric",
+      "n": 826045
+    },
+    {
+      "second": 47700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 57952
+    },
+    {
+      "second": 47700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35656
+    },
+    {
+      "second": 47700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9654
+    },
+    {
+      "second": 47700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11630
+    },
+    {
+      "second": 47700,
+      "kind": "enabled_unknown",
+      "n": 27
+    },
+    {
+      "second": 47700,
+      "kind": "vote",
+      "n": 941201
+    },
+    {
+      "second": 47700,
+      "kind": "vote_elector_biometric",
+      "n": 826210
+    },
+    {
+      "second": 47700,
+      "kind": "vote_no_elector_biometric",
+      "n": 58071
+    },
+    {
+      "second": 47700,
+      "kind": "vote_pollworker_biometric",
+      "n": 35678
+    },
+    {
+      "second": 47700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9612
+    },
+    {
+      "second": 47700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11630
+    },
+    {
+      "second": 48000,
+      "kind": "enabled_elector_biometric",
+      "n": 819260
+    },
+    {
+      "second": 48000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 57634
+    },
+    {
+      "second": 48000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35650
+    },
+    {
+      "second": 48000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9473
+    },
+    {
+      "second": 48000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11560
+    },
+    {
+      "second": 48000,
+      "kind": "enabled_unknown",
+      "n": 31
+    },
+    {
+      "second": 48000,
+      "kind": "vote",
+      "n": 933910
+    },
+    {
+      "second": 48000,
+      "kind": "vote_elector_biometric",
+      "n": 819604
+    },
+    {
+      "second": 48000,
+      "kind": "vote_no_elector_biometric",
+      "n": 57597
+    },
+    {
+      "second": 48000,
+      "kind": "vote_pollworker_biometric",
+      "n": 35687
+    },
+    {
+      "second": 48000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9475
+    },
+    {
+      "second": 48000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11547
+    },
+    {
+      "second": 48300,
+      "kind": "enabled_elector_biometric",
+      "n": 813808
+    },
+    {
+      "second": 48300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56694
+    },
+    {
+      "second": 48300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35506
+    },
+    {
+      "second": 48300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9271
+    },
+    {
+      "second": 48300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11587
+    },
+    {
+      "second": 48300,
+      "kind": "enabled_unknown",
+      "n": 21
+    },
+    {
+      "second": 48300,
+      "kind": "vote",
+      "n": 926588
+    },
+    {
+      "second": 48300,
+      "kind": "vote_elector_biometric",
+      "n": 813521
+    },
+    {
+      "second": 48300,
+      "kind": "vote_no_elector_biometric",
+      "n": 56731
+    },
+    {
+      "second": 48300,
+      "kind": "vote_pollworker_biometric",
+      "n": 35445
+    },
+    {
+      "second": 48300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9283
+    },
+    {
+      "second": 48300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11608
+    },
+    {
+      "second": 48600,
+      "kind": "enabled_elector_biometric",
+      "n": 804651
+    },
+    {
+      "second": 48600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56691
+    },
+    {
+      "second": 48600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35403
+    },
+    {
+      "second": 48600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9185
+    },
+    {
+      "second": 48600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11813
+    },
+    {
+      "second": 48600,
+      "kind": "enabled_unknown",
+      "n": 24
+    },
+    {
+      "second": 48600,
+      "kind": "vote",
+      "n": 917978
+    },
+    {
+      "second": 48600,
+      "kind": "vote_elector_biometric",
+      "n": 804790
+    },
+    {
+      "second": 48600,
+      "kind": "vote_no_elector_biometric",
+      "n": 56648
+    },
+    {
+      "second": 48600,
+      "kind": "vote_pollworker_biometric",
+      "n": 35559
+    },
+    {
+      "second": 48600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9168
+    },
+    {
+      "second": 48600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11813
+    },
+    {
+      "second": 48900,
+      "kind": "enabled_elector_biometric",
+      "n": 800532
+    },
+    {
+      "second": 48900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56705
+    },
+    {
+      "second": 48900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35407
+    },
+    {
+      "second": 48900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 8987
+    },
+    {
+      "second": 48900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11818
+    },
+    {
+      "second": 48900,
+      "kind": "enabled_unknown",
+      "n": 18
+    },
+    {
+      "second": 48900,
+      "kind": "vote",
+      "n": 913525
+    },
+    {
+      "second": 48900,
+      "kind": "vote_elector_biometric",
+      "n": 800845
+    },
+    {
+      "second": 48900,
+      "kind": "vote_no_elector_biometric",
+      "n": 56647
+    },
+    {
+      "second": 48900,
+      "kind": "vote_pollworker_biometric",
+      "n": 35259
+    },
+    {
+      "second": 48900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 8989
+    },
+    {
+      "second": 48900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11785
+    },
+    {
+      "second": 49200,
+      "kind": "enabled_elector_biometric",
+      "n": 793480
+    },
+    {
+      "second": 49200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56746
+    },
+    {
+      "second": 49200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35526
+    },
+    {
+      "second": 49200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 9109
+    },
+    {
+      "second": 49200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11899
+    },
+    {
+      "second": 49200,
+      "kind": "enabled_unknown",
+      "n": 39
+    },
+    {
+      "second": 49200,
+      "kind": "vote",
+      "n": 907440
+    },
+    {
+      "second": 49200,
+      "kind": "vote_elector_biometric",
+      "n": 794073
+    },
+    {
+      "second": 49200,
+      "kind": "vote_no_elector_biometric",
+      "n": 56812
+    },
+    {
+      "second": 49200,
+      "kind": "vote_pollworker_biometric",
+      "n": 35579
+    },
+    {
+      "second": 49200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 9088
+    },
+    {
+      "second": 49200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11888
+    },
+    {
+      "second": 49500,
+      "kind": "enabled_elector_biometric",
+      "n": 787795
+    },
+    {
+      "second": 49500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56987
+    },
+    {
+      "second": 49500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35138
+    },
+    {
+      "second": 49500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 8715
+    },
+    {
+      "second": 49500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11903
+    },
+    {
+      "second": 49500,
+      "kind": "enabled_unknown",
+      "n": 37
+    },
+    {
+      "second": 49500,
+      "kind": "vote",
+      "n": 900213
+    },
+    {
+      "second": 49500,
+      "kind": "vote_elector_biometric",
+      "n": 787384
+    },
+    {
+      "second": 49500,
+      "kind": "vote_no_elector_biometric",
+      "n": 57056
+    },
+    {
+      "second": 49500,
+      "kind": "vote_pollworker_biometric",
+      "n": 35080
+    },
+    {
+      "second": 49500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 8768
+    },
+    {
+      "second": 49500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11925
+    },
+    {
+      "second": 49800,
+      "kind": "enabled_elector_biometric",
+      "n": 782052
+    },
+    {
+      "second": 49800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56883
+    },
+    {
+      "second": 49800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 34979
+    },
+    {
+      "second": 49800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 8540
+    },
+    {
+      "second": 49800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12030
+    },
+    {
+      "second": 49800,
+      "kind": "enabled_unknown",
+      "n": 24
+    },
+    {
+      "second": 49800,
+      "kind": "vote",
+      "n": 895010
+    },
+    {
+      "second": 49800,
+      "kind": "vote_elector_biometric",
+      "n": 782611
+    },
+    {
+      "second": 49800,
+      "kind": "vote_no_elector_biometric",
+      "n": 56820
+    },
+    {
+      "second": 49800,
+      "kind": "vote_pollworker_biometric",
+      "n": 34996
+    },
+    {
+      "second": 49800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 8552
+    },
+    {
+      "second": 49800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12031
+    },
+    {
+      "second": 50100,
+      "kind": "enabled_elector_biometric",
+      "n": 779442
+    },
+    {
+      "second": 50100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56168
+    },
+    {
+      "second": 50100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 34944
+    },
+    {
+      "second": 50100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 8266
+    },
+    {
+      "second": 50100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12097
+    },
+    {
+      "second": 50100,
+      "kind": "enabled_unknown",
+      "n": 33
+    },
+    {
+      "second": 50100,
+      "kind": "vote",
+      "n": 891081
+    },
+    {
+      "second": 50100,
+      "kind": "vote_elector_biometric",
+      "n": 779689
+    },
+    {
+      "second": 50100,
+      "kind": "vote_no_elector_biometric",
+      "n": 56129
+    },
+    {
+      "second": 50100,
+      "kind": "vote_pollworker_biometric",
+      "n": 34937
+    },
+    {
+      "second": 50100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 8289
+    },
+    {
+      "second": 50100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12037
+    },
+    {
+      "second": 50400,
+      "kind": "enabled_elector_biometric",
+      "n": 780565
+    },
+    {
+      "second": 50400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56603
+    },
+    {
+      "second": 50400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35188
+    },
+    {
+      "second": 50400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 8200
+    },
+    {
+      "second": 50400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11993
+    },
+    {
+      "second": 50400,
+      "kind": "enabled_unknown",
+      "n": 22
+    },
+    {
+      "second": 50400,
+      "kind": "vote",
+      "n": 892181
+    },
+    {
+      "second": 50400,
+      "kind": "vote_elector_biometric",
+      "n": 780336
+    },
+    {
+      "second": 50400,
+      "kind": "vote_no_elector_biometric",
+      "n": 56502
+    },
+    {
+      "second": 50400,
+      "kind": "vote_pollworker_biometric",
+      "n": 35148
+    },
+    {
+      "second": 50400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 8178
+    },
+    {
+      "second": 50400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12017
+    },
+    {
+      "second": 50700,
+      "kind": "enabled_elector_biometric",
+      "n": 782864
+    },
+    {
+      "second": 50700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56537
+    },
+    {
+      "second": 50700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35194
+    },
+    {
+      "second": 50700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 8050
+    },
+    {
+      "second": 50700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12163
+    },
+    {
+      "second": 50700,
+      "kind": "enabled_unknown",
+      "n": 26
+    },
+    {
+      "second": 50700,
+      "kind": "vote",
+      "n": 894644
+    },
+    {
+      "second": 50700,
+      "kind": "vote_elector_biometric",
+      "n": 782610
+    },
+    {
+      "second": 50700,
+      "kind": "vote_no_elector_biometric",
+      "n": 56583
+    },
+    {
+      "second": 50700,
+      "kind": "vote_pollworker_biometric",
+      "n": 35237
+    },
+    {
+      "second": 50700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 8037
+    },
+    {
+      "second": 50700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12177
+    },
+    {
+      "second": 51000,
+      "kind": "enabled_elector_biometric",
+      "n": 782761
+    },
+    {
+      "second": 51000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 57429
+    },
+    {
+      "second": 51000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35458
+    },
+    {
+      "second": 51000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 8016
+    },
+    {
+      "second": 51000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11927
+    },
+    {
+      "second": 51000,
+      "kind": "enabled_unknown",
+      "n": 38
+    },
+    {
+      "second": 51000,
+      "kind": "vote",
+      "n": 895582
+    },
+    {
+      "second": 51000,
+      "kind": "vote_elector_biometric",
+      "n": 782642
+    },
+    {
+      "second": 51000,
+      "kind": "vote_no_elector_biometric",
+      "n": 57472
+    },
+    {
+      "second": 51000,
+      "kind": "vote_pollworker_biometric",
+      "n": 35483
+    },
+    {
+      "second": 51000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 8051
+    },
+    {
+      "second": 51000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11934
+    },
+    {
+      "second": 51300,
+      "kind": "enabled_elector_biometric",
+      "n": 782542
+    },
+    {
+      "second": 51300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 57527
+    },
+    {
+      "second": 51300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 36030
+    },
+    {
+      "second": 51300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 8026
+    },
+    {
+      "second": 51300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12134
+    },
+    {
+      "second": 51300,
+      "kind": "enabled_unknown",
+      "n": 30
+    },
+    {
+      "second": 51300,
+      "kind": "vote",
+      "n": 895972
+    },
+    {
+      "second": 51300,
+      "kind": "vote_elector_biometric",
+      "n": 782499
+    },
+    {
+      "second": 51300,
+      "kind": "vote_no_elector_biometric",
+      "n": 57407
+    },
+    {
+      "second": 51300,
+      "kind": "vote_pollworker_biometric",
+      "n": 35917
+    },
+    {
+      "second": 51300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 8017
+    },
+    {
+      "second": 51300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12132
+    },
+    {
+      "second": 51600,
+      "kind": "enabled_elector_biometric",
+      "n": 778063
+    },
+    {
+      "second": 51600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 57058
+    },
+    {
+      "second": 51600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 36046
+    },
+    {
+      "second": 51600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 7854
+    },
+    {
+      "second": 51600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12398
+    },
+    {
+      "second": 51600,
+      "kind": "enabled_unknown",
+      "n": 26
+    },
+    {
+      "second": 51600,
+      "kind": "vote",
+      "n": 891855
+    },
+    {
+      "second": 51600,
+      "kind": "vote_elector_biometric",
+      "n": 778399
+    },
+    {
+      "second": 51600,
+      "kind": "vote_no_elector_biometric",
+      "n": 57165
+    },
+    {
+      "second": 51600,
+      "kind": "vote_pollworker_biometric",
+      "n": 36047
+    },
+    {
+      "second": 51600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 7850
+    },
+    {
+      "second": 51600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12394
+    },
+    {
+      "second": 51900,
+      "kind": "enabled_elector_biometric",
+      "n": 774633
+    },
+    {
+      "second": 51900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 57295
+    },
+    {
+      "second": 51900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35677
+    },
+    {
+      "second": 51900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 7804
+    },
+    {
+      "second": 51900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 12439
+    },
+    {
+      "second": 51900,
+      "kind": "enabled_unknown",
+      "n": 32
+    },
+    {
+      "second": 51900,
+      "kind": "vote",
+      "n": 887817
+    },
+    {
+      "second": 51900,
+      "kind": "vote_elector_biometric",
+      "n": 774563
+    },
+    {
+      "second": 51900,
+      "kind": "vote_no_elector_biometric",
+      "n": 57348
+    },
+    {
+      "second": 51900,
+      "kind": "vote_pollworker_biometric",
+      "n": 35687
+    },
+    {
+      "second": 51900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 7832
+    },
+    {
+      "second": 51900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12387
+    },
+    {
+      "second": 52200,
+      "kind": "enabled_elector_biometric",
+      "n": 771245
+    },
+    {
+      "second": 52200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56632
+    },
+    {
+      "second": 52200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35740
+    },
+    {
+      "second": 52200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 7495
+    },
+    {
+      "second": 52200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11987
+    },
+    {
+      "second": 52200,
+      "kind": "enabled_unknown",
+      "n": 27
+    },
+    {
+      "second": 52200,
+      "kind": "vote",
+      "n": 883320
+    },
+    {
+      "second": 52200,
+      "kind": "vote_elector_biometric",
+      "n": 771557
+    },
+    {
+      "second": 52200,
+      "kind": "vote_no_elector_biometric",
+      "n": 56538
+    },
+    {
+      "second": 52200,
+      "kind": "vote_pollworker_biometric",
+      "n": 35711
+    },
+    {
+      "second": 52200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 7471
+    },
+    {
+      "second": 52200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 12043
+    },
+    {
+      "second": 52500,
+      "kind": "enabled_elector_biometric",
+      "n": 766648
+    },
+    {
+      "second": 52500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56500
+    },
+    {
+      "second": 52500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35110
+    },
+    {
+      "second": 52500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 7407
+    },
+    {
+      "second": 52500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11925
+    },
+    {
+      "second": 52500,
+      "kind": "enabled_unknown",
+      "n": 31
+    },
+    {
+      "second": 52500,
+      "kind": "vote",
+      "n": 877881
+    },
+    {
+      "second": 52500,
+      "kind": "vote_elector_biometric",
+      "n": 766758
+    },
+    {
+      "second": 52500,
+      "kind": "vote_no_elector_biometric",
+      "n": 56559
+    },
+    {
+      "second": 52500,
+      "kind": "vote_pollworker_biometric",
+      "n": 35176
+    },
+    {
+      "second": 52500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 7453
+    },
+    {
+      "second": 52500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11935
+    },
+    {
+      "second": 52800,
+      "kind": "enabled_elector_biometric",
+      "n": 761805
+    },
+    {
+      "second": 52800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56491
+    },
+    {
+      "second": 52800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 35419
+    },
+    {
+      "second": 52800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 7209
+    },
+    {
+      "second": 52800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11961
+    },
+    {
+      "second": 52800,
+      "kind": "enabled_unknown",
+      "n": 34
+    },
+    {
+      "second": 52800,
+      "kind": "vote",
+      "n": 873159
+    },
+    {
+      "second": 52800,
+      "kind": "vote_elector_biometric",
+      "n": 762179
+    },
+    {
+      "second": 52800,
+      "kind": "vote_no_elector_biometric",
+      "n": 56421
+    },
+    {
+      "second": 52800,
+      "kind": "vote_pollworker_biometric",
+      "n": 35453
+    },
+    {
+      "second": 52800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 7155
+    },
+    {
+      "second": 52800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11951
+    },
+    {
+      "second": 53100,
+      "kind": "enabled_elector_biometric",
+      "n": 755586
+    },
+    {
+      "second": 53100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 55998
+    },
+    {
+      "second": 53100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 34903
+    },
+    {
+      "second": 53100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 7286
+    },
+    {
+      "second": 53100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11710
+    },
+    {
+      "second": 53100,
+      "kind": "enabled_unknown",
+      "n": 40
+    },
+    {
+      "second": 53100,
+      "kind": "vote",
+      "n": 865434
+    },
+    {
+      "second": 53100,
+      "kind": "vote_elector_biometric",
+      "n": 755500
+    },
+    {
+      "second": 53100,
+      "kind": "vote_no_elector_biometric",
+      "n": 56044
+    },
+    {
+      "second": 53100,
+      "kind": "vote_pollworker_biometric",
+      "n": 34848
+    },
+    {
+      "second": 53100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 7349
+    },
+    {
+      "second": 53100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11693
+    },
+    {
+      "second": 53400,
+      "kind": "enabled_elector_biometric",
+      "n": 748431
+    },
+    {
+      "second": 53400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 56122
+    },
+    {
+      "second": 53400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 34519
+    },
+    {
+      "second": 53400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6935
+    },
+    {
+      "second": 53400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11469
+    },
+    {
+      "second": 53400,
+      "kind": "enabled_unknown",
+      "n": 30
+    },
+    {
+      "second": 53400,
+      "kind": "vote",
+      "n": 857905
+    },
+    {
+      "second": 53400,
+      "kind": "vote_elector_biometric",
+      "n": 748978
+    },
+    {
+      "second": 53400,
+      "kind": "vote_no_elector_biometric",
+      "n": 56006
+    },
+    {
+      "second": 53400,
+      "kind": "vote_pollworker_biometric",
+      "n": 34474
+    },
+    {
+      "second": 53400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6947
+    },
+    {
+      "second": 53400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11500
+    },
+    {
+      "second": 53700,
+      "kind": "enabled_elector_biometric",
+      "n": 744057
+    },
+    {
+      "second": 53700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 54920
+    },
+    {
+      "second": 53700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 34443
+    },
+    {
+      "second": 53700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6780
+    },
+    {
+      "second": 53700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11551
+    },
+    {
+      "second": 53700,
+      "kind": "enabled_unknown",
+      "n": 28
+    },
+    {
+      "second": 53700,
+      "kind": "vote",
+      "n": 851328
+    },
+    {
+      "second": 53700,
+      "kind": "vote_elector_biometric",
+      "n": 743524
+    },
+    {
+      "second": 53700,
+      "kind": "vote_no_elector_biometric",
+      "n": 55083
+    },
+    {
+      "second": 53700,
+      "kind": "vote_pollworker_biometric",
+      "n": 34469
+    },
+    {
+      "second": 53700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6770
+    },
+    {
+      "second": 53700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11482
+    },
+    {
+      "second": 54000,
+      "kind": "enabled_elector_biometric",
+      "n": 740229
+    },
+    {
+      "second": 54000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 55766
+    },
+    {
+      "second": 54000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 34270
+    },
+    {
+      "second": 54000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6770
+    },
+    {
+      "second": 54000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11474
+    },
+    {
+      "second": 54000,
+      "kind": "enabled_unknown",
+      "n": 25
+    },
+    {
+      "second": 54000,
+      "kind": "vote",
+      "n": 848774
+    },
+    {
+      "second": 54000,
+      "kind": "vote_elector_biometric",
+      "n": 740513
+    },
+    {
+      "second": 54000,
+      "kind": "vote_no_elector_biometric",
+      "n": 55670
+    },
+    {
+      "second": 54000,
+      "kind": "vote_pollworker_biometric",
+      "n": 34318
+    },
+    {
+      "second": 54000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6761
+    },
+    {
+      "second": 54000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11512
+    },
+    {
+      "second": 54300,
+      "kind": "enabled_elector_biometric",
+      "n": 738553
+    },
+    {
+      "second": 54300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 54652
+    },
+    {
+      "second": 54300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 34240
+    },
+    {
+      "second": 54300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6621
+    },
+    {
+      "second": 54300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11295
+    },
+    {
+      "second": 54300,
+      "kind": "enabled_unknown",
+      "n": 31
+    },
+    {
+      "second": 54300,
+      "kind": "vote",
+      "n": 846001
+    },
+    {
+      "second": 54300,
+      "kind": "vote_elector_biometric",
+      "n": 738997
+    },
+    {
+      "second": 54300,
+      "kind": "vote_no_elector_biometric",
+      "n": 54734
+    },
+    {
+      "second": 54300,
+      "kind": "vote_pollworker_biometric",
+      "n": 34320
+    },
+    {
+      "second": 54300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6629
+    },
+    {
+      "second": 54300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11321
+    },
+    {
+      "second": 54600,
+      "kind": "enabled_elector_biometric",
+      "n": 735572
+    },
+    {
+      "second": 54600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 55295
+    },
+    {
+      "second": 54600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 33835
+    },
+    {
+      "second": 54600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6520
+    },
+    {
+      "second": 54600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11329
+    },
+    {
+      "second": 54600,
+      "kind": "enabled_unknown",
+      "n": 45
+    },
+    {
+      "second": 54600,
+      "kind": "vote",
+      "n": 842136
+    },
+    {
+      "second": 54600,
+      "kind": "vote_elector_biometric",
+      "n": 735340
+    },
+    {
+      "second": 54600,
+      "kind": "vote_no_elector_biometric",
+      "n": 55199
+    },
+    {
+      "second": 54600,
+      "kind": "vote_pollworker_biometric",
+      "n": 33768
+    },
+    {
+      "second": 54600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6530
+    },
+    {
+      "second": 54600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11299
+    },
+    {
+      "second": 54900,
+      "kind": "enabled_elector_biometric",
+      "n": 732005
+    },
+    {
+      "second": 54900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 54588
+    },
+    {
+      "second": 54900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 33949
+    },
+    {
+      "second": 54900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6565
+    },
+    {
+      "second": 54900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 10940
+    },
+    {
+      "second": 54900,
+      "kind": "enabled_unknown",
+      "n": 29
+    },
+    {
+      "second": 54900,
+      "kind": "vote",
+      "n": 838516
+    },
+    {
+      "second": 54900,
+      "kind": "vote_elector_biometric",
+      "n": 732300
+    },
+    {
+      "second": 54900,
+      "kind": "vote_no_elector_biometric",
+      "n": 54742
+    },
+    {
+      "second": 54900,
+      "kind": "vote_pollworker_biometric",
+      "n": 33939
+    },
+    {
+      "second": 54900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6557
+    },
+    {
+      "second": 54900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 10978
+    },
+    {
+      "second": 55200,
+      "kind": "enabled_elector_biometric",
+      "n": 725839
+    },
+    {
+      "second": 55200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 54249
+    },
+    {
+      "second": 55200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 33416
+    },
+    {
+      "second": 55200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6341
+    },
+    {
+      "second": 55200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 11192
+    },
+    {
+      "second": 55200,
+      "kind": "enabled_unknown",
+      "n": 32
+    },
+    {
+      "second": 55200,
+      "kind": "vote",
+      "n": 831059
+    },
+    {
+      "second": 55200,
+      "kind": "vote_elector_biometric",
+      "n": 725875
+    },
+    {
+      "second": 55200,
+      "kind": "vote_no_elector_biometric",
+      "n": 54228
+    },
+    {
+      "second": 55200,
+      "kind": "vote_pollworker_biometric",
+      "n": 33399
+    },
+    {
+      "second": 55200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6361
+    },
+    {
+      "second": 55200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 11196
+    },
+    {
+      "second": 55500,
+      "kind": "enabled_elector_biometric",
+      "n": 716672
+    },
+    {
+      "second": 55500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 53591
+    },
+    {
+      "second": 55500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 32554
+    },
+    {
+      "second": 55500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6340
+    },
+    {
+      "second": 55500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 10910
+    },
+    {
+      "second": 55500,
+      "kind": "enabled_unknown",
+      "n": 19
+    },
+    {
+      "second": 55500,
+      "kind": "vote",
+      "n": 820915
+    },
+    {
+      "second": 55500,
+      "kind": "vote_elector_biometric",
+      "n": 717498
+    },
+    {
+      "second": 55500,
+      "kind": "vote_no_elector_biometric",
+      "n": 53579
+    },
+    {
+      "second": 55500,
+      "kind": "vote_pollworker_biometric",
+      "n": 32636
+    },
+    {
+      "second": 55500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6310
+    },
+    {
+      "second": 55500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 10892
+    },
+    {
+      "second": 55800,
+      "kind": "enabled_elector_biometric",
+      "n": 709870
+    },
+    {
+      "second": 55800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 53017
+    },
+    {
+      "second": 55800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 32435
+    },
+    {
+      "second": 55800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 6193
+    },
+    {
+      "second": 55800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 10714
+    },
+    {
+      "second": 55800,
+      "kind": "enabled_unknown",
+      "n": 24
+    },
+    {
+      "second": 55800,
+      "kind": "vote",
+      "n": 812476
+    },
+    {
+      "second": 55800,
+      "kind": "vote_elector_biometric",
+      "n": 710106
+    },
+    {
+      "second": 55800,
+      "kind": "vote_no_elector_biometric",
+      "n": 52991
+    },
+    {
+      "second": 55800,
+      "kind": "vote_pollworker_biometric",
+      "n": 32413
+    },
+    {
+      "second": 55800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6225
+    },
+    {
+      "second": 55800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 10741
+    },
+    {
+      "second": 56100,
+      "kind": "enabled_elector_biometric",
+      "n": 701972
+    },
+    {
+      "second": 56100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 52795
+    },
+    {
+      "second": 56100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 32162
+    },
+    {
+      "second": 56100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 5970
+    },
+    {
+      "second": 56100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 10523
+    },
+    {
+      "second": 56100,
+      "kind": "enabled_unknown",
+      "n": 26
+    },
+    {
+      "second": 56100,
+      "kind": "vote",
+      "n": 803760
+    },
+    {
+      "second": 56100,
+      "kind": "vote_elector_biometric",
+      "n": 702109
+    },
+    {
+      "second": 56100,
+      "kind": "vote_no_elector_biometric",
+      "n": 52824
+    },
+    {
+      "second": 56100,
+      "kind": "vote_pollworker_biometric",
+      "n": 32299
+    },
+    {
+      "second": 56100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 6008
+    },
+    {
+      "second": 56100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 10520
+    },
+    {
+      "second": 56400,
+      "kind": "enabled_elector_biometric",
+      "n": 693681
+    },
+    {
+      "second": 56400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 51586
+    },
+    {
+      "second": 56400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 31156
+    },
+    {
+      "second": 56400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 5972
+    },
+    {
+      "second": 56400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 10506
+    },
+    {
+      "second": 56400,
+      "kind": "enabled_unknown",
+      "n": 25
+    },
+    {
+      "second": 56400,
+      "kind": "vote",
+      "n": 793275
+    },
+    {
+      "second": 56400,
+      "kind": "vote_elector_biometric",
+      "n": 694063
+    },
+    {
+      "second": 56400,
+      "kind": "vote_no_elector_biometric",
+      "n": 51687
+    },
+    {
+      "second": 56400,
+      "kind": "vote_pollworker_biometric",
+      "n": 31121
+    },
+    {
+      "second": 56400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 5900
+    },
+    {
+      "second": 56400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 10504
+    },
+    {
+      "second": 56700,
+      "kind": "enabled_elector_biometric",
+      "n": 682384
+    },
+    {
+      "second": 56700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 51320
+    },
+    {
+      "second": 56700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 31147
+    },
+    {
+      "second": 56700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 5708
+    },
+    {
+      "second": 56700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 10173
+    },
+    {
+      "second": 56700,
+      "kind": "enabled_unknown",
+      "n": 32
+    },
+    {
+      "second": 56700,
+      "kind": "vote",
+      "n": 781562
+    },
+    {
+      "second": 56700,
+      "kind": "vote_elector_biometric",
+      "n": 683067
+    },
+    {
+      "second": 56700,
+      "kind": "vote_no_elector_biometric",
+      "n": 51396
+    },
+    {
+      "second": 56700,
+      "kind": "vote_pollworker_biometric",
+      "n": 31146
+    },
+    {
+      "second": 56700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 5740
+    },
+    {
+      "second": 56700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 10213
+    },
+    {
+      "second": 57000,
+      "kind": "enabled_elector_biometric",
+      "n": 671047
+    },
+    {
+      "second": 57000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 50316
+    },
+    {
+      "second": 57000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 29907
+    },
+    {
+      "second": 57000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 5656
+    },
+    {
+      "second": 57000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 9956
+    },
+    {
+      "second": 57000,
+      "kind": "enabled_unknown",
+      "n": 22
+    },
+    {
+      "second": 57000,
+      "kind": "vote",
+      "n": 767052
+    },
+    {
+      "second": 57000,
+      "kind": "vote_elector_biometric",
+      "n": 671275
+    },
+    {
+      "second": 57000,
+      "kind": "vote_no_elector_biometric",
+      "n": 50214
+    },
+    {
+      "second": 57000,
+      "kind": "vote_pollworker_biometric",
+      "n": 29919
+    },
+    {
+      "second": 57000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 5703
+    },
+    {
+      "second": 57000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 9941
+    },
+    {
+      "second": 57300,
+      "kind": "enabled_elector_biometric",
+      "n": 659179
+    },
+    {
+      "second": 57300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 49448
+    },
+    {
+      "second": 57300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 29288
+    },
+    {
+      "second": 57300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 5511
+    },
+    {
+      "second": 57300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 9717
+    },
+    {
+      "second": 57300,
+      "kind": "enabled_unknown",
+      "n": 25
+    },
+    {
+      "second": 57300,
+      "kind": "vote",
+      "n": 753687
+    },
+    {
+      "second": 57300,
+      "kind": "vote_elector_biometric",
+      "n": 659522
+    },
+    {
+      "second": 57300,
+      "kind": "vote_no_elector_biometric",
+      "n": 49563
+    },
+    {
+      "second": 57300,
+      "kind": "vote_pollworker_biometric",
+      "n": 29381
+    },
+    {
+      "second": 57300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 5488
+    },
+    {
+      "second": 57300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 9733
+    },
+    {
+      "second": 57600,
+      "kind": "enabled_elector_biometric",
+      "n": 649295
+    },
+    {
+      "second": 57600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 48706
+    },
+    {
+      "second": 57600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 28538
+    },
+    {
+      "second": 57600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 5214
+    },
+    {
+      "second": 57600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 9403
+    },
+    {
+      "second": 57600,
+      "kind": "enabled_unknown",
+      "n": 15
+    },
+    {
+      "second": 57600,
+      "kind": "vote",
+      "n": 741443
+    },
+    {
+      "second": 57600,
+      "kind": "vote_elector_biometric",
+      "n": 649446
+    },
+    {
+      "second": 57600,
+      "kind": "vote_no_elector_biometric",
+      "n": 48803
+    },
+    {
+      "second": 57600,
+      "kind": "vote_pollworker_biometric",
+      "n": 28523
+    },
+    {
+      "second": 57600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 5249
+    },
+    {
+      "second": 57600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 9422
+    },
+    {
+      "second": 57900,
+      "kind": "enabled_elector_biometric",
+      "n": 639504
+    },
+    {
+      "second": 57900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 48307
+    },
+    {
+      "second": 57900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 27789
+    },
+    {
+      "second": 57900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 5070
+    },
+    {
+      "second": 57900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 9210
+    },
+    {
+      "second": 57900,
+      "kind": "enabled_unknown",
+      "n": 22
+    },
+    {
+      "second": 57900,
+      "kind": "vote",
+      "n": 730616
+    },
+    {
+      "second": 57900,
+      "kind": "vote_elector_biometric",
+      "n": 640161
+    },
+    {
+      "second": 57900,
+      "kind": "vote_no_elector_biometric",
+      "n": 48290
+    },
+    {
+      "second": 57900,
+      "kind": "vote_pollworker_biometric",
+      "n": 27844
+    },
+    {
+      "second": 57900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 5097
+    },
+    {
+      "second": 57900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 9224
+    },
+    {
+      "second": 58200,
+      "kind": "enabled_elector_biometric",
+      "n": 633872
+    },
+    {
+      "second": 58200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 47959
+    },
+    {
+      "second": 58200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 27407
+    },
+    {
+      "second": 58200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 4889
+    },
+    {
+      "second": 58200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 8936
+    },
+    {
+      "second": 58200,
+      "kind": "enabled_unknown",
+      "n": 24
+    },
+    {
+      "second": 58200,
+      "kind": "vote",
+      "n": 723254
+    },
+    {
+      "second": 58200,
+      "kind": "vote_elector_biometric",
+      "n": 633947
+    },
+    {
+      "second": 58200,
+      "kind": "vote_no_elector_biometric",
+      "n": 48038
+    },
+    {
+      "second": 58200,
+      "kind": "vote_pollworker_biometric",
+      "n": 27456
+    },
+    {
+      "second": 58200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 4856
+    },
+    {
+      "second": 58200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 8957
+    },
+    {
+      "second": 58500,
+      "kind": "enabled_elector_biometric",
+      "n": 626144
+    },
+    {
+      "second": 58500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 47495
+    },
+    {
+      "second": 58500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 26573
+    },
+    {
+      "second": 58500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 4877
+    },
+    {
+      "second": 58500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 8645
+    },
+    {
+      "second": 58500,
+      "kind": "enabled_unknown",
+      "n": 40
+    },
+    {
+      "second": 58500,
+      "kind": "vote",
+      "n": 714375
+    },
+    {
+      "second": 58500,
+      "kind": "vote_elector_biometric",
+      "n": 626781
+    },
+    {
+      "second": 58500,
+      "kind": "vote_no_elector_biometric",
+      "n": 47408
+    },
+    {
+      "second": 58500,
+      "kind": "vote_pollworker_biometric",
+      "n": 26636
+    },
+    {
+      "second": 58500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 4901
+    },
+    {
+      "second": 58500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 8649
+    },
+    {
+      "second": 58800,
+      "kind": "enabled_elector_biometric",
+      "n": 610263
+    },
+    {
+      "second": 58800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 46709
+    },
+    {
+      "second": 58800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 25677
+    },
+    {
+      "second": 58800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 4574
+    },
+    {
+      "second": 58800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 8422
+    },
+    {
+      "second": 58800,
+      "kind": "enabled_unknown",
+      "n": 19
+    },
+    {
+      "second": 58800,
+      "kind": "vote",
+      "n": 696685
+    },
+    {
+      "second": 58800,
+      "kind": "vote_elector_biometric",
+      "n": 611066
+    },
+    {
+      "second": 58800,
+      "kind": "vote_no_elector_biometric",
+      "n": 46819
+    },
+    {
+      "second": 58800,
+      "kind": "vote_pollworker_biometric",
+      "n": 25737
+    },
+    {
+      "second": 58800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 4611
+    },
+    {
+      "second": 58800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 8452
+    },
+    {
+      "second": 59100,
+      "kind": "enabled_elector_biometric",
+      "n": 586033
+    },
+    {
+      "second": 59100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 45132
+    },
+    {
+      "second": 59100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 24286
+    },
+    {
+      "second": 59100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 4385
+    },
+    {
+      "second": 59100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 7861
+    },
+    {
+      "second": 59100,
+      "kind": "enabled_unknown",
+      "n": 15
+    },
+    {
+      "second": 59100,
+      "kind": "vote",
+      "n": 668737
+    },
+    {
+      "second": 59100,
+      "kind": "vote_elector_biometric",
+      "n": 586960
+    },
+    {
+      "second": 59100,
+      "kind": "vote_no_elector_biometric",
+      "n": 45245
+    },
+    {
+      "second": 59100,
+      "kind": "vote_pollworker_biometric",
+      "n": 24331
+    },
+    {
+      "second": 59100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 4344
+    },
+    {
+      "second": 59100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 7857
+    },
+    {
+      "second": 59400,
+      "kind": "enabled_elector_biometric",
+      "n": 543449
+    },
+    {
+      "second": 59400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 42248
+    },
+    {
+      "second": 59400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 21948
+    },
+    {
+      "second": 59400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 4136
+    },
+    {
+      "second": 59400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 7227
+    },
+    {
+      "second": 59400,
+      "kind": "enabled_unknown",
+      "n": 19
+    },
+    {
+      "second": 59400,
+      "kind": "vote",
+      "n": 621539
+    },
+    {
+      "second": 59400,
+      "kind": "vote_elector_biometric",
+      "n": 545574
+    },
+    {
+      "second": 59400,
+      "kind": "vote_no_elector_biometric",
+      "n": 42335
+    },
+    {
+      "second": 59400,
+      "kind": "vote_pollworker_biometric",
+      "n": 22136
+    },
+    {
+      "second": 59400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 4193
+    },
+    {
+      "second": 59400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 7301
+    },
+    {
+      "second": 59700,
+      "kind": "enabled_elector_biometric",
+      "n": 478208
+    },
+    {
+      "second": 59700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 37723
+    },
+    {
+      "second": 59700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 19375
+    },
+    {
+      "second": 59700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 3644
+    },
+    {
+      "second": 59700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 6350
+    },
+    {
+      "second": 59700,
+      "kind": "enabled_unknown",
+      "n": 15
+    },
+    {
+      "second": 59700,
+      "kind": "vote",
+      "n": 548608
+    },
+    {
+      "second": 59700,
+      "kind": "vote_elector_biometric",
+      "n": 481025
+    },
+    {
+      "second": 59700,
+      "kind": "vote_no_elector_biometric",
+      "n": 38047
+    },
+    {
+      "second": 59700,
+      "kind": "vote_pollworker_biometric",
+      "n": 19483
+    },
+    {
+      "second": 59700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 3648
+    },
+    {
+      "second": 59700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 6405
+    },
+    {
+      "second": 60000,
+      "kind": "enabled_elector_biometric",
+      "n": 398726
+    },
+    {
+      "second": 60000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 31837
+    },
+    {
+      "second": 60000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 16080
+    },
+    {
+      "second": 60000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 3059
+    },
+    {
+      "second": 60000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 5372
+    },
+    {
+      "second": 60000,
+      "kind": "enabled_unknown",
+      "n": 16
+    },
+    {
+      "second": 60000,
+      "kind": "vote",
+      "n": 458684
+    },
+    {
+      "second": 60000,
+      "kind": "vote_elector_biometric",
+      "n": 401781
+    },
+    {
+      "second": 60000,
+      "kind": "vote_no_elector_biometric",
+      "n": 32062
+    },
+    {
+      "second": 60000,
+      "kind": "vote_pollworker_biometric",
+      "n": 16279
+    },
+    {
+      "second": 60000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 3110
+    },
+    {
+      "second": 60000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 5452
+    },
+    {
+      "second": 60300,
+      "kind": "enabled_elector_biometric",
+      "n": 304216
+    },
+    {
+      "second": 60300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 24696
+    },
+    {
+      "second": 60300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 12309
+    },
+    {
+      "second": 60300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 2237
+    },
+    {
+      "second": 60300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 3978
+    },
+    {
+      "second": 60300,
+      "kind": "enabled_unknown",
+      "n": 15
+    },
+    {
+      "second": 60300,
+      "kind": "vote",
+      "n": 351926
+    },
+    {
+      "second": 60300,
+      "kind": "vote_elector_biometric",
+      "n": 308020
+    },
+    {
+      "second": 60300,
+      "kind": "vote_no_elector_biometric",
+      "n": 25120
+    },
+    {
+      "second": 60300,
+      "kind": "vote_pollworker_biometric",
+      "n": 12505
+    },
+    {
+      "second": 60300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 2272
+    },
+    {
+      "second": 60300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 4009
+    },
+    {
+      "second": 60600,
+      "kind": "enabled_elector_biometric",
+      "n": 201073
+    },
+    {
+      "second": 60600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 16815
+    },
+    {
+      "second": 60600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 8349
+    },
+    {
+      "second": 60600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1686
+    },
+    {
+      "second": 60600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 2751
+    },
+    {
+      "second": 60600,
+      "kind": "enabled_unknown",
+      "n": 4
+    },
+    {
+      "second": 60600,
+      "kind": "vote",
+      "n": 235038
+    },
+    {
+      "second": 60600,
+      "kind": "vote_elector_biometric",
+      "n": 204808
+    },
+    {
+      "second": 60600,
+      "kind": "vote_no_elector_biometric",
+      "n": 17212
+    },
+    {
+      "second": 60600,
+      "kind": "vote_pollworker_biometric",
+      "n": 8520
+    },
+    {
+      "second": 60600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1700
+    },
+    {
+      "second": 60600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 2798
+    },
+    {
+      "second": 60900,
+      "kind": "enabled_elector_biometric",
+      "n": 108117
+    },
+    {
+      "second": 60900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 9537
+    },
+    {
+      "second": 60900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 4758
+    },
+    {
+      "second": 60900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 969
+    },
+    {
+      "second": 60900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 1493
+    },
+    {
+      "second": 60900,
+      "kind": "enabled_unknown",
+      "n": 2
+    },
+    {
+      "second": 60900,
+      "kind": "vote",
+      "n": 128929
+    },
+    {
+      "second": 60900,
+      "kind": "vote_elector_biometric",
+      "n": 111520
+    },
+    {
+      "second": 60900,
+      "kind": "vote_no_elector_biometric",
+      "n": 9919
+    },
+    {
+      "second": 60900,
+      "kind": "vote_pollworker_biometric",
+      "n": 4923
+    },
+    {
+      "second": 60900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1000
+    },
+    {
+      "second": 60900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 1567
+    },
+    {
+      "second": 61200,
+      "kind": "enabled_elector_biometric",
+      "n": 21660
+    },
+    {
+      "second": 61200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 1978
+    },
+    {
+      "second": 61200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 1429
+    },
+    {
+      "second": 61200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 318
+    },
+    {
+      "second": 61200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 429
+    },
+    {
+      "second": 61200,
+      "kind": "vote",
+      "n": 28798
+    },
+    {
+      "second": 61200,
+      "kind": "vote_elector_biometric",
+      "n": 24139
+    },
+    {
+      "second": 61200,
+      "kind": "vote_no_elector_biometric",
+      "n": 2262
+    },
+    {
+      "second": 61200,
+      "kind": "vote_pollworker_biometric",
+      "n": 1579
+    },
+    {
+      "second": 61200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 352
+    },
+    {
+      "second": 61200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 466
+    },
+    {
+      "second": 61500,
+      "kind": "enabled_elector_biometric",
+      "n": 787
+    },
+    {
+      "second": 61500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 84
+    },
+    {
+      "second": 61500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 69
+    },
+    {
+      "second": 61500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 20
+    },
+    {
+      "second": 61500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 22
+    },
+    {
+      "second": 61500,
+      "kind": "vote",
+      "n": 1116
+    },
+    {
+      "second": 61500,
+      "kind": "vote_elector_biometric",
+      "n": 886
+    },
+    {
+      "second": 61500,
+      "kind": "vote_no_elector_biometric",
+      "n": 96
+    },
+    {
+      "second": 61500,
+      "kind": "vote_pollworker_biometric",
+      "n": 84
+    },
+    {
+      "second": 61500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 23
+    },
+    {
+      "second": 61500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 27
+    },
+    {
+      "second": 61800,
+      "kind": "enabled_elector_biometric",
+      "n": 298
+    },
+    {
+      "second": 61800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 20
+    },
+    {
+      "second": 61800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 20
+    },
+    {
+      "second": 61800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 61800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 4
+    },
+    {
+      "second": 61800,
+      "kind": "vote",
+      "n": 346
+    },
+    {
+      "second": 61800,
+      "kind": "vote_elector_biometric",
+      "n": 299
+    },
+    {
+      "second": 61800,
+      "kind": "vote_no_elector_biometric",
+      "n": 21
+    },
+    {
+      "second": 61800,
+      "kind": "vote_pollworker_biometric",
+      "n": 22
+    },
+    {
+      "second": 61800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 61800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 62100,
+      "kind": "enabled_elector_biometric",
+      "n": 202
+    },
+    {
+      "second": 62100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 19
+    },
+    {
+      "second": 62100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 9
+    },
+    {
+      "second": 62100,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 7
+    },
+    {
+      "second": 62100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 6
+    },
+    {
+      "second": 62100,
+      "kind": "vote",
+      "n": 248
+    },
+    {
+      "second": 62100,
+      "kind": "vote_elector_biometric",
+      "n": 206
+    },
+    {
+      "second": 62100,
+      "kind": "vote_no_elector_biometric",
+      "n": 20
+    },
+    {
+      "second": 62100,
+      "kind": "vote_pollworker_biometric",
+      "n": 8
+    },
+    {
+      "second": 62100,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 7
+    },
+    {
+      "second": 62100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 7
+    },
+    {
+      "second": 62400,
+      "kind": "enabled_elector_biometric",
+      "n": 155
+    },
+    {
+      "second": 62400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 17
+    },
+    {
+      "second": 62400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 6
+    },
+    {
+      "second": 62400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 62400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 5
+    },
+    {
+      "second": 62400,
+      "kind": "vote",
+      "n": 188
+    },
+    {
+      "second": 62400,
+      "kind": "vote_elector_biometric",
+      "n": 155
+    },
+    {
+      "second": 62400,
+      "kind": "vote_no_elector_biometric",
+      "n": 18
+    },
+    {
+      "second": 62400,
+      "kind": "vote_pollworker_biometric",
+      "n": 7
+    },
+    {
+      "second": 62400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 62400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 5
+    },
+    {
+      "second": 62700,
+      "kind": "enabled_elector_biometric",
+      "n": 171
+    },
+    {
+      "second": 62700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 12
+    },
+    {
+      "second": 62700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 7
+    },
+    {
+      "second": 62700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 62700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 62700,
+      "kind": "vote",
+      "n": 196
+    },
+    {
+      "second": 62700,
+      "kind": "vote_elector_biometric",
+      "n": 173
+    },
+    {
+      "second": 62700,
+      "kind": "vote_no_elector_biometric",
+      "n": 11
+    },
+    {
+      "second": 62700,
+      "kind": "vote_pollworker_biometric",
+      "n": 7
+    },
+    {
+      "second": 62700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 62700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 63000,
+      "kind": "enabled_elector_biometric",
+      "n": 163
+    },
+    {
+      "second": 63000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 12
+    },
+    {
+      "second": 63000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 4
+    },
+    {
+      "second": 63000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 63000,
+      "kind": "vote",
+      "n": 182
+    },
+    {
+      "second": 63000,
+      "kind": "vote_elector_biometric",
+      "n": 164
+    },
+    {
+      "second": 63000,
+      "kind": "vote_no_elector_biometric",
+      "n": 12
+    },
+    {
+      "second": 63000,
+      "kind": "vote_pollworker_biometric",
+      "n": 3
+    },
+    {
+      "second": 63000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 63300,
+      "kind": "enabled_elector_biometric",
+      "n": 185
+    },
+    {
+      "second": 63300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 15
+    },
+    {
+      "second": 63300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 3
+    },
+    {
+      "second": 63300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 63300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 63300,
+      "kind": "vote",
+      "n": 206
+    },
+    {
+      "second": 63300,
+      "kind": "vote_elector_biometric",
+      "n": 183
+    },
+    {
+      "second": 63300,
+      "kind": "vote_no_elector_biometric",
+      "n": 16
+    },
+    {
+      "second": 63300,
+      "kind": "vote_pollworker_biometric",
+      "n": 4
+    },
+    {
+      "second": 63300,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 63300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 63600,
+      "kind": "enabled_elector_biometric",
+      "n": 180
+    },
+    {
+      "second": 63600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 20
+    },
+    {
+      "second": 63600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 5
+    },
+    {
+      "second": 63600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 63600,
+      "kind": "vote",
+      "n": 208
+    },
+    {
+      "second": 63600,
+      "kind": "vote_elector_biometric",
+      "n": 182
+    },
+    {
+      "second": 63600,
+      "kind": "vote_no_elector_biometric",
+      "n": 19
+    },
+    {
+      "second": 63600,
+      "kind": "vote_pollworker_biometric",
+      "n": 5
+    },
+    {
+      "second": 63600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 63900,
+      "kind": "enabled_elector_biometric",
+      "n": 188
+    },
+    {
+      "second": 63900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 24
+    },
+    {
+      "second": 63900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 3
+    },
+    {
+      "second": 63900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 63900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 4
+    },
+    {
+      "second": 63900,
+      "kind": "vote",
+      "n": 218
+    },
+    {
+      "second": 63900,
+      "kind": "vote_elector_biometric",
+      "n": 184
+    },
+    {
+      "second": 63900,
+      "kind": "vote_no_elector_biometric",
+      "n": 25
+    },
+    {
+      "second": 63900,
+      "kind": "vote_pollworker_biometric",
+      "n": 3
+    },
+    {
+      "second": 63900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 63900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 4
+    },
+    {
+      "second": 64200,
+      "kind": "enabled_elector_biometric",
+      "n": 169
+    },
+    {
+      "second": 64200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 17
+    },
+    {
+      "second": 64200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 7
+    },
+    {
+      "second": 64200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 64200,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 64200,
+      "kind": "vote",
+      "n": 198
+    },
+    {
+      "second": 64200,
+      "kind": "vote_elector_biometric",
+      "n": 171
+    },
+    {
+      "second": 64200,
+      "kind": "vote_no_elector_biometric",
+      "n": 16
+    },
+    {
+      "second": 64200,
+      "kind": "vote_pollworker_biometric",
+      "n": 7
+    },
+    {
+      "second": 64200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 64200,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 64500,
+      "kind": "enabled_elector_biometric",
+      "n": 191
+    },
+    {
+      "second": 64500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 18
+    },
+    {
+      "second": 64500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 6
+    },
+    {
+      "second": 64500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 64500,
+      "kind": "vote",
+      "n": 214
+    },
+    {
+      "second": 64500,
+      "kind": "vote_elector_biometric",
+      "n": 187
+    },
+    {
+      "second": 64500,
+      "kind": "vote_no_elector_biometric",
+      "n": 19
+    },
+    {
+      "second": 64500,
+      "kind": "vote_pollworker_biometric",
+      "n": 6
+    },
+    {
+      "second": 64500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 64800,
+      "kind": "enabled_elector_biometric",
+      "n": 199
+    },
+    {
+      "second": 64800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 21
+    },
+    {
+      "second": 64800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 8
+    },
+    {
+      "second": 64800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 64800,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 64800,
+      "kind": "vote",
+      "n": 232
+    },
+    {
+      "second": 64800,
+      "kind": "vote_elector_biometric",
+      "n": 199
+    },
+    {
+      "second": 64800,
+      "kind": "vote_no_elector_biometric",
+      "n": 22
+    },
+    {
+      "second": 64800,
+      "kind": "vote_pollworker_biometric",
+      "n": 8
+    },
+    {
+      "second": 64800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 64800,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 65100,
+      "kind": "enabled_elector_biometric",
+      "n": 189
+    },
+    {
+      "second": 65100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 15
+    },
+    {
+      "second": 65100,
+      "kind": "enabled_pollworker_biometric",
+      "n": 7
+    },
+    {
+      "second": 65100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 65100,
+      "kind": "vote",
+      "n": 216
+    },
+    {
+      "second": 65100,
+      "kind": "vote_elector_biometric",
+      "n": 194
+    },
+    {
+      "second": 65100,
+      "kind": "vote_no_elector_biometric",
+      "n": 14
+    },
+    {
+      "second": 65100,
+      "kind": "vote_pollworker_biometric",
+      "n": 6
+    },
+    {
+      "second": 65100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 65400,
+      "kind": "enabled_elector_biometric",
+      "n": 211
+    },
+    {
+      "second": 65400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 13
+    },
+    {
+      "second": 65400,
+      "kind": "enabled_pollworker_biometric",
+      "n": 4
+    },
+    {
+      "second": 65400,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 65400,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 65400,
+      "kind": "vote",
+      "n": 230
+    },
+    {
+      "second": 65400,
+      "kind": "vote_elector_biometric",
+      "n": 209
+    },
+    {
+      "second": 65400,
+      "kind": "vote_no_elector_biometric",
+      "n": 13
+    },
+    {
+      "second": 65400,
+      "kind": "vote_pollworker_biometric",
+      "n": 5
+    },
+    {
+      "second": 65400,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 65400,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 65700,
+      "kind": "enabled_elector_biometric",
+      "n": 203
+    },
+    {
+      "second": 65700,
+      "kind": "enabled_no_elector_biometric",
+      "n": 18
+    },
+    {
+      "second": 65700,
+      "kind": "enabled_pollworker_biometric",
+      "n": 6
+    },
+    {
+      "second": 65700,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 65700,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 4
+    },
+    {
+      "second": 65700,
+      "kind": "vote",
+      "n": 236
+    },
+    {
+      "second": 65700,
+      "kind": "vote_elector_biometric",
+      "n": 208
+    },
+    {
+      "second": 65700,
+      "kind": "vote_no_elector_biometric",
+      "n": 16
+    },
+    {
+      "second": 65700,
+      "kind": "vote_pollworker_biometric",
+      "n": 6
+    },
+    {
+      "second": 65700,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 65700,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 4
+    },
+    {
+      "second": 66000,
+      "kind": "enabled_elector_biometric",
+      "n": 185
+    },
+    {
+      "second": 66000,
+      "kind": "enabled_no_elector_biometric",
+      "n": 21
+    },
+    {
+      "second": 66000,
+      "kind": "enabled_pollworker_biometric",
+      "n": 4
+    },
+    {
+      "second": 66000,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 66000,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 66000,
+      "kind": "vote",
+      "n": 212
+    },
+    {
+      "second": 66000,
+      "kind": "vote_elector_biometric",
+      "n": 183
+    },
+    {
+      "second": 66000,
+      "kind": "vote_no_elector_biometric",
+      "n": 23
+    },
+    {
+      "second": 66000,
+      "kind": "vote_pollworker_biometric",
+      "n": 4
+    },
+    {
+      "second": 66000,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 66000,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 66300,
+      "kind": "enabled_elector_biometric",
+      "n": 142
+    },
+    {
+      "second": 66300,
+      "kind": "enabled_no_elector_biometric",
+      "n": 15
+    },
+    {
+      "second": 66300,
+      "kind": "enabled_pollworker_biometric",
+      "n": 10
+    },
+    {
+      "second": 66300,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 66300,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 66300,
+      "kind": "vote",
+      "n": 168
+    },
+    {
+      "second": 66300,
+      "kind": "vote_elector_biometric",
+      "n": 140
+    },
+    {
+      "second": 66300,
+      "kind": "vote_no_elector_biometric",
+      "n": 15
+    },
+    {
+      "second": 66300,
+      "kind": "vote_pollworker_biometric",
+      "n": 10
+    },
+    {
+      "second": 66300,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 66600,
+      "kind": "enabled_elector_biometric",
+      "n": 154
+    },
+    {
+      "second": 66600,
+      "kind": "enabled_no_elector_biometric",
+      "n": 13
+    },
+    {
+      "second": 66600,
+      "kind": "enabled_pollworker_biometric",
+      "n": 6
+    },
+    {
+      "second": 66600,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 66600,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 66600,
+      "kind": "vote",
+      "n": 177
+    },
+    {
+      "second": 66600,
+      "kind": "vote_elector_biometric",
+      "n": 154
+    },
+    {
+      "second": 66600,
+      "kind": "vote_no_elector_biometric",
+      "n": 13
+    },
+    {
+      "second": 66600,
+      "kind": "vote_pollworker_biometric",
+      "n": 6
+    },
+    {
+      "second": 66600,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 66600,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 66900,
+      "kind": "enabled_elector_biometric",
+      "n": 132
+    },
+    {
+      "second": 66900,
+      "kind": "enabled_no_elector_biometric",
+      "n": 8
+    },
+    {
+      "second": 66900,
+      "kind": "enabled_pollworker_biometric",
+      "n": 4
+    },
+    {
+      "second": 66900,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 66900,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 66900,
+      "kind": "vote",
+      "n": 153
+    },
+    {
+      "second": 66900,
+      "kind": "vote_elector_biometric",
+      "n": 136
+    },
+    {
+      "second": 66900,
+      "kind": "vote_no_elector_biometric",
+      "n": 9
+    },
+    {
+      "second": 66900,
+      "kind": "vote_pollworker_biometric",
+      "n": 4
+    },
+    {
+      "second": 66900,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 66900,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 3
+    },
+    {
+      "second": 67200,
+      "kind": "enabled_elector_biometric",
+      "n": 113
+    },
+    {
+      "second": 67200,
+      "kind": "enabled_no_elector_biometric",
+      "n": 9
+    },
+    {
+      "second": 67200,
+      "kind": "enabled_pollworker_biometric",
+      "n": 5
+    },
+    {
+      "second": 67200,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 67200,
+      "kind": "vote",
+      "n": 124
+    },
+    {
+      "second": 67200,
+      "kind": "vote_elector_biometric",
+      "n": 109
+    },
+    {
+      "second": 67200,
+      "kind": "vote_no_elector_biometric",
+      "n": 9
+    },
+    {
+      "second": 67200,
+      "kind": "vote_pollworker_biometric",
+      "n": 5
+    },
+    {
+      "second": 67200,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 67500,
+      "kind": "enabled_elector_biometric",
+      "n": 92
+    },
+    {
+      "second": 67500,
+      "kind": "enabled_no_elector_biometric",
+      "n": 6
+    },
+    {
+      "second": 67500,
+      "kind": "enabled_pollworker_biometric",
+      "n": 7
+    },
+    {
+      "second": 67500,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 67500,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 67500,
+      "kind": "vote",
+      "n": 111
+    },
+    {
+      "second": 67500,
+      "kind": "vote_elector_biometric",
+      "n": 95
+    },
+    {
+      "second": 67500,
+      "kind": "vote_no_elector_biometric",
+      "n": 6
+    },
+    {
+      "second": 67500,
+      "kind": "vote_pollworker_biometric",
+      "n": 7
+    },
+    {
+      "second": 67500,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 67500,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 2
+    },
+    {
+      "second": 67800,
+      "kind": "enabled_elector_biometric",
+      "n": 75
+    },
+    {
+      "second": 67800,
+      "kind": "enabled_no_elector_biometric",
+      "n": 1
+    },
+    {
+      "second": 67800,
+      "kind": "enabled_pollworker_biometric",
+      "n": 3
+    },
+    {
+      "second": 67800,
+      "kind": "enabled_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 67800,
+      "kind": "vote",
+      "n": 80
+    },
+    {
+      "second": 67800,
+      "kind": "vote_elector_biometric",
+      "n": 75
+    },
+    {
+      "second": 67800,
+      "kind": "vote_no_elector_biometric",
+      "n": 1
+    },
+    {
+      "second": 67800,
+      "kind": "vote_pollworker_biometric",
+      "n": 3
+    },
+    {
+      "second": 67800,
+      "kind": "vote_pollworker_captured_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 68100,
+      "kind": "enabled_elector_biometric",
+      "n": 38
+    },
+    {
+      "second": 68100,
+      "kind": "enabled_no_elector_biometric",
+      "n": 2
+    },
+    {
+      "second": 68100,
+      "kind": "enabled_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 68100,
+      "kind": "vote",
+      "n": 43
+    },
+    {
+      "second": 68100,
+      "kind": "vote_elector_biometric",
+      "n": 40
+    },
+    {
+      "second": 68100,
+      "kind": "vote_no_elector_biometric",
+      "n": 2
+    },
+    {
+      "second": 68100,
+      "kind": "vote_pollworker_unassigned_fingerprint",
+      "n": 1
+    },
+    {
+      "second": 68400,
+      "kind": "enabled_elector_biometric",
+      "n": 8
+    },
+    {
+      "second": 68400,
+      "kind": "enabled_no_elector_biometric",
+      "n": 1
+    },
+    {
+      "second": 68400,
+      "kind": "vote",
+      "n": 9
+    },
+    {
+      "second": 68400,
+      "kind": "vote_elector_biometric",
+      "n": 8
+    },
+    {
+      "second": 68400,
+      "kind": "vote_no_elector_biometric",
+      "n": 1
+    },
+    {
+      "second": 68700,
+      "kind": "enabled_elector_biometric",
+      "n": 1
+    },
+    {
+      "second": 68700,
+      "kind": "vote",
+      "n": 2
+    },
+    {
+      "second": 68700,
+      "kind": "vote_elector_biometric",
+      "n": 2
+    }
+  ],
+  "sums": {
+    "sections": 499207,
+    "total": 128236074,
+    "v13": 64256232,
+    "v22": 59826041,
+    "blank": 1430496,
+    "null_votes": 2723305,
+    "bu_bio": 111970333,
+    "bu_biography": 8632488,
+    "bu_no_bio": 7251810,
+    "provisional_sections": 33044,
+    "totalized_sections": 466163,
+    "mismatches": 82,
+    "clock_issues": 8,
+    "urna_mismatches": 55,
+    "sa_sections": 29,
+    "exterior": 1310
+  },
+  "timed": {
+    "sections": 497837,
+    "pre": 127834218,
+    "post": 5301,
+    "at17": 12,
+    "first": 28819,
+    "last": 68780
+  },
+  "local_late_observed": 1701,
+  "local_no_late_observed_provisional": 92838,
+  "local_no_late_confirmed": 92782,
+  "local_unknown_among_seen": 56,
+  "closing": {
+    "at_or_before_17": 440820,
+    "after_17": 57077,
+    "at_or_before_strict17": 0,
+    "within_closing_margin": 440820,
+    "after_closing_margin": 57077,
+    "early_full_turnout": 0,
+    "early_without_full_turnout": 0,
+    "missing_time": 0,
+    "first_opening": 28800,
+    "last_closing": 83082,
+    "last_closing_for_timeline": 83082,
+    "sections_with_late_vote": 3828
+  },
+  "margin": {
+    "sections": 497837,
+    "before_17": 127805420,
+    "window_17_to_1705": 28810,
+    "after_1705": 5301
+  },
+  "reprocessing_pending": 0,
+  "complete": true,
+  "aggregated_sections": 17931,
+  "unpublished_principal_sections": 41
+}

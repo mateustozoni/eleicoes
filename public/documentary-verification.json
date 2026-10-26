@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "signature_time_verified": false,
+  "average_used": false,
+  "minimum_judges_uf": "sp",
+  "minimum_judges_seconds": 62280,
+  "partition_errors": 0,
+  "independent_core_bin_brackets": [
+    {
+      "anchor": "recebimento",
+      "coarse_lower": 1757296,
+      "exact_post": 2018719,
+      "coarse_upper": 2378835
+    },
+    {
+      "anchor": "criacao_pdf",
+      "coarse_lower": 5313,
+      "exact_post": 13029,
+      "coarse_upper": 34111
+    },
+    {
+      "anchor": "juizes_sp",
+      "coarse_lower": 3603,
+      "exact_post": 3701,
+      "coarse_upper": 3851
+    }
+  ],
+  "regional_hours_available": 3,
+  "coverage_is_not_national_census": true
+}

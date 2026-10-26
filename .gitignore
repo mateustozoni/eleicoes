@@ -1,0 +1,35 @@
+# Bases eleitorais e artefatos grandes: sempre locais.
+/data/
+/output/
+/output-history/
+/tmp/
+/.venv/
+/venv/
+*.sqlite
+*.sqlite-*
+*.db
+*.duckdb
+*.duckdb.*
+*.parquet
+*.csv
+*.jsonl
+*.log
+*.jez
+*.dat
+*.rdv
+*.zip
+!docs/official-schema.zip
+# Investigação exploratória que não integra a publicação aprovada.
+/scripts/inspect_clock_scope.py
+# Ambiente, credenciais e caches.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/

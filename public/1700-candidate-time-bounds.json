@@ -1,0 +1,52 @@
+{
+  "valid": true,
+  "known_sections": 464797,
+  "periods": {
+    "pre": {
+      "candidates": {
+        "13": {
+          "minimum": 59703885,
+          "maximum": 64256229,
+          "unresolved_candidate_votes": 4522272
+        },
+        "22": {
+          "minimum": 55350191,
+          "maximum": 59826041,
+          "unresolved_candidate_votes": 4445790
+        }
+      },
+      "provable_winner": null
+    },
+    "at17": {
+      "candidates": {
+        "13": {
+          "minimum": 0,
+          "maximum": 4522506,
+          "unresolved_candidate_votes": 4522272
+        },
+        "22": {
+          "minimum": 0,
+          "maximum": 4446024,
+          "unresolved_candidate_votes": 4445790
+        }
+      },
+      "provable_winner": null
+    },
+    "post": {
+      "candidates": {
+        "13": {
+          "minimum": 3,
+          "maximum": 4552113,
+          "unresolved_candidate_votes": 4522272
+        },
+        "22": {
+          "minimum": 0,
+          "maximum": 4475616,
+          "unresolved_candidate_votes": 4445790
+        }
+      },
+      "provable_winner": null
+    }
+  },
+  "cutoff_seconds": 61200
+}

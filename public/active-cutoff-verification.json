@@ -1,0 +1,12 @@
+{
+  "n": 499207,
+  "partition_or_monotonicity_errors": 0,
+  "recount_changes": 0,
+  "pre1705": 127834218,
+  "at1705": 12,
+  "post1705": 5301,
+  "passed": true,
+  "cutoff_seconds": 61500,
+  "late_method_groups": 5,
+  "late_identification_records": 5301
+}

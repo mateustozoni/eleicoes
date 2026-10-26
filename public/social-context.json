@@ -1,0 +1,69 @@
+{
+  "coverage": {
+    "n": 497837,
+    "same_local": 490522,
+    "matched": 497837
+  },
+  "groups": {
+    "local_type": [
+      {
+        "category": "Convencional",
+        "n": 490133,
+        "ballots": 126008946,
+        "post17": 33380,
+        "post1705": 5256,
+        "sections_post17": 29023,
+        "sections_post1705": 3792,
+        "rate17": 2.6490182689092565,
+        "rate1705": 0.41711324210266787
+      },
+      {
+        "category": "Preso provisório",
+        "n": 243,
+        "ballots": 10858,
+        "post17": 4,
+        "post1705": 0,
+        "sections_post17": 3,
+        "sections_post1705": 0,
+        "rate17": 3.683919690550746,
+        "rate1705": 0.0
+      },
+      {
+        "category": "Voto em trânsito",
+        "n": 146,
+        "ballots": 43001,
+        "post17": 9,
+        "post1705": 7,
+        "sections_post17": 8,
+        "sections_post1705": 6,
+        "rate17": 2.0929745819864656,
+        "rate1705": 1.6278691193228065
+      }
+    ],
+    "accessibility_status": [
+      {
+        "category": "Sem acessibilidade",
+        "n": 273016,
+        "ballots": 70497076,
+        "post17": 20189,
+        "post1705": 3612,
+        "sections_post17": 17405,
+        "sections_post1705": 2601,
+        "rate17": 2.863806720153897,
+        "rate1705": 0.512361675823264
+      },
+      {
+        "category": "Com acessibilidade",
+        "n": 217506,
+        "ballots": 55565729,
+        "post17": 13204,
+        "post1705": 1651,
+        "sections_post17": 11629,
+        "sections_post1705": 1197,
+        "rate17": 2.3762848499657045,
+        "rate1705": 0.29712558976775055
+      }
+    ]
+  },
+  "duplicate_keys": 0
+}

@@ -1,0 +1,9 @@
+*.pdf binary
+*.png binary
+*.zip binary
+# Preserve byte-for-byte metadata/specification captures from third parties.
+assets/bootstrap/*.json -whitespace
+assets/*.geojson -whitespace
+docs/*.asn1 -whitespace
+docs/official-asn1/** -whitespace
+docs/log-do-ecossistema.txt -whitespace

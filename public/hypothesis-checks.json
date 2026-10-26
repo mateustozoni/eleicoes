@@ -1,0 +1,17 @@
+{
+  "n": 497837,
+  "closing_after17": 497837,
+  "voting_after17": 29435,
+  "late_close_without_late_vote": 468402,
+  "closing_after1705": 57065,
+  "voting_after1705": 3828,
+  "later_close_without_later_vote": 53237,
+  "pre17": 127805420,
+  "post17": 33850,
+  "post1705": 5301,
+  "provisional_temporal_sections": 33040,
+  "official_margin": 4430191,
+  "outside_known_pre17_upper": 430654,
+  "winner_survives_extreme_removal": true,
+  "remaining_margin_lower": 3999537
+}

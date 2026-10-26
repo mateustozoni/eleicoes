@@ -1,0 +1,1673 @@
+{
+  "kind": "conditional_scenarios_not_causal_estimates",
+  "baseline_candidates": {
+    "22": 59826041,
+    "13": 64256232
+  },
+  "baseline_margin_13_minus_22": 4430191,
+  "covered_domestic_sections": 497897,
+  "covered_abstention_stock": 29974188,
+  "sections_with_service_model": 497670,
+  "stock_without_service_model": 5944,
+  "first_turn_tail_references": {
+    "ac": {
+      "seconds": 428.5499999999997,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "al": {
+      "seconds": 576.7999999999993,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "am": {
+      "seconds": 848.8999999999978,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "ap": {
+      "seconds": 551.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "ba": {
+      "seconds": 698.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "ce": {
+      "seconds": 510.2000000000007,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "df": {
+      "seconds": 762.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "es": {
+      "seconds": 399.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "go": {
+      "seconds": 442.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "ma": {
+      "seconds": 660.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "mg": {
+      "seconds": 408.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "ms": {
+      "seconds": 437.89999999999964,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "mt": {
+      "seconds": 691.5,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "pa": {
+      "seconds": 563.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "pb": {
+      "seconds": 475.7999999999993,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "pe": {
+      "seconds": 1718.4500000000007,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "pi": {
+      "seconds": 547.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "pr": {
+      "seconds": 391.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "rj": {
+      "seconds": 1766.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "rn": {
+      "seconds": 573.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "ro": {
+      "seconds": 477.14999999999964,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "rr": {
+      "seconds": 476.20000000000005,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "rs": {
+      "seconds": 330.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "sc": {
+      "seconds": 320.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "se": {
+      "seconds": 549.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "sp": {
+      "seconds": 667.0,
+      "basis": "base integral da UF, registros válidos"
+    },
+    "to": {
+      "seconds": 508.89999999999964,
+      "basis": "base integral da UF, registros válidos"
+    }
+  },
+  "scenarios": [
+    {
+      "window": "technical",
+      "window_label": "Desde o encerramento declarado",
+      "pace": "median",
+      "realization": 0.25,
+      "additional_capacity": 7243309.75,
+      "nominal_extra": 7008789.952084788,
+      "margin_national_share": 4680430.43723707,
+      "margin_local_second_share": 4629309.739023418,
+      "margin_local_first_finalists_share": 4206300.543429318,
+      "margin_all_extra_13": 11438980.952084787,
+      "margin_all_extra_22": -2578598.952084788
+    },
+    {
+      "window": "technical",
+      "window_label": "Desde o encerramento declarado",
+      "pace": "median",
+      "realization": 0.5,
+      "additional_capacity": 14486619.5,
+      "nominal_extra": 14017579.904169576,
+      "margin_national_share": 4930669.874474139,
+      "margin_local_second_share": 4828428.478046836,
+      "margin_local_first_finalists_share": 3982410.0868586367,
+      "margin_all_extra_13": 18447770.904169574,
+      "margin_all_extra_22": -9587388.904169576
+    },
+    {
+      "window": "technical",
+      "window_label": "Desde o encerramento declarado",
+      "pace": "median",
+      "realization": 1.0,
+      "additional_capacity": 28973239.0,
+      "nominal_extra": 28035159.808339152,
+      "margin_national_share": 5431148.748948278,
+      "margin_local_second_share": 5226665.956093672,
+      "margin_local_first_finalists_share": 3534629.173717273,
+      "margin_all_extra_13": 32465350.808339152,
+      "margin_all_extra_22": -23604968.808339152
+    },
+    {
+      "window": "technical",
+      "window_label": "Desde o encerramento declarado",
+      "pace": "mean",
+      "realization": 0.25,
+      "additional_capacity": 6167847.75,
+      "nominal_extra": 5967681.843599412,
+      "margin_national_share": 4643259.069718367,
+      "margin_local_second_share": 4591414.269955424,
+      "margin_local_first_finalists_share": 4233497.718158758,
+      "margin_all_extra_13": 10397872.843599413,
+      "margin_all_extra_22": -1537490.8435994117
+    },
+    {
+      "window": "technical",
+      "window_label": "Desde o encerramento declarado",
+      "pace": "mean",
+      "realization": 0.5,
+      "additional_capacity": 12335695.5,
+      "nominal_extra": 11935363.687198823,
+      "margin_national_share": 4856327.139436735,
+      "margin_local_second_share": 4752637.539910846,
+      "margin_local_first_finalists_share": 4036804.436317516,
+      "margin_all_extra_13": 16365554.687198823,
+      "margin_all_extra_22": -7505172.687198823
+    },
+    {
+      "window": "technical",
+      "window_label": "Desde o encerramento declarado",
+      "pace": "mean",
+      "realization": 1.0,
+      "additional_capacity": 24671391.0,
+      "nominal_extra": 23870727.374397647,
+      "margin_national_share": 5282463.27887347,
+      "margin_local_second_share": 5075084.079821693,
+      "margin_local_first_finalists_share": 3643417.872635032,
+      "margin_all_extra_13": 28300918.374397647,
+      "margin_all_extra_22": -19440536.374397647
+    },
+    {
+      "window": "protocol",
+      "window_label": "Desde o início final de protocolo observado",
+      "pace": "median",
+      "realization": 0.25,
+      "additional_capacity": 7247108.0,
+      "nominal_extra": 7012464.870543349,
+      "margin_national_share": 4680561.645267735,
+      "margin_local_second_share": 4629524.055580661,
+      "margin_local_first_finalists_share": 4206281.489195185,
+      "margin_all_extra_13": 11442655.87054335,
+      "margin_all_extra_22": -2582273.8705433486
+    },
+    {
+      "window": "protocol",
+      "window_label": "Desde o início final de protocolo observado",
+      "pace": "median",
+      "realization": 0.5,
+      "additional_capacity": 14494216.0,
+      "nominal_extra": 14024929.741086697,
+      "margin_national_share": 4930932.2905354705,
+      "margin_local_second_share": 4828857.1111613205,
+      "margin_local_first_finalists_share": 3982371.9783903696,
+      "margin_all_extra_13": 18455120.7410867,
+      "margin_all_extra_22": -9594738.741086697
+    },
+    {
+      "window": "protocol",
+      "window_label": "Desde o início final de protocolo observado",
+      "pace": "median",
+      "realization": 1.0,
+      "additional_capacity": 28988432.0,
+      "nominal_extra": 28049859.482173394,
+      "margin_national_share": 5431673.581070941,
+      "margin_local_second_share": 5227523.222322641,
+      "margin_local_first_finalists_share": 3534552.956780739,
+      "margin_all_extra_13": 32480050.482173394,
+      "margin_all_extra_22": -23619668.482173394
+    },
+    {
+      "window": "protocol",
+      "window_label": "Desde o início final de protocolo observado",
+      "pace": "mean",
+      "realization": 0.25,
+      "additional_capacity": 6184776.0,
+      "nominal_extra": 5984063.46374118,
+      "margin_national_share": 4643843.953476239,
+      "margin_local_second_share": 4591817.8262356045,
+      "margin_local_first_finalists_share": 4232879.584480431,
+      "margin_all_extra_13": 10414254.46374118,
+      "margin_all_extra_22": -1553872.4637411796
+    },
+    {
+      "window": "protocol",
+      "window_label": "Desde o início final de protocolo observado",
+      "pace": "mean",
+      "realization": 0.5,
+      "additional_capacity": 12369552.0,
+      "nominal_extra": 11968126.92748236,
+      "margin_national_share": 4857496.906952478,
+      "margin_local_second_share": 4753444.652471208,
+      "margin_local_first_finalists_share": 4035568.1689608614,
+      "margin_all_extra_13": 16398317.92748236,
+      "margin_all_extra_22": -7537935.927482359
+    },
+    {
+      "window": "protocol",
+      "window_label": "Desde o início final de protocolo observado",
+      "pace": "mean",
+      "realization": 1.0,
+      "additional_capacity": 24739104.0,
+      "nominal_extra": 23936253.85496472,
+      "margin_national_share": 5284802.813904956,
+      "margin_local_second_share": 5076698.304942417,
+      "margin_local_first_finalists_share": 3640945.337921723,
+      "margin_all_extra_13": 28366444.85496472,
+      "margin_all_extra_22": -19506062.85496472
+    },
+    {
+      "window": "reference",
+      "window_label": "Com cauda de referência estadual do 1º turno",
+      "pace": "median",
+      "realization": 0.25,
+      "additional_capacity": 7287173.75,
+      "nominal_extra": 7051162.070496107,
+      "margin_national_share": 4681943.276848226,
+      "margin_local_second_share": 4631647.632214331,
+      "margin_local_first_finalists_share": 4205765.521141678,
+      "margin_all_extra_13": 11481353.070496108,
+      "margin_all_extra_22": -2620971.0704961075
+    },
+    {
+      "window": "reference",
+      "window_label": "Com cauda de referência estadual do 1º turno",
+      "pace": "median",
+      "realization": 0.5,
+      "additional_capacity": 14574347.5,
+      "nominal_extra": 14102324.140992215,
+      "margin_national_share": 4933695.553696453,
+      "margin_local_second_share": 4833104.264428663,
+      "margin_local_first_finalists_share": 3981340.042283357,
+      "margin_all_extra_13": 18532515.140992217,
+      "margin_all_extra_22": -9672133.140992215
+    },
+    {
+      "window": "reference",
+      "window_label": "Com cauda de referência estadual do 1º turno",
+      "pace": "median",
+      "realization": 1.0,
+      "additional_capacity": 29148695.0,
+      "nominal_extra": 28204648.28198443,
+      "margin_national_share": 5437200.107392905,
+      "margin_local_second_share": 5236017.528857325,
+      "margin_local_first_finalists_share": 3532489.0845667142,
+      "margin_all_extra_13": 32634839.28198443,
+      "margin_all_extra_22": -23774457.28198443
+    },
+    {
+      "window": "reference",
+      "window_label": "Com cauda de referência estadual do 1º turno",
+      "pace": "mean",
+      "realization": 0.25,
+      "additional_capacity": 6255445.0,
+      "nominal_extra": 6052344.503893488,
+      "margin_national_share": 4646281.83636023,
+      "margin_local_second_share": 4595140.0311803315,
+      "margin_local_first_finalists_share": 4231794.391664052,
+      "margin_all_extra_13": 10482535.503893487,
+      "margin_all_extra_22": -1622153.503893488
+    },
+    {
+      "window": "reference",
+      "window_label": "Com cauda de referência estadual do 1º turno",
+      "pace": "mean",
+      "realization": 0.5,
+      "additional_capacity": 12510890.0,
+      "nominal_extra": 12104689.007786976,
+      "margin_national_share": 4862372.67272046,
+      "margin_local_second_share": 4760089.062360664,
+      "margin_local_first_finalists_share": 4033397.783328104,
+      "margin_all_extra_13": 16534880.007786976,
+      "margin_all_extra_22": -7674498.007786976
+    },
+    {
+      "window": "reference",
+      "window_label": "Com cauda de referência estadual do 1º turno",
+      "pace": "mean",
+      "realization": 1.0,
+      "additional_capacity": 25021780.0,
+      "nominal_extra": 24209378.015573952,
+      "margin_national_share": 5294554.3454409195,
+      "margin_local_second_share": 5089987.124721328,
+      "margin_local_first_finalists_share": 3636604.566656208,
+      "margin_all_extra_13": 28639569.015573952,
+      "margin_all_extra_22": -19779187.015573952
+    }
+  ],
+  "capacity_by_state": [
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "ac",
+      "capacity": 144279,
+      "stock": 160061,
+      "sections": 2270
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "rj",
+      "capacity": 2414028,
+      "stock": 2779346,
+      "sections": 37667
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "rn",
+      "capacity": 426338,
+      "stock": 426996,
+      "sections": 8113
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "pb",
+      "capacity": 487412,
+      "stock": 504751,
+      "sections": 10705
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "ba",
+      "capacity": 1826143,
+      "stock": 1890374,
+      "sections": 35465
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "mg",
+      "capacity": 3249379,
+      "stock": 3327179,
+      "sections": 52034
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "ce",
+      "capacity": 970542,
+      "stock": 971570,
+      "sections": 23755
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "es",
+      "capacity": 574416,
+      "stock": 582221,
+      "sections": 9840
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "sp",
+      "capacity": 6544553,
+      "stock": 6758238,
+      "sections": 103616
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "go",
+      "capacity": 1017934,
+      "stock": 1032908,
+      "sections": 15677
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "al",
+      "capacity": 485459,
+      "stock": 490449,
+      "sections": 7101
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "ma",
+      "capacity": 1036034,
+      "stock": 1054990,
+      "sections": 18078
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "pr",
+      "capacity": 1545533,
+      "stock": 1553855,
+      "sections": 27135
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "pa",
+      "capacity": 1247004,
+      "stock": 1272157,
+      "sections": 20805
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "pe",
+      "capacity": 1055923,
+      "stock": 1096561,
+      "sections": 21412
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "rs",
+      "capacity": 1609740,
+      "stock": 1632386,
+      "sections": 27528
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "am",
+      "capacity": 572985,
+      "stock": 606574,
+      "sections": 8155
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "sc",
+      "capacity": 968653,
+      "stock": 972240,
+      "sections": 17317
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "ro",
+      "capacity": 272142,
+      "stock": 277415,
+      "sections": 4694
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "rr",
+      "capacity": 88038,
+      "stock": 92832,
+      "sections": 1517
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "ap",
+      "capacity": 131610,
+      "stock": 146902,
+      "sections": 1912
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "pi",
+      "capacity": 460952,
+      "stock": 464748,
+      "sections": 10219
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "to",
+      "capacity": 224995,
+      "stock": 227219,
+      "sections": 4383
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "df",
+      "capacity": 388554,
+      "stock": 390654,
+      "sections": 6965
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "se",
+      "capacity": 270424,
+      "stock": 273428,
+      "sections": 5921
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "ms",
+      "capacity": 418187,
+      "stock": 429695,
+      "sections": 7103
+    },
+    {
+      "window": "technical",
+      "pace": "median",
+      "uf": "mt",
+      "capacity": 541982,
+      "stock": 552495,
+      "sections": 8283
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "ac",
+      "capacity": 98931,
+      "stock": 160061,
+      "sections": 2270
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "rj",
+      "capacity": 1904481,
+      "stock": 2779346,
+      "sections": 37667
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "rn",
+      "capacity": 404105,
+      "stock": 426996,
+      "sections": 8113
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "pb",
+      "capacity": 457710,
+      "stock": 504751,
+      "sections": 10705
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "ba",
+      "capacity": 1674036,
+      "stock": 1890374,
+      "sections": 35465
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "mg",
+      "capacity": 2672182,
+      "stock": 3327179,
+      "sections": 52034
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "ce",
+      "capacity": 930816,
+      "stock": 971570,
+      "sections": 23755
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "es",
+      "capacity": 492158,
+      "stock": 582221,
+      "sections": 9840
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "sp",
+      "capacity": 5510783,
+      "stock": 6758238,
+      "sections": 103616
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "go",
+      "capacity": 850016,
+      "stock": 1032908,
+      "sections": 15677
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "al",
+      "capacity": 396923,
+      "stock": 490449,
+      "sections": 7101
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "ma",
+      "capacity": 840051,
+      "stock": 1054990,
+      "sections": 18078
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "pr",
+      "capacity": 1395043,
+      "stock": 1553855,
+      "sections": 27135
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "pa",
+      "capacity": 1007830,
+      "stock": 1272157,
+      "sections": 20805
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "pe",
+      "capacity": 990872,
+      "stock": 1096561,
+      "sections": 21412
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "rs",
+      "capacity": 1367095,
+      "stock": 1632386,
+      "sections": 27528
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "am",
+      "capacity": 441843,
+      "stock": 606574,
+      "sections": 8155
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "sc",
+      "capacity": 890905,
+      "stock": 972240,
+      "sections": 17317
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "ro",
+      "capacity": 210021,
+      "stock": 277415,
+      "sections": 4694
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "rr",
+      "capacity": 64961,
+      "stock": 92832,
+      "sections": 1517
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "ap",
+      "capacity": 92598,
+      "stock": 146902,
+      "sections": 1912
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "pi",
+      "capacity": 408544,
+      "stock": 464748,
+      "sections": 10219
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "to",
+      "capacity": 192300,
+      "stock": 227219,
+      "sections": 4383
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "df",
+      "capacity": 358994,
+      "stock": 390654,
+      "sections": 6965
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "se",
+      "capacity": 254479,
+      "stock": 273428,
+      "sections": 5921
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "ms",
+      "capacity": 329477,
+      "stock": 429695,
+      "sections": 7103
+    },
+    {
+      "window": "technical",
+      "pace": "mean",
+      "uf": "mt",
+      "capacity": 434237,
+      "stock": 552495,
+      "sections": 8283
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "ac",
+      "capacity": 144523,
+      "stock": 160061,
+      "sections": 2270
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "rj",
+      "capacity": 2417805,
+      "stock": 2779346,
+      "sections": 37667
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "rn",
+      "capacity": 426366,
+      "stock": 426996,
+      "sections": 8113
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "pb",
+      "capacity": 487466,
+      "stock": 504751,
+      "sections": 10705
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "ba",
+      "capacity": 1826426,
+      "stock": 1890374,
+      "sections": 35465
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "mg",
+      "capacity": 3251445,
+      "stock": 3327179,
+      "sections": 52034
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "ce",
+      "capacity": 970569,
+      "stock": 971570,
+      "sections": 23755
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "es",
+      "capacity": 574671,
+      "stock": 582221,
+      "sections": 9840
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "sp",
+      "capacity": 6547747,
+      "stock": 6758238,
+      "sections": 103616
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "go",
+      "capacity": 1018322,
+      "stock": 1032908,
+      "sections": 15677
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "al",
+      "capacity": 485653,
+      "stock": 490449,
+      "sections": 7101
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "ma",
+      "capacity": 1036583,
+      "stock": 1054990,
+      "sections": 18078
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "pr",
+      "capacity": 1545763,
+      "stock": 1553855,
+      "sections": 27135
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "pa",
+      "capacity": 1247702,
+      "stock": 1272157,
+      "sections": 20805
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "pe",
+      "capacity": 1056149,
+      "stock": 1096561,
+      "sections": 21412
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "rs",
+      "capacity": 1610445,
+      "stock": 1632386,
+      "sections": 27528
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "am",
+      "capacity": 573675,
+      "stock": 606574,
+      "sections": 8155
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "sc",
+      "capacity": 968770,
+      "stock": 972240,
+      "sections": 17317
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "ro",
+      "capacity": 272328,
+      "stock": 277415,
+      "sections": 4694
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "rr",
+      "capacity": 88150,
+      "stock": 92832,
+      "sections": 1517
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "ap",
+      "capacity": 131847,
+      "stock": 146902,
+      "sections": 1912
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "pi",
+      "capacity": 461048,
+      "stock": 464748,
+      "sections": 10219
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "to",
+      "capacity": 225070,
+      "stock": 227219,
+      "sections": 4383
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "df",
+      "capacity": 388613,
+      "stock": 390654,
+      "sections": 6965
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "se",
+      "capacity": 270506,
+      "stock": 273428,
+      "sections": 5921
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "ms",
+      "capacity": 418483,
+      "stock": 429695,
+      "sections": 7103
+    },
+    {
+      "window": "protocol",
+      "pace": "median",
+      "uf": "mt",
+      "capacity": 542307,
+      "stock": 552495,
+      "sections": 8283
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "ac",
+      "capacity": 99351,
+      "stock": 160061,
+      "sections": 2270
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "rj",
+      "capacity": 1911930,
+      "stock": 2779346,
+      "sections": 37667
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "rn",
+      "capacity": 404675,
+      "stock": 426996,
+      "sections": 8113
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "pb",
+      "capacity": 458370,
+      "stock": 504751,
+      "sections": 10705
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "ba",
+      "capacity": 1677361,
+      "stock": 1890374,
+      "sections": 35465
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "mg",
+      "capacity": 2680604,
+      "stock": 3327179,
+      "sections": 52034
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "ce",
+      "capacity": 931741,
+      "stock": 971570,
+      "sections": 23755
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "es",
+      "capacity": 493455,
+      "stock": 582221,
+      "sections": 9840
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "sp",
+      "capacity": 5527319,
+      "stock": 6758238,
+      "sections": 103616
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "go",
+      "capacity": 852596,
+      "stock": 1032908,
+      "sections": 15677
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "al",
+      "capacity": 398209,
+      "stock": 490449,
+      "sections": 7101
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "ma",
+      "capacity": 842856,
+      "stock": 1054990,
+      "sections": 18078
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "pr",
+      "capacity": 1397891,
+      "stock": 1553855,
+      "sections": 27135
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "pa",
+      "capacity": 1011320,
+      "stock": 1272157,
+      "sections": 20805
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "pe",
+      "capacity": 992294,
+      "stock": 1096561,
+      "sections": 21412
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "rs",
+      "capacity": 1370738,
+      "stock": 1632386,
+      "sections": 27528
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "am",
+      "capacity": 443346,
+      "stock": 606574,
+      "sections": 8155
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "sc",
+      "capacity": 892573,
+      "stock": 972240,
+      "sections": 17317
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "ro",
+      "capacity": 210877,
+      "stock": 277415,
+      "sections": 4694
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "rr",
+      "capacity": 65231,
+      "stock": 92832,
+      "sections": 1517
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "ap",
+      "capacity": 93020,
+      "stock": 146902,
+      "sections": 1912
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "pi",
+      "capacity": 409347,
+      "stock": 464748,
+      "sections": 10219
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "to",
+      "capacity": 192873,
+      "stock": 227219,
+      "sections": 4383
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "df",
+      "capacity": 359799,
+      "stock": 390654,
+      "sections": 6965
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "se",
+      "capacity": 254907,
+      "stock": 273428,
+      "sections": 5921
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "ms",
+      "capacity": 330588,
+      "stock": 429695,
+      "sections": 7103
+    },
+    {
+      "window": "protocol",
+      "pace": "mean",
+      "uf": "mt",
+      "capacity": 435833,
+      "stock": 552495,
+      "sections": 8283
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "ac",
+      "capacity": 145068,
+      "stock": 160061,
+      "sections": 2270
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "rj",
+      "capacity": 2503606,
+      "stock": 2779346,
+      "sections": 37667
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "rn",
+      "capacity": 426446,
+      "stock": 426996,
+      "sections": 8113
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "pb",
+      "capacity": 489520,
+      "stock": 504751,
+      "sections": 10705
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "ba",
+      "capacity": 1835037,
+      "stock": 1890374,
+      "sections": 35465
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "mg",
+      "capacity": 3256338,
+      "stock": 3327179,
+      "sections": 52034
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "ce",
+      "capacity": 970662,
+      "stock": 971570,
+      "sections": 23755
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "es",
+      "capacity": 575242,
+      "stock": 582221,
+      "sections": 9840
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "sp",
+      "capacity": 6573130,
+      "stock": 6758238,
+      "sections": 103616
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "go",
+      "capacity": 1019276,
+      "stock": 1032908,
+      "sections": 15677
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "al",
+      "capacity": 486247,
+      "stock": 490449,
+      "sections": 7101
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "ma",
+      "capacity": 1038632,
+      "stock": 1054990,
+      "sections": 18078
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "pr",
+      "capacity": 1546298,
+      "stock": 1553855,
+      "sections": 27135
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "pa",
+      "capacity": 1249848,
+      "stock": 1272157,
+      "sections": 20805
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "pe",
+      "capacity": 1073680,
+      "stock": 1096561,
+      "sections": 21412
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "rs",
+      "capacity": 1611940,
+      "stock": 1632386,
+      "sections": 27528
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "am",
+      "capacity": 575819,
+      "stock": 606574,
+      "sections": 8155
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "sc",
+      "capacity": 968980,
+      "stock": 972240,
+      "sections": 17317
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "ro",
+      "capacity": 272906,
+      "stock": 277415,
+      "sections": 4694
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "rr",
+      "capacity": 88428,
+      "stock": 92832,
+      "sections": 1517
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "ap",
+      "capacity": 132344,
+      "stock": 146902,
+      "sections": 1912
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "pi",
+      "capacity": 461360,
+      "stock": 464748,
+      "sections": 10219
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "to",
+      "capacity": 225309,
+      "stock": 227219,
+      "sections": 4383
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "df",
+      "capacity": 389024,
+      "stock": 390654,
+      "sections": 6965
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "se",
+      "capacity": 270817,
+      "stock": 273428,
+      "sections": 5921
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "ms",
+      "capacity": 419291,
+      "stock": 429695,
+      "sections": 7103
+    },
+    {
+      "window": "reference",
+      "pace": "median",
+      "uf": "mt",
+      "capacity": 543447,
+      "stock": 552495,
+      "sections": 8283
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "ac",
+      "capacity": 100285,
+      "stock": 160061,
+      "sections": 2270
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "rj",
+      "capacity": 1986592,
+      "stock": 2779346,
+      "sections": 37667
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "rn",
+      "capacity": 406452,
+      "stock": 426996,
+      "sections": 8113
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "pb",
+      "capacity": 461174,
+      "stock": 504751,
+      "sections": 10705
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "ba",
+      "capacity": 1693773,
+      "stock": 1890374,
+      "sections": 35465
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "mg",
+      "capacity": 2698775,
+      "stock": 3327179,
+      "sections": 52034
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "ce",
+      "capacity": 933994,
+      "stock": 971570,
+      "sections": 23755
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "es",
+      "capacity": 496373,
+      "stock": 582221,
+      "sections": 9840
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "sp",
+      "capacity": 5602543,
+      "stock": 6758238,
+      "sections": 103616
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "go",
+      "capacity": 858502,
+      "stock": 1032908,
+      "sections": 15677
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "al",
+      "capacity": 402131,
+      "stock": 490449,
+      "sections": 7101
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "ma",
+      "capacity": 852027,
+      "stock": 1054990,
+      "sections": 18078
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "pr",
+      "capacity": 1404665,
+      "stock": 1553855,
+      "sections": 27135
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "pa",
+      "capacity": 1020787,
+      "stock": 1272157,
+      "sections": 20805
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "pe",
+      "capacity": 1007379,
+      "stock": 1096561,
+      "sections": 21412
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "rs",
+      "capacity": 1378171,
+      "stock": 1632386,
+      "sections": 27528
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "am",
+      "capacity": 448404,
+      "stock": 606574,
+      "sections": 8155
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "sc",
+      "capacity": 895376,
+      "stock": 972240,
+      "sections": 17317
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "ro",
+      "capacity": 213550,
+      "stock": 277415,
+      "sections": 4694
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "rr",
+      "capacity": 65927,
+      "stock": 92832,
+      "sections": 1517
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "ap",
+      "capacity": 94087,
+      "stock": 146902,
+      "sections": 1912
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "pi",
+      "capacity": 411467,
+      "stock": 464748,
+      "sections": 10219
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "to",
+      "capacity": 194372,
+      "stock": 227219,
+      "sections": 4383
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "df",
+      "capacity": 364665,
+      "stock": 390654,
+      "sections": 6965
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "se",
+      "capacity": 256051,
+      "stock": 273428,
+      "sections": 5921
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "ms",
+      "capacity": 333243,
+      "stock": 429695,
+      "sections": 7103
+    },
+    {
+      "window": "reference",
+      "pace": "mean",
+      "uf": "mt",
+      "capacity": 441015,
+      "stock": 552495,
+      "sections": 8283
+    }
+  ],
+  "turnout_decomposition": {
+    "pairs": 497897,
+    "total_first": 124934069,
+    "total_second": 127854631,
+    "known_first": 124892451,
+    "known_second": 127838734,
+    "pre_first": 121170235,
+    "pre_second": 127804623,
+    "post_first": 3720372,
+    "post_second": 33850,
+    "at_first": 1844,
+    "at_second": 261,
+    "unknown_first": 41618,
+    "unknown_second": 15897,
+    "pre_change_lower": 6592770,
+    "pre_change_upper": 6650285
+  }
+}

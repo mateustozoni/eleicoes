@@ -1,0 +1,10 @@
+aiohttp==3.13.5
+duckdb==1.4.5
+asn1tools==0.169.0
+numpy==2.0.2
+scipy==1.13.1
+pyarrow==19.0.1
+matplotlib==3.9.4
+Pillow==11.3.0
+reportlab==4.4.9
+pypdf==6.10.0

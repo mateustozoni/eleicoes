@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mg/41882/0320/0185",
+    "name": "CHAPADA GAÚCHA",
+    "turn": 2,
+    "last_vote_bsb": 59262,
+    "protocol_start_bsb": 83050,
+    "procedure_confirmed_bsb": 83082,
+    "declared_close_bsb": 83082,
+    "deadline_tail_seconds": 21882,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/mg/41882/0320/0185/p003221-mg-m41882-z0320-s0185-aux.json"
+  },
+  {
+    "id": "rj/58319/0042/0108",
+    "name": "DUAS BARRAS",
+    "turn": 2,
+    "last_vote_bsb": 60800,
+    "protocol_start_bsb": 74624,
+    "procedure_confirmed_bsb": 74731,
+    "declared_close_bsb": 74731,
+    "deadline_tail_seconds": 13531,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/rj/58319/0042/0108/p003221-rj-m58319-z0042-s0108-aux.json"
+  },
+  {
+    "id": "rj/60011/0179/0050",
+    "name": "RIO DE JANEIRO",
+    "turn": 2,
+    "last_vote_bsb": 60718,
+    "protocol_start_bsb": 71856,
+    "procedure_confirmed_bsb": 71866,
+    "declared_close_bsb": 71866,
+    "deadline_tail_seconds": 10666,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/rj/60011/0179/0050/p003221-rj-m60011-z0179-s0050-aux.json"
+  },
+  {
+    "id": "ba/38652/0099/0190",
+    "name": "SANTANA",
+    "turn": 2,
+    "last_vote_bsb": 59142,
+    "protocol_start_bsb": 71424,
+    "procedure_confirmed_bsb": 71509,
+    "declared_close_bsb": 71509,
+    "deadline_tail_seconds": 10309,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/ba/38652/0099/0190/p003221-ba-m38652-z0099-s0190-aux.json"
+  },
+  {
+    "id": "rj/59250/0090/0397",
+    "name": "VOLTA REDONDA",
+    "turn": 2,
+    "last_vote_bsb": 60036,
+    "protocol_start_bsb": 71229,
+    "procedure_confirmed_bsb": 71241,
+    "declared_close_bsb": 71241,
+    "deadline_tail_seconds": 10041,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/rj/59250/0090/0397/p003221-rj-m59250-z0090-s0397-aux.json"
+  },
+  {
+    "id": "rj/59250/0090/0143",
+    "name": "VOLTA REDONDA",
+    "turn": 2,
+    "last_vote_bsb": 59199,
+    "protocol_start_bsb": 71072,
+    "procedure_confirmed_bsb": 71133,
+    "declared_close_bsb": 71133,
+    "deadline_tail_seconds": 9933,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/rj/59250/0090/0143/p003221-rj-m59250-z0090-s0143-aux.json"
+  },
+  {
+    "id": "rj/59250/0090/0075",
+    "name": "VOLTA REDONDA",
+    "turn": 2,
+    "last_vote_bsb": 59547,
+    "protocol_start_bsb": 71046,
+    "procedure_confirmed_bsb": 71061,
+    "declared_close_bsb": 71061,
+    "deadline_tail_seconds": 9861,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/rj/59250/0090/0075/p003221-rj-m59250-z0090-s0075-aux.json"
+  },
+  {
+    "id": "es/57932/0009/0112",
+    "name": "SANTA MARIA DE JETIBÁ",
+    "turn": 2,
+    "last_vote_bsb": 60010,
+    "protocol_start_bsb": null,
+    "procedure_confirmed_bsb": null,
+    "declared_close_bsb": 71001,
+    "deadline_tail_seconds": 9801,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/es/57932/0009/0112/p003221-es-m57932-z0009-s0112-aux.json"
+  },
+  {
+    "id": "rj/59250/0090/0265",
+    "name": "VOLTA REDONDA",
+    "turn": 2,
+    "last_vote_bsb": 60293,
+    "protocol_start_bsb": 70951,
+    "procedure_confirmed_bsb": 70994,
+    "declared_close_bsb": 70994,
+    "deadline_tail_seconds": 9794,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/rj/59250/0090/0265/p003221-rj-m59250-z0090-s0265-aux.json"
+  },
+  {
+    "id": "rj/59250/0090/0244",
+    "name": "VOLTA REDONDA",
+    "turn": 2,
+    "last_vote_bsb": 60531,
+    "protocol_start_bsb": 70847,
+    "procedure_confirmed_bsb": 70884,
+    "declared_close_bsb": 70884,
+    "deadline_tail_seconds": 9684,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/rj/59250/0090/0244/p003221-rj-m59250-z0090-s0244-aux.json"
+  }
+]

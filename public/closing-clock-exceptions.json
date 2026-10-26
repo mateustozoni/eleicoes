@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pa/05096/0042/0264",
+    "name": "PARAGOMINAS",
+    "turn": 2,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/pa/05096/0042/0264/p003221-pa-m05096-z0042-s0264-aux.json",
+    "last_vote_bsb": 60523,
+    "protocol_start_bsb": 61249,
+    "procedure_confirmed_bsb": 61277,
+    "declared_close_bsb": 61280,
+    "declared_minus_confirmed_seconds": 3
+  },
+  {
+    "id": "pe/24295/0136/0090",
+    "name": "IATI",
+    "turn": 2,
+    "source": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/dados/pe/24295/0136/0090/p003221-pe-m24295-z0136-s0090-aux.json",
+    "last_vote_bsb": 59746,
+    "protocol_start_bsb": 61324,
+    "procedure_confirmed_bsb": 61349,
+    "declared_close_bsb": 61352,
+    "declared_minus_confirmed_seconds": 3
+  }
+]
